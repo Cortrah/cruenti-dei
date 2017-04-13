@@ -1,109 +1,90 @@
 <template>
   <div id="app">
-    <stageground></stageground>
+    <Stageground></Stageground>
   </div>
 </template>
 
 <script>
-  import Stageground from './components/Stageground.vue'
+  import Stageground from './layouts/Stageground.vue'
+  import Story from './components/Story.vue'
+  import Catelog from './layouts/Catelog.vue'
 
   export default {
     name: 'app',
     components: {
-      Stageground
+        Stageground
     }
   }
 </script>
 
 <style>
-
-  body {
-    padding: 0px;
-    margin: 0px;
-    background: black;
-    color: white;
-    display: flex;
-  }
-
-  div {
-    padding: 10px;
-    margin: 0px;
-    color: white;
-    display: flex;
-    width: 100%;
-  }
-
-  @font-face {
-    font-family: Max;
-    src: url("assets/fonts/maximilian.ttf") format("truetype");
-  }
-
-  @font-face {
-    font-family: OldStyle;
-    src: url("assets/fonts/oldstyle.ttf") format("truetype");
-  }
-
-  @font-face {
-    font-family: OldStyleItalic;
-    font-style: italic;
-    src: url("assets/fonts/oldstyle_italic.ttf") format("truetype");
-  }
-
-  @font-face {
-    font-family: OldStyleSmallCaps;
-    font-style: italic;
-    src: url("assets/fonts/oldstyle_smallcaps.ttf") format("truetype");
-  }
-
-  .phone-up {
-    display: flex;
-  }
-
-  @media (max-width: 599px) {
-    .phone-only {
-      display: flex;
+    @font-face {
+        font-family: Max;
+        src: url("assets/fonts/maximilian.ttf") format("truetype");
     }
-  }
 
-  @media (min-width: 600px) and (max-width: 899px) {
-    .tablet-portrait-only {
-      display: flex;
+    @font-face {
+        font-family: OldStyle;
+        src: url("assets/fonts/oldstyle.ttf") format("truetype");
     }
-  }
 
-  @media (min-width: 600px) {
-    .tablet-portrait-up {
-      display: flex;
+    @font-face {
+        font-family: OldStyleItalic;
+        font-style: italic;
+        src: url("assets/fonts/oldstyle_italic.ttf") format("truetype");
     }
-  }
 
-  @media (min-width: 900px) and (max-width: 1199px) {
-    .tablet-landscape-only {
-      display: flex;
+    @font-face {
+        font-family: OldStyleSmallCaps;
+        font-style: italic;
+        src: url("assets/fonts/oldstyle_smallcaps.ttf") format("truetype");
     }
-  }
 
-  @media (min-width: 900px) {
-    .tablet-landscape-up {
-      display: flex;
+    @media (max-width: 599px) {
+        .phone-only {
+            display: flex;
+        }
     }
-  }
 
-  @media (min-width: 1200px) and (max-width: 1799px) {
-    .desktop-only {
-      display: flex;
+    @media (min-width: 600px) and (max-width: 899px) {
+        .tablet-portrait-only {
+            display: flex;
+        }
     }
-  }
 
-  @media (min-width: 1200px) {
-    .desktop-up {
-      display: flex;
+    @media (min-width: 600px) {
+        .tablet-portrait-up {
+            display: flex;
+        }
     }
-  }
 
-  @media (min-width: 1800px) {
-    .big-desktop-up {
-      display: flex;
+    @media (min-width: 900px) and (max-width: 1199px) {
+        .tablet-landscape-only {
+            display: flex;
+        }
     }
-  }
+
+    @media (min-width: 900px) {
+        .tablet-landscape-up {
+            display: flex;
+        }
+    }
+
+    @media (min-width: 1200px) and (max-width: 1799px) {
+        .desktop-only {
+            display: flex;
+        }
+    }
+
+    @media (min-width: 1200px) {
+        .desktop-up {
+            display: flex;
+        }
+    }
+
+    @media (min-width: 1800px) {
+        .big-desktop-up {
+            display: flex;
+        }
+    }
 </style>

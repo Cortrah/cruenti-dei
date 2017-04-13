@@ -1,16 +1,14 @@
 <template>
     <div id="stageground">
         <div class="realms">
-            Realms
+            <Errantry></Errantry>
         </div>
         <div class="main">
             <div class="header">
                 header
             </div>
-            <Map></Map>
-            <div class="story">
-                Story
-            </div>
+            <GameMap></GameMap>
+            <Story></Story>
         </div>
         <div class="actions">
             Actions
@@ -19,12 +17,14 @@
 </template>
 
 <script type="text/babel">
-    import Map from './Map.vue'
+    import GameMap from '../components/GameMap.vue'
+    import Story from '../components/Story.vue'
+    import Errantry from '../components/Errantry.vue'
 
     export default {
     name: 'stageground',
     components: {
-        Map
+      GameMap, Story, Errantry
     },
     data () {
       return {
@@ -34,13 +34,34 @@
   }
 </script>
 
-<style>
+<style scoped>
+
+    .stageground {
+        padding: 0;
+        margin: 0;
+        background: black;
+        color: white;
+        display: flex;
+    }
+
+    div {
+        padding: 10px;
+        margin: 0;
+        color: white;
+        display: flex;
+        width: 100%;
+    }
+
+    .phone-up {
+        display: flex;
+    }
+
     .realms {
         background: #b48157;
         color: white;
         min-width: 360px;
         max-width: 360px;
-        height: 1600px;
+        height: 1200px;
     }
 
     .actions {
@@ -70,9 +91,6 @@
     .map {
         background: #d4ac78;
         color: white;
-        height: 50%;
-        width: 100%;
-
     }
 
     .story {
