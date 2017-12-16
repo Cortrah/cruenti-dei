@@ -1,0 +1,57 @@
+Webstorm Projects
+  cruenti-dei
+  stageground
+  space_opera_quasar
+
+  react_hexmap
+  SpaceOperaDesign
+
+ElixirProjects
+  space_opera
+  space_opera_admin
+
+RubymineProjects
+  SpaceOperaRb - has a raphael hexmap and minimal schema that paints forests and hills
+                 design ideas and scaffold with refs are detailed, good design in readme as well
+                 configured for gsap
+  SpaceOperaBk3 - has react-hex-map and a minimal schema
+  discourse - for diplomacy
+
+  OldImperial - rails composer and devise but not much to it
+  tabletop - a rails constructor project, with a good minimal schema, trying devise
+  hexmap - just a minimal schema
+  lemonade-stand and tokafish-poker - just good examples of statemachines and play
+  turnstyles, turnstyles admin - aurelia experiment and admin experiment - can discard
+
+-----------------------------------
+The Plan
+-----------------------------------
+Take OldImperial, the kendo version
+Populate the region names for sahul
+Construct a story post meteor drop that eliminates most of the past to simplify data entry
+Create 2 database schemas
+  a minimal one to test the process that just is used to tie paths to region names in sahul
+  do one projection of this resource for Admin, Dei, Position, Public
+  a complete one that is a current as possible with lessons learned to date
+
+Add the chronicles, the position/finances, leader actions, rules and history
+as the five main things with tabs on the right
+
+The chronincle view has links to names of positions people and places
+
+The map tool has regions, areas in Layers, Markers and Dragable Movement
+leaders left click to drag, right click to choose actions
+
+Add the flex interface for realm actions and finances as the third tab
+
+We may have a second admin view to add dialogs from
+spawn, scrivener and cartographer for data entry
+
+Do a new design document with these ideas bringing things together
+
+The ability to bring in maps to the story with different views and details
+Processing and writing tools for the GM with the ability to add clip art to stories
+
+I pick up the story from where it left off and licence the Game World from Thom
+Phase 2 can be surviving the deluge of the moonfall meteor showers
+Phase 3 will be going into space with small teams on ships to waypoint crucible
