@@ -4,9 +4,9 @@ import Vue from 'vue';
 import Vuex from 'vuex'; // Vue plugins
 
 // Import your custom components.
-import ErrantryList from '../src/components/ErrantryList.vue';
-import OpeningParagraph from '../src/components/OpeningParagraph.vue';
-import TwoColumnLayout from '../src/components/TwoColumnLayout.vue';
+import ErrantryList from '../src/components/TurnResults/ErrantryList.vue';
+import OpeningParagraph from '../src/components/Booklet/OpeningParagraph.vue';
+import TwoColumnLayout from '../src/components/Booklet/TwoColumnLayout.vue';
 
 // Install Vue plugins.
 Vue.use(Vuex);
