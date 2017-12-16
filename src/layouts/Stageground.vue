@@ -19,7 +19,7 @@
 <script type="text/babel">
     import GameMap from '../components/GameMap.vue'
     import Story from '../components/Story.vue'
-    import Errantry from '../components/Errantry.vue'
+    import Errantry from '../components/ErrantryList.vue'
 
     export default {
     name: 'stageground',

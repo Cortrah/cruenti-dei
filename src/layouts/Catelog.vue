@@ -7,7 +7,7 @@
 </template>
 
 <script type="text/babel">
-    import Errantry from '../components/Errantry.vue'
+    import Errantry from '../components/ErrantryList.vue'
 
     export default {
         name: 'catelog',

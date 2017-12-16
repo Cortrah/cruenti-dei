@@ -2,10 +2,16 @@ import Vue from 'vue';
 
 import { storiesOf } from '@storybook/vue';
 
-import MyButton from './MyButton.vue';
+import ErrantryList from '../components/ErrantryList.vue';
+import OpeningParagraph from '../components/OpeningParagraph.vue';
 
-storiesOf('MyButton', module)
-    .add('story as a component', () => ({
-        components: { MyButton },
-        template: '<my-button>rounded</my-button>'
-    }));
+storiesOf('PDF Layout Elements', module)
+    .add('Free Companies', () => ({
+        components: { ErrantryList },
+        template: '<ErrantryList/>'
+    }))
+    .add('Opening Paragraph', () => ({
+        components: { OpeningParagraph },
+        template: '<OpeningParagraph/>'
+}));
+
