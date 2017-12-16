@@ -1,0 +1,34 @@
+{
+  "maps": [
+    {
+      "id": "0",
+      "name": "None",
+      "bg": "none.swf",
+      "isSecret": false
+    },
+    {
+      "id": "1",
+      "name": "Sahul",
+      "bg": "Sathul.png",
+      "isSecret": false
+    },
+    {
+      "id": "2",
+      "name": "Oratoa",
+      "bg": "Oratoa.xml",
+      "isSecret": false
+    },
+    {
+      "id": "3",
+      "name": "Underlands",
+      "bg": "Underlands.swf",
+      "isSecret": false
+    },
+    {
+      "id": "4",
+      "name": "Efan",
+      "bg": "Efan.svg",
+      "isSecret": true
+    }
+  ]
+}

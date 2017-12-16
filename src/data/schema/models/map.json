@@ -1,0 +1,29 @@
+{
+  "name": "Map",
+  "base": "PersistedModel",
+  "strict": false,
+  "idInjection": false,
+  "properties": {
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "bg": {
+      "type": "string"
+    },
+    "isSecret": {
+      "type": "boolean",
+      "required": true
+    },
+    "id": {
+      "type": "string",
+      "id": true,
+      "required": true,
+      "index": true
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": []
+}

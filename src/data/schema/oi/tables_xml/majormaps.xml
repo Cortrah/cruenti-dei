@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+<MAJORMAPS>
+<MAJORMAP>
+<id>1</id>
+<bg>Sathul.swf</bg>
+<x>0</x>
+<y>0</y>
+<game_id>1</game_id>
+<is_secret></is_secret>
+</MAJORMAP>
+<MAJORMAP>
+<id>2</id>
+<bg>Undergrounds.swf</bg>
+<x>1400</x>
+<y>900</y>
+<game_id>1</game_id>
+<is_secret></is_secret>
+</MAJORMAP>
+</MAJORMAPS>

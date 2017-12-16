@@ -1,0 +1,140 @@
+{
+"trainingtypes":[
+{
+"id":"0",
+"name":"Untrained",
+"code":"un",
+"effectXml":" ",
+"descriptionXml":" ",
+"movementRulesId":""
+},
+{
+"id":"1",
+"name":"General",
+"code":"gn",
+"effectXml":" ",
+"descriptionXml":" ",
+"movementRulesId":""
+},
+{
+"id":"2",
+"name":"Wizard",
+"code":"wz",
+"effectXml":" ",
+"descriptionXml":" ",
+"movementRulesId":""
+},
+{
+"id":"3",
+"name":"Scholar",
+"code":"sc",
+"effectXml":" ",
+"descriptionXml":" ",
+"movementRulesId":""
+},
+{
+"id":"4",
+"name":"Lich",
+"code":"li",
+"effectXml":" ",
+"descriptionXml":" ",
+"movementRulesId":""
+},
+{
+"id":"5",
+"name":"Admiral",
+"code":"ad",
+"effectXml":" ",
+"descriptionXml":" ",
+"movementRulesId":""
+},
+{
+"id":"6",
+"name":"Air Marshal",
+"code":"am",
+"effectXml":" ",
+"descriptionXml":" ",
+"movementRulesId":""
+},
+{
+"id":"7",
+"name":"Spy",
+"code":"sp",
+"effectXml":" ",
+"descriptionXml":" ",
+"movementRulesId":""
+},
+{
+"id":"8",
+"name":"Alchemist",
+"code":"al",
+"effectXml":" ",
+"descriptionXml":" ",
+"movementRulesId":""
+},
+{
+"id":"9",
+"name":"Historian",
+"code":"hi",
+"effectXml":" ",
+"descriptionXml":" ",
+"movementRulesId":""
+},
+{
+"id":"10",
+"name":"Map Maker",
+"code":"mm",
+"effectXml":" ",
+"descriptionXml":" ",
+"movementRulesId":""
+},
+{
+"id":"11",
+"name":"Engineer",
+"code":"eg",
+"effectXml":" ",
+"descriptionXml":" ",
+"movementRulesId":""
+},
+{
+"id":"12",
+"name":"Jurist",
+"code":"ju",
+"effectXml":" ",
+"descriptionXml":" ",
+"movementRulesId":""
+},
+{
+"id":"13",
+"name":"Medical Doctor",
+"code":"md",
+"effectXml":" ",
+"descriptionXml":" ",
+"movementRulesId":""
+},
+{
+"id":"14",
+"name":"Theologian",
+"code":"th",
+"effectXml":" ",
+"descriptionXml":" ",
+"movementRulesId":""
+},
+{
+"id":"15",
+"name":"Vampire",
+"code":"vp",
+"effectXml":" ",
+"descriptionXml":" ",
+"movementRulesId":""
+},
+{
+"id":"16",
+"name":"Navigator",
+"code":"na",
+"effectXml":" ",
+"descriptionXml":" ",
+"movementRulesId":""
+}
+]
+}

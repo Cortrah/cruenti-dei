@@ -1,0 +1,18 @@
+{
+  "regions": [
+    {
+      "id": "0",
+      "name": "Unknown",
+      "x": "0",
+      "y": "0",
+      "path": " ",
+      "code": "",
+      "cx": "0",
+      "cy": "0",
+      "bordersVolcano": false,
+      "isSecret": false,
+      "mapId": "0",
+      "terrainTypeId": "0"
+    }
+  ]
+}

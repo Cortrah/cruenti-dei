@@ -1,0 +1,22 @@
+{
+  "realms": [
+	{
+	  "id": "0",
+	  "name": "",
+	  "personaId": "0",
+	  "firstTurn": "0",
+	  "lastTurn": "0",
+    "color": "0",
+	  "currentTurnStatusId":"0"
+	},
+	{
+	  "id": "0",
+	  "name": "",
+	  "personaId": "0",
+	  "firstTurn": "0",
+	  "lastTurn": "0",
+    "color": "0",
+	  "currentTurnStatusId":"0"
+	}
+  ]
+}

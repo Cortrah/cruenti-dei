@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<UNITTYPESBUILDLOCATIONTYPES>
+<UNITTYPESBUILDLOCATIONTYPE>
+<id>1</id>
+<unittypes_id>10</unittypes_id>
+<buildlocationtypes_id>4</buildlocationtypes_id>
+</UNITTYPESBUILDLOCATIONTYPE>
+<UNITTYPESBUILDLOCATIONTYPE>
+<id>2</id>
+<unittypes_id>5</unittypes_id>
+<buildlocationtypes_id>4</buildlocationtypes_id>
+</UNITTYPESBUILDLOCATIONTYPE>
+<UNITTYPESBUILDLOCATIONTYPE>
+<id>3</id>
+<unittypes_id>2</unittypes_id>
+<buildlocationtypes_id>1</buildlocationtypes_id>
+</UNITTYPESBUILDLOCATIONTYPE>
+<UNITTYPESBUILDLOCATIONTYPE>
+<id>4</id>
+<unittypes_id>1</unittypes_id>
+<buildlocationtypes_id>1</buildlocationtypes_id>
+</UNITTYPESBUILDLOCATIONTYPE>
+</UNITTYPESBUILDLOCATIONTYPES>

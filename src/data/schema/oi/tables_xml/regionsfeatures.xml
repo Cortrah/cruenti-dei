@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+<REGIONSFEATURES>
+<REGIONSFEATURE>
+<id>1</id>
+<featuretype_id>2</featuretype_id>
+<region_id>4</region_id>
+<display_symbol>0</display_symbol>
+<display_x>0</display_x>
+<display_y>0</display_y>
+</REGIONSFEATURE>
+<REGIONSFEATURE>
+<id>2</id>
+<featuretype_id>2</featuretype_id>
+<region_id>3</region_id>
+<display_symbol>0</display_symbol>
+<display_x>0</display_x>
+<display_y>0</display_y>
+</REGIONSFEATURE>
+</REGIONSFEATURES>

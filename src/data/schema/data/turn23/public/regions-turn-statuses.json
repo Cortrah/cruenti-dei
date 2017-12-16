@@ -1,0 +1,24 @@
+{
+  "regionsTurnStatuses": [
+    {
+      "id": "",
+      "gp": "0",
+      "ap": "0",
+      "nfp": "0",
+      "mana": "0",
+      "pwb": "0",
+      "tv": "0",
+      "kindredId": "0",
+      "religionId": "0",
+      "provinceId": "0",
+      "isSecret": "false",
+      "hasRoad": "false",
+      "isInimical": "false",
+      "controllingRealmId": "0",
+      "allegianceTypeId": "0",
+      "secondtributorrealmId": "0",
+      "publicMarkerIds": "[1,2,3]",
+      "gmNotes": " "
+    }
+  ]
+}

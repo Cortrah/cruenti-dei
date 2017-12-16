@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<REALMSNONHOSTILEPARTNERS>
+<REALMSNONHOSTILEPARTNER>
+<id>1</id>
+<partner_realm1_id>2</partner_realm1_id>
+<partner_realm2_id>8</partner_realm2_id>
+</REALMSNONHOSTILEPARTNER>
+<REALMSNONHOSTILEPARTNER>
+<id>2</id>
+<partner_realm1_id>2</partner_realm1_id>
+<partner_realm2_id>3</partner_realm2_id>
+</REALMSNONHOSTILEPARTNER>
+<REALMSNONHOSTILEPARTNER>
+<id>3</id>
+<partner_realm1_id>4</partner_realm1_id>
+<partner_realm2_id>3</partner_realm2_id>
+</REALMSNONHOSTILEPARTNER>
+</REALMSNONHOSTILEPARTNERS>

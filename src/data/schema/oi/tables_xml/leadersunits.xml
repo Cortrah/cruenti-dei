@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<LEADERSUNITS>
+<LEADERSUNIT>
+<id>1</id>
+<leader_id>3</leader_id>
+<units_id>3</units_id>
+</LEADERSUNIT>
+<LEADERSUNIT>
+<id>2</id>
+<leader_id>2</leader_id>
+<units_id>6</units_id>
+</LEADERSUNIT>
+<LEADERSUNIT>
+<id>3</id>
+<leader_id>2</leader_id>
+<units_id>3</units_id>
+</LEADERSUNIT>
+</LEADERSUNITS>

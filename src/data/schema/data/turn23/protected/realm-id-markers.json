@@ -1,0 +1,270 @@
+{
+  "realmMarkers": [
+    {
+      "mapId": "1",
+      "markers": [
+        {
+          "markerId": "xx",
+          "markerSetId": "22",
+          "turn": "23",
+          "color": "3368601",
+          "labelBgColor": "0",
+          "labelBgAlpha": "0",
+          "Phase": [
+            {
+              "map": "Oratoa",
+              "label": "28zi 5lc",
+              "symbol": "0",
+              "tooltip": "Lagat",
+              "x": "1552",
+              "y": "1725",
+              "index": "0"
+            },
+            {
+              "map": "Oratoa",
+              "label": "28zi 5lc",
+              "symbol": "0",
+              "tooltip": "Lagat",
+              "x": "1552",
+              "y": "1725",
+              "index": "1"
+            },
+            {
+              "map": "Oratoa",
+              "label": "28zi 5lc",
+              "symbol": "0",
+              "tooltip": "Lagat",
+              "x": "1552",
+              "y": "1725",
+              "index": "2"
+            },
+            {
+              "map": "Oratoa",
+              "label": "28zi 5lc",
+              "symbol": "0",
+              "tooltip": "Lagat",
+              "x": "1552",
+              "y": "1725",
+              "index": "3"
+            },
+            {
+              "map": "Oratoa",
+              "label": "28zi 5lc",
+              "symbol": "0",
+              "tooltip": "Lagat",
+              "x": "1552",
+              "y": "1725",
+              "index": "4"
+            },
+            {
+              "map": "Oratoa",
+              "label": "28zi 5lc",
+              "symbol": "0",
+              "tooltip": "Lagat",
+              "x": "1552",
+              "y": "1725",
+              "index": "5"
+            },
+            {
+              "map": "Oratoa",
+              "label": "28zi 5lc",
+              "symbol": "0",
+              "tooltip": "Lagat",
+              "x": "1552",
+              "y": "1725",
+              "index": "6"
+            },
+            {
+              "map": "Oratoa",
+              "label": "28zi 5lc",
+              "symbol": "0",
+              "tooltip": "Lagat",
+              "x": "1552",
+              "y": "1725",
+              "index": "7"
+            },
+            {
+              "map": "Oratoa",
+              "label": "28zi 5lc",
+              "symbol": "0",
+              "tooltip": "Lagat",
+              "x": "1552",
+              "y": "1725",
+              "index": "8"
+            },
+            {
+              "map": "Oratoa",
+              "label": "28zi 5lc",
+              "symbol": "0",
+              "tooltip": "Lagat",
+              "x": "1552",
+              "y": "1725",
+              "index": "9"
+            },
+            {
+              "map": "Oratoa",
+              "label": "28zi 5lc",
+              "symbol": "0",
+              "tooltip": "Lagat",
+              "x": "1552",
+              "y": "1725",
+              "index": "10"
+            },
+            {
+              "map": "Oratoa",
+              "label": "28zi 5lc",
+              "symbol": "0",
+              "tooltip": "Lagat",
+              "x": "1552",
+              "y": "1725",
+              "index": "11"
+            },
+            {
+              "map": "Oratoa",
+              "label": "28zi 5lc",
+              "symbol": "0",
+              "tooltip": "Lagat",
+              "x": "1552",
+              "y": "1725",
+              "index": "12"
+            },
+            {
+              "map": "Oratoa",
+              "label": "28zi 5lc",
+              "symbol": "0",
+              "tooltip": "Lagat",
+              "x": "1552",
+              "y": "1725",
+              "index": "13"
+            },
+            {
+              "map": "Oratoa",
+              "label": "28zi 5lc",
+              "symbol": "0",
+              "tooltip": "Lagat",
+              "x": "1552",
+              "y": "1725",
+              "index": "14"
+            },
+            {
+              "map": "Oratoa",
+              "label": "28zi 5lc",
+              "symbol": "0",
+              "tooltip": "Lagat",
+              "x": "1552",
+              "y": "1725",
+              "index": "15"
+            },
+            {
+              "map": "Oratoa",
+              "label": "28zi 5lc",
+              "symbol": "0",
+              "tooltip": "Lagat",
+              "x": "1552",
+              "y": "1725",
+              "index": "16"
+            },
+            {
+              "map": "Oratoa",
+              "label": "28zi 5lc",
+              "symbol": "0",
+              "tooltip": "Lagat",
+              "x": "1552",
+              "y": "1725",
+              "index": "17"
+            },
+            {
+              "map": "Oratoa",
+              "label": "28zi 5lc",
+              "symbol": "0",
+              "tooltip": "Lagat",
+              "x": "1552",
+              "y": "1725",
+              "index": "18"
+            },
+            {
+              "map": "Oratoa",
+              "label": "28zi 5lc",
+              "symbol": "0",
+              "tooltip": "Lagat",
+              "x": "1552",
+              "y": "1725",
+              "index": "19"
+            },
+            {
+              "map": "Oratoa",
+              "label": "28zi 5lc",
+              "symbol": "0",
+              "tooltip": "Lagat",
+              "x": "1552",
+              "y": "1725",
+              "index": "20"
+            },
+            {
+              "map": "Oratoa",
+              "label": "28zi 5lc",
+              "symbol": "0",
+              "tooltip": "Lagat",
+              "x": "1552",
+              "y": "1725",
+              "index": "21"
+            },
+            {
+              "map": "Oratoa",
+              "label": "28zi 5lc",
+              "symbol": "0",
+              "tooltip": "Lagat",
+              "x": "1552",
+              "y": "1725",
+              "index": "22"
+            },
+            {
+              "map": "Oratoa",
+              "label": "28zi 5lc",
+              "symbol": "0",
+              "tooltip": "Lagat",
+              "x": "1552",
+              "y": "1725",
+              "index": "23"
+            },
+            {
+              "map": "Oratoa",
+              "label": "28zi 5lc",
+              "symbol": "0",
+              "tooltip": "Lagat",
+              "x": "1552",
+              "y": "1725",
+              "index": "24"
+            },
+            {
+              "map": "Oratoa",
+              "label": "28zi 5lc",
+              "symbol": "0",
+              "tooltip": "Lagat",
+              "x": "1552",
+              "y": "1725",
+              "index": "25"
+            }
+          ]
+        }
+      ]
+    },{
+      "mapId": "2",
+      "markers": [
+        {}
+      ]
+    },{
+      "mapId": "3",
+      "markers": [
+        {}
+      ]
+    },{
+      "mapId": "4",
+      "markers": [
+        {}
+      ]
+    }
+
+  ]
+}
+

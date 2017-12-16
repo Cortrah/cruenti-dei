@@ -1,0 +1,324 @@
+{
+  "turn": {
+    "turnNumber": "23",
+    "realm": {
+      "id": "1",
+      "name": "Kommolek",
+      "religionId": "1",
+      "realmType": "County Palatine",
+      "notes": "ok",
+      "religiousStrength": "6.6",
+      "isi": "1123.8",
+      "tv": "7",
+      "mana": "73",
+      "regionGp": "23",
+      "urbanGp": "18",
+      "ictGp": "14",
+      "pwbGp": "481",
+      "savedGp": "300",
+      "prodAp": "72",
+      "savedAp": "22",
+      "totalAp": "94",
+      "nfp": "34",
+      "sfp": "0",
+      "armySupport": "221",
+      "cavQr": "6",
+      "infQr": "7",
+      "sgeQr": "6",
+      "navQr": "6",
+      "airQr": "6",
+      "nsrQr": "7",
+      "irQr": "5",
+      "blQr": "5",
+      "rsQr": "7",
+      "cavInvestment": "256",
+      "infInvestment": "34",
+      "sgeInvestment": "455",
+      "navInvestment": "300",
+      "airInvestment": "125",
+      "irInvestment": "50",
+      "blInvestment": "200",
+      "nsrInvestment": "350",
+      "gmOnlyNotes": " things",
+      "displayColor": "26265",
+      "corruptionPercentage": "1",
+      "plaguePercentage": "0",
+      "isSecret": "0",
+      "homeregionId": "5",
+      "capitallocationId": "1017"
+    },
+    "controlledRegions": {"ids": "5,900,966,967"},
+    "tradePartners": {"ids": "5,6,7,8,10"},
+    "initiateTradeWith": {
+    },
+    "ceaseTradeWith": {
+    },
+    "incomeExpenses": {
+      "resourcesFromOthers": {
+      },
+      "resourcesToOthers": {
+      },
+      "itemsToOthers": {
+      },
+      "unitsToOthers": {
+      },
+      "itemsFromOthers": {
+      },
+      "unitsFromOthers": {
+      },
+      "buildUnits": {
+      },
+      "builds": {
+      },
+      "demobForBuilds": {
+      },
+      "manaUsed": {
+      },
+      "miscIncomeEntries": {
+      },
+      "miscExpenseEntries": {
+      },
+      "revenue": {
+        "internationalTrade": "0",
+        "gpFromSacrifice": "0",
+        "manaFromSacrifice": "0",
+        "miscelaniousGp": "0",
+        "miscelaniousAp": "0",
+        "miscelaniousNfp": "0",
+        "miscelaniousSfp": "0",
+        "miscelaniousMana": "0"
+      },
+      "expenses": {
+        "sfGp": "0",
+        "sfAp": "0",
+        "sfNfp": "0",
+        "sfSfp": "0",
+        "sfMana": "0",
+        "armySupportAp": "0",
+        "tithGp": "0",
+        "tithAp": "0",
+        "cavInv": "0",
+        "infInv": "0",
+        "sgeInv": "0",
+        "navInv": "0",
+        "airInv": "0",
+        "nsrInv": "0",
+        "nsrManaInv": "0",
+        "irInv": "0",
+        "irNfpInv": "0",
+        "blInv": "0",
+        "blNfpInv": "0",
+        "blSfpInv": "0",
+        "pwInv": "0",
+        "pwNfpInv": "0",
+        "pwSfpInv": "0",
+        "leaderManaUse": "0"
+      }
+    },
+    "garrisonedItems": [
+      {
+        "item": {
+          "id": "96",
+          "code": "A1",
+          "name": "A1",
+          "manaCost": "0",
+          "apCost": "0",
+          "nfpCost": "0",
+          "gpCost": "0",
+          "itemDescription": " ",
+          "itemEffect": " ",
+          "spellId": "0",
+          "manaCharge": "0",
+          "blankCost": "0",
+          "realmId": "1"
+        }
+      },
+      {
+        "item": {
+          "id": "96",
+          "code": "A1",
+          "name": "A1",
+          "manaCost": "0",
+          "apCost": "0",
+          "nfpCost": "0",
+          "gpCost": "0",
+          "itemDescription": " ",
+          "itemEffect": " ",
+          "spellId": "0",
+          "manaCharge": "0",
+          "blankCost": "0",
+          "realmId": "1"
+        }
+      }
+    ],
+    "garrisonedUnits": [
+      {
+        "unittypegroup": {
+          "id": "189",
+          "unittypeId": "1",
+          "count": "5",
+          "homeregionId": "0",
+          "realmId": "1",
+          "symbol": "0",
+          "x": "0",
+          "y": "0",
+          "name": "5 li",
+          "isAllied": "0",
+          "airCargoCapacity": "0",
+          "groundCargoCapacity": "0",
+          "navalCargoCapacity": "0",
+          "airCargoUsed": "0",
+          "groundCargoUsed": "0",
+          "navalCargoUsed": "0"
+        }
+      },
+      {
+        "unittypegroup": {
+          "id": "189",
+          "unittypeId": "1",
+          "count": "5",
+          "homeregionId": "0",
+          "realmId": "1",
+          "symbol": "0",
+          "x": "0",
+          "y": "0",
+          "name": "5 li",
+          "isAllied": "0",
+          "airCargoCapacity": "0",
+          "groundCargoCapacity": "0",
+          "navalCargoCapacity": "0",
+          "airCargoUsed": "0",
+          "groundCargoUsed": "0",
+          "navalCargoUsed": "0"
+        }
+      }
+    ],
+    "leaders": [
+      {
+        "leader": {
+          "id": "10",
+          "homeregionId": "5",
+          "trainingId": "1",
+          "kindredId": "0",
+          "name": "Annavas'Ǎ'",
+          "code": "R1",
+          "command": "1",
+          "loyalty": "1",
+          "combat": "10",
+          "diplomacy": "8",
+          "sorcery": "9",
+          "age": "67",
+          "sex": " M",
+          "notes": "Kommolek Leader notes 5li 5mc two crystals",
+          "caryingGp": "10",
+          "caryingAp": "1",
+          "symbol": "0",
+          "x": "0",
+          "y": "0",
+          "locationId": "806",
+          "agenttypeId": "1",
+          "realmId": "1",
+          "regionId": "733",
+          "startingLeaderUnitTypeGroups": [
+            {
+              "unittypegroup": {
+                "id": "195",
+                "unittypeId": "19",
+                "count": "40",
+                "homeregionId": "0",
+                "realmId": "1",
+                "symbol": "0",
+                "x": "0",
+                "y": "0",
+                "name": "40 sw",
+                "isAllied": "0",
+                "airCargoCapacity": "0",
+                "groundCargoCapacity": "0",
+                "navalCargoCapacity": "0",
+                "airCargoUsed": "0",
+                "groundCargoUsed": "0",
+                "navalCargoUsed": "0"
+              }
+            },
+            {
+              "unittypegroup": {
+                "id": "193",
+                "unittypeId": "19",
+                "count": "40",
+                "homeregionId": "0",
+                "realmId": "1",
+                "symbol": "0",
+                "x": "0",
+                "y": "0",
+                "name": "40 sw",
+                "isAllied": "0",
+                "airCargoCapacity": "0",
+                "groundCargoCapacity": "0",
+                "navalCargoCapacity": "0",
+                "airCargoUsed": "0",
+                "groundCargoUsed": "0",
+                "navalCargoUsed": "0"
+              }
+            }
+          ],
+          "startingLeaderItems": [
+            {
+              "item": {
+                "id": "96",
+                "code": "Th1",
+                "name": "Thing 1",
+                "manaCost": "0",
+                "apCost": "0",
+                "nfpCost": "0",
+                "gpCost": "0",
+                "itemDescription": " ",
+                "itemEffect": " ",
+                "spellId": "0",
+                "manaCharge": "0",
+                "blankCost": "0",
+                "realmId": "1"
+              }
+            }
+          ],
+          "leaderActions": [
+            {
+              "leaderaction": {
+                "id": "0",
+                "name": "Do Stuff",
+                "atRegionId": "0",
+                "atLocationId": "0",
+                "toRegionId": "0",
+                "toLocationId": "0",
+                "actioncategoryId": "7",
+                "gpCost": "0",
+                "apCost": "0",
+                "nfpCost": "0",
+                "sfpCost": "0",
+                "manaCost": "0",
+                "movementtypeId": "0",
+                "bordertypeId": "0",
+                "toterraintypeId": "0",
+                "row": "0",
+                "startingPhase": "0",
+                "isAtPhaseStart": "1",
+                "movementCost": "0",
+                "isHostile": "0",
+                "isHasted": "0",
+                "usesRoad": "0",
+                "isSecret": "0",
+                "isWithothers": "0",
+                "isPrimarytarget": "0",
+                "totalManaCost": "0",
+                "unitytypegroupId": "0",
+                "unitCount": "0",
+                "itemId": "0",
+                "otherregionId": "0",
+                "otherlocationId": "0"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

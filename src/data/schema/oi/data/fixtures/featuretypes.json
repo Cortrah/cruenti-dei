@@ -1,0 +1,46 @@
+{
+"RECORDS":[
+{
+"id":"0",
+"name":"None",
+"feature_description":" ",
+"code":"?"
+},
+{
+"id":"1",
+"name":"Ruins",
+"feature_description":" ",
+"code":"R"
+},
+{
+"id":"2",
+"name":"Battlefield",
+"feature_description":" ",
+"code":"B"
+},
+{
+"id":"3",
+"name":"GryphonNest",
+"feature_description":" ",
+"code":"Gr"
+},
+{
+"id":"4",
+"name":"ElephantHerd",
+"feature_description":" ",
+"code":"El"
+},
+{
+"id":"7",
+"name":"HolySite",
+"feature_description":" ",
+"code":"Hs"
+},
+{
+"id":"8",
+"name":"Mystery",
+"feature_description":" ",
+"code":"X"
+}
+]
+}

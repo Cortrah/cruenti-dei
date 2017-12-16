@@ -1,0 +1,58 @@
+{
+"religions":[
+{
+"id":"0",
+"name":"Unknown",
+"effectXml":" ",
+"descriptionXml":" "
+},
+{
+"id":"1",
+"name":"Yagnarist",
+"effectXml":" ",
+"descriptionXml":" "
+},
+{
+"id":"2",
+"name":"Illuvarian",
+"effectXml":" ",
+"descriptionXml":" "
+},
+{
+"id":"3",
+"name":"Urdan",
+"effectXml":" ",
+"descriptionXml":" "
+},
+{
+"id":"4",
+"name":"Tarotist",
+"effectXml":" ",
+"descriptionXml":" "
+},
+{
+"id":"5",
+"name":"Atheist",
+"effectXml":" ",
+"descriptionXml":" "
+},
+{
+"id":"6",
+"name":"Strength",
+"effectXml":" ",
+"descriptionXml":" "
+},
+{
+"id":"7",
+"name":"Any",
+"effectXml":" ",
+"descriptionXml":" "
+},
+{
+"id":"8",
+"name":"Raven",
+"effectXml":" ",
+"descriptionXml":" "
+}
+]
+}

@@ -1,0 +1,58 @@
+{
+"RECORDS":[
+{
+"id":"0",
+"name":"Unknown",
+"effect_xml":" ",
+"description_xml":" "
+},
+{
+"id":"1",
+"name":"Yagnarist",
+"effect_xml":" ",
+"description_xml":" "
+},
+{
+"id":"2",
+"name":"Illuvarian",
+"effect_xml":" ",
+"description_xml":" "
+},
+{
+"id":"3",
+"name":"Urdan",
+"effect_xml":" ",
+"description_xml":" "
+},
+{
+"id":"4",
+"name":"Tarotist",
+"effect_xml":" ",
+"description_xml":" "
+},
+{
+"id":"5",
+"name":"Atheist",
+"effect_xml":" ",
+"description_xml":" "
+},
+{
+"id":"6",
+"name":"Strength",
+"effect_xml":" ",
+"description_xml":" "
+},
+{
+"id":"7",
+"name":"Any",
+"effect_xml":" ",
+"description_xml":" "
+},
+{
+"id":"8",
+"name":"Raven",
+"effect_xml":" ",
+"description_xml":" "
+}
+]
+}

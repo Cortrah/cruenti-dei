@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<REALMSTRADEPARTNERS>
+<REALMSTRADEPARTNER>
+<id>1</id>
+<partner_realm1_id>6</partner_realm1_id>
+<partner_realm2_id>1</partner_realm2_id>
+</REALMSTRADEPARTNER>
+<REALMSTRADEPARTNER>
+<id>2</id>
+<partner_realm1_id>5</partner_realm1_id>
+<partner_realm2_id>1</partner_realm2_id>
+</REALMSTRADEPARTNER>
+<REALMSTRADEPARTNER>
+<id>3</id>
+<partner_realm1_id>7</partner_realm1_id>
+<partner_realm2_id>1</partner_realm2_id>
+</REALMSTRADEPARTNER>
+<REALMSTRADEPARTNER>
+<id>4</id>
+<partner_realm1_id>1</partner_realm1_id>
+<partner_realm2_id>8</partner_realm2_id>
+</REALMSTRADEPARTNER>
+</REALMSTRADEPARTNERS>

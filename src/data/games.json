@@ -1,0 +1,33 @@
+{
+  "games": [
+    {
+      "id": "0",
+      "name": "None",
+      "currentTurnId": "0",
+      "status": "preparing",
+      "datapath": ""
+    },
+    {
+      "id": "1",
+      "name": "FireAndIce",
+      "currentTurnId": "24",
+      "status": "processing",
+      "datapath": ""
+    },
+    {
+      "id": "2",
+      "name": "",
+      "currentTurnId": "0",
+      "status": "playing",
+      "datapath": ""
+    },
+    {
+      "id": "3",
+      "name": "",
+      "currentTurnId": "0",
+      "status": "completed",
+      "datapath": ""
+    }
+
+  ]
+}

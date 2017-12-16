@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+<LOCATIONUNITS>
+<LOCATIONUNIT>
+<id>1</id>
+<location_id>4</location_id>
+<units_id>2</units_id>
+</LOCATIONUNIT>
+<LOCATIONUNIT>
+<id>2</id>
+<location_id>5</location_id>
+<units_id>6</units_id>
+</LOCATIONUNIT>
+</LOCATIONUNITS>

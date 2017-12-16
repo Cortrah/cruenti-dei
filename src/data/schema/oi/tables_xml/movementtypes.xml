@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<MOVEMENTTYPES>
+<MOVEMENTTYPE>
+<id>1</id>
+<movement_type_name>Land</movement_type_name>
+</MOVEMENTTYPE>
+<MOVEMENTTYPE>
+<id>2</id>
+<movement_type_name>Naval</movement_type_name>
+</MOVEMENTTYPE>
+<MOVEMENTTYPE>
+<id>3</id>
+<movement_type_name>Air</movement_type_name>
+</MOVEMENTTYPE>
+<MOVEMENTTYPE>
+<id>4</id>
+<movement_type_name>Gate</movement_type_name>
+</MOVEMENTTYPE>
+<MOVEMENTTYPE>
+<id>5</id>
+<movement_type_name>Spell</movement_type_name>
+</MOVEMENTTYPE>
+</MOVEMENTTYPES>

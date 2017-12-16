@@ -1,0 +1,73 @@
+<Turn turnNumber="23">
+  <RealmsVo id="1" name="Kommolek" religionId="1" realmType="County Palatine" notes="oki" religiousStrength="6.6" isi="1123.8" tv="7" mana="73" regionGp="23" urbanGp="18" ictGp="14" pwbGp="481" savedGp="300" prodAp="72" savedAp="22" totalAp="94" nfp="34" sfp="0" armySupport="221" cavQr="6" infQr="7" sgeQr="6" navQr="6" airQr="6" nsrQr="7" irQr="5" blQr="5" rsQr="7" cavInvestment="256" infInvestment="34" sgeInvestment="455" navInvestment="300" airInvestment="125" irInvestment="50" blInvestment="200" nsrInvestment="350" gmOnlyNotes=" things" displayColor="26265" corruptionPercentage="1" plaguePercentage="0" isSecret="0" homeregionId="5" realmDescription="" capitallocationId="1017"/>
+  <PlayersVo id="1" gameId="1" realmId="1" firstName="Cortlandt" lastName="Winters" email="cort@cortwinters.net" password="octofish" credits="12" name="General Scum"/>
+  <OwnedRegions ids="5,900,966,967"/>
+  <NonhostileRegions ids=""/>
+  <TradePartners ids="5,6,7,8,10"/>
+  <InitiateTradeWith/>
+  <CeaseTradeWith/>
+  <IncomeExpenses>
+    <ResourcesFromOthers/>
+    <ItemsFromOthers/>
+    <UnitsFromOthers/>
+    <ItemsToOthers/>
+    <UnitsToOthers/>
+    <ResourcesToOthers/>
+    <Builds/>
+    <UpgradingFromItems/>
+    <DemobForBuilds/>
+    <BuildUnits/>
+    <UpgradingFromUnits/>
+    <MiscIncomeEntries/>
+    <MiscExpenseEntries/>
+    <Revenue internationalTrade="0" gpFromSacrifice="0" manaFromSacrifice="0" miscelaniousGp="0" miscelaniousAp="0" miscelaniousNfp="0" miscelaniousSfp="0" miscelaniousMana="0"/>
+    <Expenses sfGp="0" sfAp="0" sfNfp="0" sfSfp="0" sfMana="0" armySupportAp="0" tithGp="0" tithAp="0" cavInv="0" infInv="0" sgeInv="0" navInv="0" airInv="0" nsrInv="0" nsrManaInv="0" irInv="0" irNfpInv="0" blInv="0" blNfpInv="0" blSfpInv="0" pwInv="0" pwNfpInv="0" pwSfpInv="0" leaderManaUse="0"/>
+  </IncomeExpenses>
+  <GarrisonedItems>
+    <ItemsVo id="96" code="A1" name="A1" manaCost="0" apCost="0" nfpCost="0" gpCost="0" itemDescription=" " itemEffect=" " spellId="0" manaCharge="0" blankCost="0" realmId="1"/>
+    <ItemsVo id="97" code="B4" name="B4" manaCost="0" apCost="0" nfpCost="0" gpCost="0" itemDescription=" " itemEffect=" " spellId="0" manaCharge="0" blankCost="0" realmId="1"/>
+    <ItemsVo id="98" code="C3" name="C3" manaCost="0" apCost="0" nfpCost="0" gpCost="0" itemDescription=" " itemEffect=" " spellId="0" manaCharge="0" blankCost="0" realmId="1"/>
+    <ItemsVo id="99" code="z3" name="z3" manaCost="0" apCost="0" nfpCost="0" gpCost="0" itemDescription=" " itemEffect=" " spellId="0" manaCharge="0" blankCost="0" realmId="1"/>
+    <ItemsVo id="100" code="ce3" name="ce3" manaCost="0" apCost="0" nfpCost="0" gpCost="0" itemDescription=" " itemEffect=" " spellId="0" manaCharge="0" blankCost="0" realmId="1"/>
+    <ItemsVo id="101" code="adfdf" name="adfdf" manaCost="0" apCost="0" nfpCost="0" gpCost="0" itemDescription=" " itemEffect=" " spellId="0" manaCharge="0" blankCost="0" realmId="1"/>
+  </GarrisonedItems>
+  <GarrisonedUnits>
+    <UnittypegroupsVo id="189" unittypeId="1" count="5" homeregionId="0" realmId="1" displaySymbol="0" displayX="0" displayY="0" name="5 li" isAllied="0" airCargoCapacity="0" groundCargoCapacity="0" navalCargoCapacity="0" airCargoUsed="0" groundCargoUsed="0" navalCargoUsed="0"/>
+    <UnittypegroupsVo id="190" unittypeId="51" count="5" homeregionId="0" realmId="1" displaySymbol="0" displayX="0" displayY="0" name="5 azi" isAllied="0" airCargoCapacity="0" groundCargoCapacity="0" navalCargoCapacity="0" airCargoUsed="0" groundCargoUsed="0" navalCargoUsed="0"/>
+    <UnittypegroupsVo id="191" unittypeId="2" count="5" homeregionId="0" realmId="1" displaySymbol="0" displayX="0" displayY="0" name="5 mc" isAllied="0" airCargoCapacity="0" groundCargoCapacity="0" navalCargoCapacity="0" airCargoUsed="0" groundCargoUsed="0" navalCargoUsed="0"/>
+    <UnittypegroupsVo id="192" unittypeId="1" count="5" homeregionId="0" realmId="1" displaySymbol="0" displayX="0" displayY="0" name="5 li" isAllied="0" airCargoCapacity="0" groundCargoCapacity="0" navalCargoCapacity="0" airCargoUsed="0" groundCargoUsed="0" navalCargoUsed="0"/>
+    <UnittypegroupsVo id="193" unittypeId="15" count="4" homeregionId="0" realmId="1" displaySymbol="0" displayX="0" displayY="0" name="4 ra" isAllied="0" airCargoCapacity="0" groundCargoCapacity="0" navalCargoCapacity="0" airCargoUsed="0" groundCargoUsed="0" navalCargoUsed="0"/>
+    <UnittypegroupsVo id="194" unittypeId="18" count="1" homeregionId="0" realmId="1" displaySymbol="0" displayX="0" displayY="0" name="1 sp" isAllied="0" airCargoCapacity="0" groundCargoCapacity="0" navalCargoCapacity="0" airCargoUsed="0" groundCargoUsed="0" navalCargoUsed="0"/>
+    <UnittypegroupsVo id="195" unittypeId="19" count="40" homeregionId="0" realmId="1" displaySymbol="0" displayX="0" displayY="0" name="40 sw" isAllied="0" airCargoCapacity="0" groundCargoCapacity="0" navalCargoCapacity="0" airCargoUsed="0" groundCargoUsed="0" navalCargoUsed="0"/>
+  </GarrisonedUnits>
+  <Leaders>
+    <LeadersVo id="10" homeregionId="5" trainingId="1" kindredId="0" name="Annavas'Ǎ'" code="R1" command="1" loyalty="1" combat="10" diplomacy="8" sorcery="9" age="67" sex=" M" notes="Kommolek Leader notes 5li 5mc two crystals" caryingGp="10" caryingAp="1" displaySymbol="0" displayX="0" displayY="0" locationId="806" agenttypeId="1" realmId="1" regionId="733">
+      <StartingLeaderUnitTypeGroups>
+        <UnittypegroupsVo id="189" unittypeId="1" count="5" homeregionId="0" realmId="1" displaySymbol="0" displayX="0" displayY="0" name="5 li" isAllied="0" airCargoCapacity="0" groundCargoCapacity="0" navalCargoCapacity="0" airCargoUsed="0" groundCargoUsed="0" navalCargoUsed="0"/>
+        <UnittypegroupsVo id="190" unittypeId="51" count="5" homeregionId="0" realmId="1" displaySymbol="0" displayX="0" displayY="0" name="5 azi" isAllied="0" airCargoCapacity="0" groundCargoCapacity="0" navalCargoCapacity="0" airCargoUsed="0" groundCargoUsed="0" navalCargoUsed="0"/>
+        <UnittypegroupsVo id="195" unittypeId="19" count="40" homeregionId="0" realmId="1" displaySymbol="0" displayX="0" displayY="0" name="40 sw" isAllied="0" airCargoCapacity="0" groundCargoCapacity="0" navalCargoCapacity="0" airCargoUsed="0" groundCargoUsed="0" navalCargoUsed="0"/>
+      </StartingLeaderUnitTypeGroups>
+      <PostBuildLeaderUnits/>
+      <DeltaLeaderUnits/>
+      <StartingLeaderItems>
+        <ItemsVo id="96" code="A1" name="A1" manaCost="0" apCost="0" nfpCost="0" gpCost="0" itemDescription=" " itemEffect=" " spellId="0" manaCharge="0" blankCost="0" realmId="1"/>
+      </StartingLeaderItems>
+      <DeltaLeaderItems/>
+      <LeaderActions/>
+    </LeadersVo>
+    <LeadersVo id="28" homeregionId="5" trainingId="0" kindredId="0" name="Guy Superior" code="L4" command="0" loyalty="0" combat="0" diplomacy="0" sorcery="0" age="0" sex=" " notes=" Guy Superior" caryingGp="0" caryingAp="0" displaySymbol="0" displayX="0" displayY="0" locationId="0" agenttypeId="0" realmId="1" regionId="0">
+      <StartingLeaderUnitTypeGroups>
+        <UnittypegroupsVo id="191" unittypeId="2" count="5" homeregionId="0" realmId="1" displaySymbol="0" displayX="0" displayY="0" name="5 mc" isAllied="0" airCargoCapacity="0" groundCargoCapacity="0" navalCargoCapacity="0" airCargoUsed="0" groundCargoUsed="0" navalCargoUsed="0"/>
+      </StartingLeaderUnitTypeGroups>
+      <PostBuildLeaderUnits/>
+      <DeltaLeaderUnits/>
+      <StartingLeaderItems>
+        <ItemsVo id="98" code="C3" name="C3" manaCost="0" apCost="0" nfpCost="0" gpCost="0" itemDescription=" " itemEffect=" " spellId="0" manaCharge="0" blankCost="0" realmId="1"/>
+      </StartingLeaderItems>
+      <DeltaLeaderItems/>
+      <LeaderActions>
+        <LeaderactionsVo id="0" name="Do Stuff" code="" atregionId="0" atlocationId="0" toregionId="0" tolocationId="0" customLocation="" actioncategoryId="7" gpCost="0" apCost="0" nfpCost="0" sfpCost="0" manaCost="0" movementtypeId="0" bordertypeId="0" toterraintypeId="0" row="0" startingPhase="0" isAtPhaseStart="1" movementCost="0" isHostile="0" isHasted="0" isUsesroads="0" isSecret="0" isWithothers="0" isPrimarytarget="0" totalManaCost="0" unitytypegroupId="0" unittypegroupCode="" unitCount="0" itemId="0" itemName="" otherregionId="0" otherlocationId="0" monitorLevel="" description="" effect="" notes="" actionXml="" feedbackTemplate="" queryTemplate=""/>
+      </LeaderActions>
+    </LeadersVo>
+  </Leaders>
+</Turn>

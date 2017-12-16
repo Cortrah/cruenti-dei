@@ -1,0 +1,46 @@
+{
+"featuretypes":[
+{
+"id":"0",
+"name":"None",
+"featureDescription":" ",
+"code":"?"
+},
+{
+"id":"1",
+"name":"Ruins",
+"featureDescription":" ",
+"code":"R"
+},
+{
+"id":"2",
+"name":"Battlefield",
+"featureDescription":" ",
+"code":"B"
+},
+{
+"id":"3",
+"name":"GryphonNest",
+"featureDescription":" ",
+"code":"Gr"
+},
+{
+"id":"4",
+"name":"ElephantHerd",
+"featureDescription":" ",
+"code":"El"
+},
+{
+"id":"7",
+"name":"HolySite",
+"featureDescription":" ",
+"code":"Hs"
+},
+{
+"id":"8",
+"name":"Mystery",
+"featureDescription":" ",
+"code":"X"
+}
+]
+}

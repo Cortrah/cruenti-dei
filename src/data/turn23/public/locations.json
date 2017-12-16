@@ -1,0 +1,6005 @@
+{
+  "locations": [
+    {
+      "id": "1017",
+      "name": "Ab'te",
+      "regionId": "967",
+      "isSecret": false
+    },
+    {
+      "id": "1236",
+      "name": "Ab'te:fortress",
+      "regionId": "967",
+      "isSecret": false
+    },
+    {
+      "id": "1235",
+      "name": "Ab'te:religious",
+      "regionId": "967",
+      "isSecret": false
+    },
+    {
+      "id": "1234",
+      "name": "Ab'te:urban",
+      "regionId": "967",
+      "isSecret": false
+    },
+    {
+      "id": "1062",
+      "name": "Abalonga Shallows",
+      "regionId": "1009",
+      "isSecret": false
+    },
+    {
+      "id": "1239",
+      "name": "Abalonga Shallows:fortress",
+      "regionId": "1009",
+      "isSecret": false
+    },
+    {
+      "id": "1238",
+      "name": "Abalonga Shallows:religious",
+      "regionId": "1009",
+      "isSecret": false
+    },
+    {
+      "id": "1237",
+      "name": "Abalonga Shallows:urban",
+      "regionId": "1009",
+      "isSecret": false
+    },
+    {
+      "id": "1242",
+      "name": "Abanhdh:fortress",
+      "regionId": "965",
+      "isSecret": false
+    },
+    {
+      "id": "1241",
+      "name": "Abanhdh:religious",
+      "regionId": "965",
+      "isSecret": false
+    },
+    {
+      "id": "1240",
+      "name": "Abanhdh:urban",
+      "regionId": "965",
+      "isSecret": false
+    },
+    {
+      "id": "1230",
+      "name": "Abanth",
+      "regionId": "965",
+      "isSecret": false
+    },
+    {
+      "id": "1014",
+      "name": "Abijar",
+      "regionId": "968",
+      "isSecret": false
+    },
+    {
+      "id": "1245",
+      "name": "Abijar:fortress",
+      "regionId": "968",
+      "isSecret": false
+    },
+    {
+      "id": "1244",
+      "name": "Abijar:religious",
+      "regionId": "968",
+      "isSecret": false
+    },
+    {
+      "id": "1243",
+      "name": "Abijar:urban",
+      "regionId": "968",
+      "isSecret": false
+    },
+    {
+      "id": "1212",
+      "name": "Ablab",
+      "regionId": "966",
+      "realmId": "1",
+      "isSecret": false
+    },
+    {
+      "id": "1248",
+      "name": "Ablab:fortress",
+      "regionId": "966",
+      "isSecret": false
+    },
+    {
+      "id": "1247",
+      "name": "Ablab:religious",
+      "regionId": "966",
+      "isSecret": false
+    },
+    {
+      "id": "1246",
+      "name": "Ablab:urban",
+      "regionId": "966",
+      "isSecret": false
+    },
+    {
+      "id": "1015",
+      "name": "Achet",
+      "regionId": "964",
+      "isSecret": false
+    },
+    {
+      "id": "1251",
+      "name": "Achet:fortress",
+      "regionId": "964",
+      "isSecret": false
+    },
+    {
+      "id": "1250",
+      "name": "Achet:religious",
+      "regionId": "964",
+      "isSecret": false
+    },
+    {
+      "id": "1249",
+      "name": "Achet:urban",
+      "regionId": "964",
+      "isSecret": false
+    },
+    {
+      "id": "1141",
+      "name": "Adhanacha River",
+      "regionId": "1037",
+      "isSecret": false
+    },
+    {
+      "id": "1254",
+      "name": "Adhanacha River:fortress",
+      "regionId": "1037",
+      "isSecret": false
+    },
+    {
+      "id": "1253",
+      "name": "Adhanacha River:religious",
+      "regionId": "1037",
+      "isSecret": false
+    },
+    {
+      "id": "1252",
+      "name": "Adhanacha River:urban",
+      "regionId": "1037",
+      "isSecret": false
+    },
+    {
+      "id": "1011",
+      "name": "Adlír",
+      "regionId": "962",
+      "isSecret": false
+    },
+    {
+      "id": "1257",
+      "name": "Adlír:fortress",
+      "regionId": "962",
+      "isSecret": false
+    },
+    {
+      "id": "1256",
+      "name": "Adlír:religious",
+      "regionId": "962",
+      "isSecret": false
+    },
+    {
+      "id": "1255",
+      "name": "Adlír:urban",
+      "regionId": "962",
+      "isSecret": false
+    },
+    {
+      "id": "1013",
+      "name": "Adres",
+      "regionId": "961",
+      "isSecret": false
+    },
+    {
+      "id": "1260",
+      "name": "Adres:fortress",
+      "regionId": "961",
+      "isSecret": false
+    },
+    {
+      "id": "1259",
+      "name": "Adres:religious",
+      "regionId": "961",
+      "isSecret": false
+    },
+    {
+      "id": "1258",
+      "name": "Adres:urban",
+      "regionId": "961",
+      "isSecret": false
+    },
+    {
+      "id": "94",
+      "name": "Adément",
+      "regionId": "963",
+      "isSecret": false
+    },
+    {
+      "id": "1263",
+      "name": "Adément:fortress",
+      "regionId": "963",
+      "isSecret": false
+    },
+    {
+      "id": "1262",
+      "name": "Adément:religious",
+      "regionId": "963",
+      "isSecret": false
+    },
+    {
+      "id": "1261",
+      "name": "Adément:urban",
+      "regionId": "963",
+      "isSecret": false
+    },
+    {
+      "id": "1010",
+      "name": "Agremek",
+      "regionId": "960",
+      "isSecret": false
+    },
+    {
+      "id": "1266",
+      "name": "Agremek:fortress",
+      "regionId": "960",
+      "isSecret": false
+    },
+    {
+      "id": "1265",
+      "name": "Agremek:religious",
+      "regionId": "960",
+      "isSecret": false
+    },
+    {
+      "id": "1264",
+      "name": "Agremek:urban",
+      "regionId": "960",
+      "isSecret": false
+    },
+    {
+      "id": "1008",
+      "name": "Akit",
+      "regionId": "958",
+      "isSecret": false
+    },
+    {
+      "id": "1269",
+      "name": "Akit:fortress",
+      "regionId": "958",
+      "isSecret": false
+    },
+    {
+      "id": "1268",
+      "name": "Akit:religious",
+      "regionId": "958",
+      "isSecret": false
+    },
+    {
+      "id": "1267",
+      "name": "Akit:urban",
+      "regionId": "958",
+      "isSecret": false
+    },
+    {
+      "id": "1009",
+      "name": "Akshoya",
+      "regionId": "959",
+      "isSecret": false
+    },
+    {
+      "id": "1272",
+      "name": "Akshoya:fortress",
+      "regionId": "959",
+      "isSecret": false
+    },
+    {
+      "id": "1271",
+      "name": "Akshoya:religious",
+      "regionId": "959",
+      "isSecret": false
+    },
+    {
+      "id": "1270",
+      "name": "Akshoya:urban",
+      "regionId": "959",
+      "isSecret": false
+    },
+    {
+      "id": "1007",
+      "name": "Alghin",
+      "regionId": "956",
+      "isSecret": false
+    },
+    {
+      "id": "1275",
+      "name": "Alghin:fortress",
+      "regionId": "956",
+      "isSecret": false
+    },
+    {
+      "id": "1274",
+      "name": "Alghin:religious",
+      "regionId": "956",
+      "isSecret": false
+    },
+    {
+      "id": "1273",
+      "name": "Alghin:urban",
+      "regionId": "956",
+      "isSecret": false
+    },
+    {
+      "id": "1006",
+      "name": "Alipan",
+      "regionId": "955",
+      "isSecret": false
+    },
+    {
+      "id": "1278",
+      "name": "Alipan:fortress",
+      "regionId": "955",
+      "isSecret": false
+    },
+    {
+      "id": "1277",
+      "name": "Alipan:religious",
+      "regionId": "955",
+      "isSecret": false
+    },
+    {
+      "id": "1276",
+      "name": "Alipan:urban",
+      "regionId": "955",
+      "isSecret": false
+    },
+    {
+      "id": "1004",
+      "name": "Allayda",
+      "regionId": "957",
+      "isSecret": false
+    },
+    {
+      "id": "1281",
+      "name": "Allayda:fortress",
+      "regionId": "957",
+      "isSecret": false
+    },
+    {
+      "id": "1280",
+      "name": "Allayda:religious",
+      "regionId": "957",
+      "isSecret": false
+    },
+    {
+      "id": "1279",
+      "name": "Allayda:urban",
+      "regionId": "957",
+      "isSecret": false
+    },
+    {
+      "id": "180",
+      "name": "Alod",
+      "regionId": "953",
+      "isSecret": false
+    },
+    {
+      "id": "1284",
+      "name": "Alod:fortress",
+      "regionId": "953",
+      "isSecret": false
+    },
+    {
+      "id": "1283",
+      "name": "Alod:religious",
+      "regionId": "953",
+      "isSecret": false
+    },
+    {
+      "id": "1282",
+      "name": "Alod:urban",
+      "regionId": "953",
+      "isSecret": false
+    },
+    {
+      "id": "1005",
+      "name": "Alonwë",
+      "regionId": "954",
+      "isSecret": false
+    },
+    {
+      "id": "1287",
+      "name": "Alonwë:fortress",
+      "regionId": "954",
+      "isSecret": false
+    },
+    {
+      "id": "1286",
+      "name": "Alonwë:religious",
+      "regionId": "954",
+      "isSecret": false
+    },
+    {
+      "id": "1285",
+      "name": "Alonwë:urban",
+      "regionId": "954",
+      "isSecret": false
+    },
+    {
+      "id": "1002",
+      "name": "Ambrady",
+      "regionId": "952",
+      "isSecret": false
+    },
+    {
+      "id": "1290",
+      "name": "Ambrady:fortress",
+      "regionId": "952",
+      "isSecret": false
+    },
+    {
+      "id": "1289",
+      "name": "Ambrady:religious",
+      "regionId": "952",
+      "isSecret": false
+    },
+    {
+      "id": "1288",
+      "name": "Ambrady:urban",
+      "regionId": "952",
+      "isSecret": false
+    },
+    {
+      "id": "1001",
+      "name": "Amikki",
+      "regionId": "951",
+      "isSecret": false
+    },
+    {
+      "id": "1293",
+      "name": "Amikki:fortress",
+      "regionId": "951",
+      "isSecret": false
+    },
+    {
+      "id": "1292",
+      "name": "Amikki:religious",
+      "regionId": "951",
+      "isSecret": false
+    },
+    {
+      "id": "1291",
+      "name": "Amikki:urban",
+      "regionId": "951",
+      "isSecret": false
+    },
+    {
+      "id": "1003",
+      "name": "Ampatel",
+      "regionId": "950",
+      "isSecret": false
+    },
+    {
+      "id": "1296",
+      "name": "Ampatel:fortress",
+      "regionId": "950",
+      "isSecret": false
+    },
+    {
+      "id": "1295",
+      "name": "Ampatel:religious",
+      "regionId": "950",
+      "isSecret": false
+    },
+    {
+      "id": "1294",
+      "name": "Ampatel:urban",
+      "regionId": "950",
+      "isSecret": false
+    },
+    {
+      "id": "1000",
+      "name": "Anadë",
+      "regionId": "948",
+      "isSecret": false
+    },
+    {
+      "id": "1299",
+      "name": "Anadë:fortress",
+      "regionId": "948",
+      "isSecret": false
+    },
+    {
+      "id": "1298",
+      "name": "Anadë:religious",
+      "regionId": "948",
+      "isSecret": false
+    },
+    {
+      "id": "1297",
+      "name": "Anadë:urban",
+      "regionId": "948",
+      "isSecret": false
+    },
+    {
+      "id": "999",
+      "name": "Anderim",
+      "regionId": "949",
+      "isSecret": false
+    },
+    {
+      "id": "1302",
+      "name": "Anderim:fortress",
+      "regionId": "949",
+      "isSecret": false
+    },
+    {
+      "id": "1301",
+      "name": "Anderim:religious",
+      "regionId": "949",
+      "isSecret": false
+    },
+    {
+      "id": "1300",
+      "name": "Anderim:urban",
+      "regionId": "949",
+      "isSecret": false
+    },
+    {
+      "id": "998",
+      "name": "Andiga",
+      "regionId": "946",
+      "isSecret": false
+    },
+    {
+      "id": "1305",
+      "name": "Andiga:fortress",
+      "regionId": "946",
+      "isSecret": false
+    },
+    {
+      "id": "1304",
+      "name": "Andiga:religious",
+      "regionId": "946",
+      "isSecret": false
+    },
+    {
+      "id": "1303",
+      "name": "Andiga:urban",
+      "regionId": "946",
+      "isSecret": false
+    },
+    {
+      "id": "995",
+      "name": "Andogarn",
+      "regionId": "945",
+      "isSecret": false
+    },
+    {
+      "id": "1308",
+      "name": "Andogarn:fortress",
+      "regionId": "945",
+      "isSecret": false
+    },
+    {
+      "id": "1307",
+      "name": "Andogarn:religious",
+      "regionId": "945",
+      "isSecret": false
+    },
+    {
+      "id": "1306",
+      "name": "Andogarn:urban",
+      "regionId": "945",
+      "isSecret": false
+    },
+    {
+      "id": "996",
+      "name": "Andren",
+      "regionId": "944",
+      "isSecret": false
+    },
+    {
+      "id": "1311",
+      "name": "Andren:fortress",
+      "regionId": "944",
+      "isSecret": false
+    },
+    {
+      "id": "1310",
+      "name": "Andren:religious",
+      "regionId": "944",
+      "isSecret": false
+    },
+    {
+      "id": "1309",
+      "name": "Andren:urban",
+      "regionId": "944",
+      "isSecret": false
+    },
+    {
+      "id": "93",
+      "name": "Angûron",
+      "regionId": "942",
+      "isSecret": false
+    },
+    {
+      "id": "1314",
+      "name": "Angûron:fortress",
+      "regionId": "942",
+      "isSecret": false
+    },
+    {
+      "id": "1313",
+      "name": "Angûron:religious",
+      "regionId": "942",
+      "isSecret": false
+    },
+    {
+      "id": "1312",
+      "name": "Angûron:urban",
+      "regionId": "942",
+      "isSecret": false
+    },
+    {
+      "id": "994",
+      "name": "Annedor",
+      "regionId": "941",
+      "isSecret": false
+    },
+    {
+      "id": "1317",
+      "name": "Annedor:fortress",
+      "regionId": "941",
+      "isSecret": false
+    },
+    {
+      "id": "1316",
+      "name": "Annedor:religious",
+      "regionId": "941",
+      "isSecret": false
+    },
+    {
+      "id": "1315",
+      "name": "Annedor:urban",
+      "regionId": "941",
+      "isSecret": false
+    },
+    {
+      "id": "993",
+      "name": "Anor",
+      "regionId": "943",
+      "isSecret": false
+    },
+    {
+      "id": "1320",
+      "name": "Anor:fortress",
+      "regionId": "943",
+      "isSecret": false
+    },
+    {
+      "id": "1319",
+      "name": "Anor:religious",
+      "regionId": "943",
+      "isSecret": false
+    },
+    {
+      "id": "1318",
+      "name": "Anor:urban",
+      "regionId": "943",
+      "isSecret": false
+    },
+    {
+      "id": "997",
+      "name": "Antedon",
+      "regionId": "947",
+      "isSecret": false
+    },
+    {
+      "id": "1323",
+      "name": "Antedon:fortress",
+      "regionId": "947",
+      "isSecret": false
+    },
+    {
+      "id": "1322",
+      "name": "Antedon:religious",
+      "regionId": "947",
+      "isSecret": false
+    },
+    {
+      "id": "1321",
+      "name": "Antedon:urban",
+      "regionId": "947",
+      "isSecret": false
+    },
+    {
+      "id": "992",
+      "name": "Apana",
+      "regionId": "940",
+      "isSecret": false
+    },
+    {
+      "id": "1326",
+      "name": "Apana:fortress",
+      "regionId": "940",
+      "isSecret": false
+    },
+    {
+      "id": "1325",
+      "name": "Apana:religious",
+      "regionId": "940",
+      "isSecret": false
+    },
+    {
+      "id": "1324",
+      "name": "Apana:urban",
+      "regionId": "940",
+      "isSecret": false
+    },
+    {
+      "id": "989",
+      "name": "Apsin",
+      "regionId": "938",
+      "isSecret": false
+    },
+    {
+      "id": "1329",
+      "name": "Apsin:fortress",
+      "regionId": "938",
+      "isSecret": false
+    },
+    {
+      "id": "1328",
+      "name": "Apsin:religious",
+      "regionId": "938",
+      "isSecret": false
+    },
+    {
+      "id": "1327",
+      "name": "Apsin:urban",
+      "regionId": "938",
+      "isSecret": false
+    },
+    {
+      "id": "990",
+      "name": "Apéric",
+      "regionId": "939",
+      "isSecret": false
+    },
+    {
+      "id": "1332",
+      "name": "Apéric:fortress",
+      "regionId": "939",
+      "isSecret": false
+    },
+    {
+      "id": "1331",
+      "name": "Apéric:religious",
+      "regionId": "939",
+      "isSecret": false
+    },
+    {
+      "id": "1330",
+      "name": "Apéric:urban",
+      "regionId": "939",
+      "isSecret": false
+    },
+    {
+      "id": "991",
+      "name": "Aramond",
+      "regionId": "936",
+      "isSecret": false
+    },
+    {
+      "id": "1335",
+      "name": "Aramond:fortress",
+      "regionId": "936",
+      "isSecret": false
+    },
+    {
+      "id": "1334",
+      "name": "Aramond:religious",
+      "regionId": "936",
+      "isSecret": false
+    },
+    {
+      "id": "1333",
+      "name": "Aramond:urban",
+      "regionId": "936",
+      "isSecret": false
+    },
+    {
+      "id": "988",
+      "name": "Ardanyi",
+      "regionId": "934",
+      "isSecret": false
+    },
+    {
+      "id": "1338",
+      "name": "Ardanyi:fortress",
+      "regionId": "934",
+      "isSecret": false
+    },
+    {
+      "id": "1337",
+      "name": "Ardanyi:religious",
+      "regionId": "934",
+      "isSecret": false
+    },
+    {
+      "id": "1336",
+      "name": "Ardanyi:urban",
+      "regionId": "934",
+      "isSecret": false
+    },
+    {
+      "id": "986",
+      "name": "Ardhalka",
+      "regionId": "935",
+      "isSecret": false
+    },
+    {
+      "id": "1341",
+      "name": "Ardhalka:fortress",
+      "regionId": "935",
+      "isSecret": false
+    },
+    {
+      "id": "1340",
+      "name": "Ardhalka:religious",
+      "regionId": "935",
+      "isSecret": false
+    },
+    {
+      "id": "1339",
+      "name": "Ardhalka:urban",
+      "regionId": "935",
+      "isSecret": false
+    },
+    {
+      "id": "987",
+      "name": "Ardhchi",
+      "regionId": "937",
+      "isSecret": false
+    },
+    {
+      "id": "1344",
+      "name": "Ardhchi:fortress",
+      "regionId": "937",
+      "isSecret": false
+    },
+    {
+      "id": "1343",
+      "name": "Ardhchi:religious",
+      "regionId": "937",
+      "isSecret": false
+    },
+    {
+      "id": "1342",
+      "name": "Ardhchi:urban",
+      "regionId": "937",
+      "isSecret": false
+    },
+    {
+      "id": "983",
+      "name": "Arganax",
+      "regionId": "932",
+      "isSecret": false
+    },
+    {
+      "id": "1347",
+      "name": "Arganax:fortress",
+      "regionId": "932",
+      "isSecret": false
+    },
+    {
+      "id": "1346",
+      "name": "Arganax:religious",
+      "regionId": "932",
+      "isSecret": false
+    },
+    {
+      "id": "1345",
+      "name": "Arganax:urban",
+      "regionId": "932",
+      "isSecret": false
+    },
+    {
+      "id": "984",
+      "name": "Armash",
+      "regionId": "931",
+      "isSecret": false
+    },
+    {
+      "id": "1350",
+      "name": "Armash:fortress",
+      "regionId": "931",
+      "isSecret": false
+    },
+    {
+      "id": "1349",
+      "name": "Armash:religious",
+      "regionId": "931",
+      "isSecret": false
+    },
+    {
+      "id": "1348",
+      "name": "Armash:urban",
+      "regionId": "931",
+      "isSecret": false
+    },
+    {
+      "id": "982",
+      "name": "Arrin",
+      "regionId": "929",
+      "isSecret": false
+    },
+    {
+      "id": "1353",
+      "name": "Arrin:fortress",
+      "regionId": "929",
+      "isSecret": false
+    },
+    {
+      "id": "1352",
+      "name": "Arrin:religious",
+      "regionId": "929",
+      "isSecret": false
+    },
+    {
+      "id": "1351",
+      "name": "Arrin:urban",
+      "regionId": "929",
+      "isSecret": false
+    },
+    {
+      "id": "980",
+      "name": "Arroyana",
+      "regionId": "930",
+      "isSecret": false
+    },
+    {
+      "id": "1356",
+      "name": "Arroyana:fortress",
+      "regionId": "930",
+      "isSecret": false
+    },
+    {
+      "id": "1355",
+      "name": "Arroyana:religious",
+      "regionId": "930",
+      "isSecret": false
+    },
+    {
+      "id": "1354",
+      "name": "Arroyana:urban",
+      "regionId": "930",
+      "isSecret": false
+    },
+    {
+      "id": "981",
+      "name": "Arzhadior",
+      "regionId": "927",
+      "isSecret": false
+    },
+    {
+      "id": "1359",
+      "name": "Arzhadior:fortress",
+      "regionId": "927",
+      "isSecret": false
+    },
+    {
+      "id": "1358",
+      "name": "Arzhadior:religious",
+      "regionId": "927",
+      "isSecret": false
+    },
+    {
+      "id": "1357",
+      "name": "Arzhadior:urban",
+      "regionId": "927",
+      "isSecret": false
+    },
+    {
+      "id": "985",
+      "name": "Arétar",
+      "regionId": "933",
+      "isSecret": false
+    },
+    {
+      "id": "1362",
+      "name": "Arétar:fortress",
+      "regionId": "933",
+      "isSecret": false
+    },
+    {
+      "id": "1361",
+      "name": "Arétar:religious",
+      "regionId": "933",
+      "isSecret": false
+    },
+    {
+      "id": "1360",
+      "name": "Arétar:urban",
+      "regionId": "933",
+      "isSecret": false
+    },
+    {
+      "id": "978",
+      "name": "Asaiman",
+      "regionId": "925",
+      "isSecret": false
+    },
+    {
+      "id": "1365",
+      "name": "Asaiman:fortress",
+      "regionId": "925",
+      "isSecret": false
+    },
+    {
+      "id": "1364",
+      "name": "Asaiman:religious",
+      "regionId": "925",
+      "isSecret": false
+    },
+    {
+      "id": "1363",
+      "name": "Asaiman:urban",
+      "regionId": "925",
+      "isSecret": false
+    },
+    {
+      "id": "979",
+      "name": "Asgath",
+      "regionId": "924",
+      "isSecret": false
+    },
+    {
+      "id": "1368",
+      "name": "Asgath:fortress",
+      "regionId": "924",
+      "isSecret": false
+    },
+    {
+      "id": "1367",
+      "name": "Asgath:religious",
+      "regionId": "924",
+      "isSecret": false
+    },
+    {
+      "id": "1366",
+      "name": "Asgath:urban",
+      "regionId": "924",
+      "isSecret": false
+    },
+    {
+      "id": "977",
+      "name": "Asremath",
+      "regionId": "926",
+      "isSecret": false
+    },
+    {
+      "id": "1371",
+      "name": "Asremath:fortress",
+      "regionId": "926",
+      "isSecret": false
+    },
+    {
+      "id": "1370",
+      "name": "Asremath:religious",
+      "regionId": "926",
+      "isSecret": false
+    },
+    {
+      "id": "1369",
+      "name": "Asremath:urban",
+      "regionId": "926",
+      "isSecret": false
+    },
+    {
+      "id": "976",
+      "name": "Astarma",
+      "regionId": "923",
+      "isSecret": false
+    },
+    {
+      "id": "1374",
+      "name": "Astarma:fortress",
+      "regionId": "923",
+      "isSecret": false
+    },
+    {
+      "id": "1373",
+      "name": "Astarma:religious",
+      "regionId": "923",
+      "isSecret": false
+    },
+    {
+      "id": "1372",
+      "name": "Astarma:urban",
+      "regionId": "923",
+      "isSecret": false
+    },
+    {
+      "id": "975",
+      "name": "Ataar",
+      "regionId": "928",
+      "isSecret": false
+    },
+    {
+      "id": "1377",
+      "name": "Ataar:fortress",
+      "regionId": "928",
+      "isSecret": false
+    },
+    {
+      "id": "1376",
+      "name": "Ataar:religious",
+      "regionId": "928",
+      "isSecret": false
+    },
+    {
+      "id": "1375",
+      "name": "Ataar:urban",
+      "regionId": "928",
+      "isSecret": false
+    },
+    {
+      "id": "1126",
+      "name": "Ataz River",
+      "regionId": "1022",
+      "isSecret": false
+    },
+    {
+      "id": "1380",
+      "name": "Ataz River:fortress",
+      "regionId": "1022",
+      "isSecret": false
+    },
+    {
+      "id": "1379",
+      "name": "Ataz River:religious",
+      "regionId": "1022",
+      "isSecret": false
+    },
+    {
+      "id": "1378",
+      "name": "Ataz River:urban",
+      "regionId": "1022",
+      "isSecret": false
+    },
+    {
+      "id": "973",
+      "name": "Atch'ikitik",
+      "regionId": "921",
+      "isSecret": false
+    },
+    {
+      "id": "1383",
+      "name": "Atch'ikitik:fortress",
+      "regionId": "921",
+      "isSecret": false
+    },
+    {
+      "id": "1382",
+      "name": "Atch'ikitik:religious",
+      "regionId": "921",
+      "isSecret": false
+    },
+    {
+      "id": "1381",
+      "name": "Atch'ikitik:urban",
+      "regionId": "921",
+      "isSecret": false
+    },
+    {
+      "id": "974",
+      "name": "Atch'tik",
+      "regionId": "920",
+      "isSecret": false
+    },
+    {
+      "id": "1386",
+      "name": "Atch'tik:fortress",
+      "regionId": "920",
+      "isSecret": false
+    },
+    {
+      "id": "1385",
+      "name": "Atch'tik:religious",
+      "regionId": "920",
+      "isSecret": false
+    },
+    {
+      "id": "1384",
+      "name": "Atch'tik:urban",
+      "regionId": "920",
+      "isSecret": false
+    },
+    {
+      "id": "971",
+      "name": "Atchar",
+      "regionId": "918",
+      "isSecret": false
+    },
+    {
+      "id": "1389",
+      "name": "Atchar:fortress",
+      "regionId": "918",
+      "isSecret": false
+    },
+    {
+      "id": "1388",
+      "name": "Atchar:religious",
+      "regionId": "918",
+      "isSecret": false
+    },
+    {
+      "id": "1387",
+      "name": "Atchar:urban",
+      "regionId": "918",
+      "isSecret": false
+    },
+    {
+      "id": "970",
+      "name": "Atchit'erix",
+      "regionId": "922",
+      "isSecret": false
+    },
+    {
+      "id": "1392",
+      "name": "Atchit'erix:fortress",
+      "regionId": "922",
+      "isSecret": false
+    },
+    {
+      "id": "1391",
+      "name": "Atchit'erix:religious",
+      "regionId": "922",
+      "isSecret": false
+    },
+    {
+      "id": "1390",
+      "name": "Atchit'erix:urban",
+      "regionId": "922",
+      "isSecret": false
+    },
+    {
+      "id": "1125",
+      "name": "Ateltl River",
+      "regionId": "1021",
+      "isSecret": false
+    },
+    {
+      "id": "1395",
+      "name": "Ateltl River:fortress",
+      "regionId": "1021",
+      "isSecret": false
+    },
+    {
+      "id": "1394",
+      "name": "Ateltl River:religious",
+      "regionId": "1021",
+      "isSecret": false
+    },
+    {
+      "id": "1393",
+      "name": "Ateltl River:urban",
+      "regionId": "1021",
+      "isSecret": false
+    },
+    {
+      "id": "972",
+      "name": "Atoa",
+      "regionId": "919",
+      "isSecret": false
+    },
+    {
+      "id": "1398",
+      "name": "Atoa:fortress",
+      "regionId": "919",
+      "isSecret": false
+    },
+    {
+      "id": "1397",
+      "name": "Atoa:religious",
+      "regionId": "919",
+      "isSecret": false
+    },
+    {
+      "id": "1396",
+      "name": "Atoa:urban",
+      "regionId": "919",
+      "isSecret": false
+    },
+    {
+      "id": "967",
+      "name": "Auicalo",
+      "regionId": "917",
+      "isSecret": false
+    },
+    {
+      "id": "1401",
+      "name": "Auicalo:fortress",
+      "regionId": "917",
+      "isSecret": false
+    },
+    {
+      "id": "1400",
+      "name": "Auicalo:religious",
+      "regionId": "917",
+      "isSecret": false
+    },
+    {
+      "id": "1399",
+      "name": "Auicalo:urban",
+      "regionId": "917",
+      "isSecret": false
+    },
+    {
+      "id": "37",
+      "name": "Avalow",
+      "regionId": "11",
+      "isSecret": false
+    },
+    {
+      "id": "1404",
+      "name": "Avalow:fortress",
+      "regionId": "11",
+      "isSecret": false
+    },
+    {
+      "id": "1403",
+      "name": "Avalow:religious",
+      "regionId": "11",
+      "isSecret": false
+    },
+    {
+      "id": "1402",
+      "name": "Avalow:urban",
+      "regionId": "11",
+      "isSecret": false
+    },
+    {
+      "id": "968",
+      "name": "Averon",
+      "regionId": "916",
+      "isSecret": false
+    },
+    {
+      "id": "1407",
+      "name": "Averon:fortress",
+      "regionId": "916",
+      "isSecret": false
+    },
+    {
+      "id": "1406",
+      "name": "Averon:religious",
+      "regionId": "916",
+      "isSecret": false
+    },
+    {
+      "id": "1405",
+      "name": "Averon:urban",
+      "regionId": "916",
+      "isSecret": false
+    },
+    {
+      "id": "965",
+      "name": "Ayya",
+      "regionId": "914",
+      "isSecret": false
+    },
+    {
+      "id": "1410",
+      "name": "Ayya:fortress",
+      "regionId": "914",
+      "isSecret": false
+    },
+    {
+      "id": "1409",
+      "name": "Ayya:religious",
+      "regionId": "914",
+      "isSecret": false
+    },
+    {
+      "id": "1408",
+      "name": "Ayya:urban",
+      "regionId": "914",
+      "isSecret": false
+    },
+    {
+      "id": "966",
+      "name": "Azhanîr",
+      "regionId": "913",
+      "isSecret": false
+    },
+    {
+      "id": "1413",
+      "name": "Azhanîr:fortress",
+      "regionId": "913",
+      "isSecret": false
+    },
+    {
+      "id": "1412",
+      "name": "Azhanîr:religious",
+      "regionId": "913",
+      "isSecret": false
+    },
+    {
+      "id": "1411",
+      "name": "Azhanîr:urban",
+      "regionId": "913",
+      "isSecret": false
+    },
+    {
+      "id": "969",
+      "name": "Aziret",
+      "regionId": "911",
+      "isSecret": false
+    },
+    {
+      "id": "1416",
+      "name": "Aziret:fortress",
+      "regionId": "911",
+      "isSecret": false
+    },
+    {
+      "id": "1415",
+      "name": "Aziret:religious",
+      "regionId": "911",
+      "isSecret": false
+    },
+    {
+      "id": "1414",
+      "name": "Aziret:urban",
+      "regionId": "911",
+      "isSecret": false
+    },
+    {
+      "id": "1057",
+      "name": "Azure Coast",
+      "regionId": "1004",
+      "isSecret": false
+    },
+    {
+      "id": "1419",
+      "name": "Azure Coast:fortress",
+      "regionId": "1004",
+      "isSecret": false
+    },
+    {
+      "id": "1418",
+      "name": "Azure Coast:religious",
+      "regionId": "1004",
+      "isSecret": false
+    },
+    {
+      "id": "1417",
+      "name": "Azure Coast:urban",
+      "regionId": "1004",
+      "isSecret": false
+    },
+    {
+      "id": "6",
+      "name": "Baradhu",
+      "regionId": "4",
+      "isSecret": false
+    },
+    {
+      "id": "1422",
+      "name": "Baradhu:fortress",
+      "regionId": "4",
+      "isSecret": false
+    },
+    {
+      "id": "1421",
+      "name": "Baradhu:religious",
+      "regionId": "4",
+      "isSecret": false
+    },
+    {
+      "id": "1420",
+      "name": "Baradhu:urban",
+      "regionId": "4",
+      "isSecret": false
+    },
+    {
+      "id": "964",
+      "name": "Barringal",
+      "regionId": "910",
+      "isSecret": false
+    },
+    {
+      "id": "1425",
+      "name": "Barringal:fortress",
+      "regionId": "910",
+      "isSecret": false
+    },
+    {
+      "id": "1424",
+      "name": "Barringal:religious",
+      "regionId": "910",
+      "isSecret": false
+    },
+    {
+      "id": "1423",
+      "name": "Barringal:urban",
+      "regionId": "910",
+      "isSecret": false
+    },
+    {
+      "id": "962",
+      "name": "Barrod",
+      "regionId": "907",
+      "isSecret": false
+    },
+    {
+      "id": "1428",
+      "name": "Barrod:fortress",
+      "regionId": "907",
+      "isSecret": false
+    },
+    {
+      "id": "1427",
+      "name": "Barrod:religious",
+      "regionId": "907",
+      "isSecret": false
+    },
+    {
+      "id": "1426",
+      "name": "Barrod:urban",
+      "regionId": "907",
+      "isSecret": false
+    },
+    {
+      "id": "1066",
+      "name": "Bay of Duhrl",
+      "regionId": "1013",
+      "isSecret": false
+    },
+    {
+      "id": "1431",
+      "name": "Bay of Duhrl:fortress",
+      "regionId": "1013",
+      "isSecret": false
+    },
+    {
+      "id": "1430",
+      "name": "Bay of Duhrl:religious",
+      "regionId": "1013",
+      "isSecret": false
+    },
+    {
+      "id": "1429",
+      "name": "Bay of Duhrl:urban",
+      "regionId": "1013",
+      "isSecret": false
+    },
+    {
+      "id": "1055",
+      "name": "Bay of Ebalon",
+      "regionId": "1002",
+      "isSecret": false
+    },
+    {
+      "id": "1434",
+      "name": "Bay of Ebalon:fortress",
+      "regionId": "1002",
+      "isSecret": false
+    },
+    {
+      "id": "1433",
+      "name": "Bay of Ebalon:religious",
+      "regionId": "1002",
+      "isSecret": false
+    },
+    {
+      "id": "1432",
+      "name": "Bay of Ebalon:urban",
+      "regionId": "1002",
+      "isSecret": false
+    },
+    {
+      "id": "963",
+      "name": "Bellaria",
+      "regionId": "909",
+      "isSecret": false
+    },
+    {
+      "id": "1437",
+      "name": "Bellaria:fortress",
+      "regionId": "909",
+      "isSecret": false
+    },
+    {
+      "id": "1436",
+      "name": "Bellaria:religious",
+      "regionId": "909",
+      "isSecret": false
+    },
+    {
+      "id": "1435",
+      "name": "Bellaria:urban",
+      "regionId": "909",
+      "isSecret": false
+    },
+    {
+      "id": "960",
+      "name": "Belorn",
+      "regionId": "906",
+      "isSecret": false
+    },
+    {
+      "id": "1440",
+      "name": "Belorn:fortress",
+      "regionId": "906",
+      "isSecret": false
+    },
+    {
+      "id": "1439",
+      "name": "Belorn:religious",
+      "regionId": "906",
+      "isSecret": false
+    },
+    {
+      "id": "1438",
+      "name": "Belorn:urban",
+      "regionId": "906",
+      "isSecret": false
+    },
+    {
+      "id": "959",
+      "name": "Beshtria",
+      "regionId": "905",
+      "isSecret": false
+    },
+    {
+      "id": "1443",
+      "name": "Beshtria:fortress",
+      "regionId": "905",
+      "isSecret": false
+    },
+    {
+      "id": "1442",
+      "name": "Beshtria:religious",
+      "regionId": "905",
+      "isSecret": false
+    },
+    {
+      "id": "1441",
+      "name": "Beshtria:urban",
+      "regionId": "905",
+      "isSecret": false
+    },
+    {
+      "id": "961",
+      "name": "Bidigapa",
+      "regionId": "904",
+      "isSecret": false
+    },
+    {
+      "id": "1446",
+      "name": "Bidigapa:fortress",
+      "regionId": "904",
+      "isSecret": false
+    },
+    {
+      "id": "1445",
+      "name": "Bidigapa:religious",
+      "regionId": "904",
+      "isSecret": false
+    },
+    {
+      "id": "1444",
+      "name": "Bidigapa:urban",
+      "regionId": "904",
+      "isSecret": false
+    },
+    {
+      "id": "1052",
+      "name": "Bight of Kandapad",
+      "regionId": "999",
+      "isSecret": false
+    },
+    {
+      "id": "1449",
+      "name": "Bight of Kandapad:fortress",
+      "regionId": "999",
+      "isSecret": false
+    },
+    {
+      "id": "1448",
+      "name": "Bight of Kandapad:religious",
+      "regionId": "999",
+      "isSecret": false
+    },
+    {
+      "id": "1447",
+      "name": "Bight of Kandapad:urban",
+      "regionId": "999",
+      "isSecret": false
+    },
+    {
+      "id": "1044",
+      "name": "Bight of Yantet",
+      "regionId": "991",
+      "isSecret": false
+    },
+    {
+      "id": "1452",
+      "name": "Bight of Yantet:fortress",
+      "regionId": "991",
+      "isSecret": false
+    },
+    {
+      "id": "1451",
+      "name": "Bight of Yantet:religious",
+      "regionId": "991",
+      "isSecret": false
+    },
+    {
+      "id": "1450",
+      "name": "Bight of Yantet:urban",
+      "regionId": "991",
+      "isSecret": false
+    },
+    {
+      "id": "958",
+      "name": "Billadior",
+      "regionId": "903",
+      "isSecret": false
+    },
+    {
+      "id": "1455",
+      "name": "Billadior:fortress",
+      "regionId": "903",
+      "isSecret": false
+    },
+    {
+      "id": "1454",
+      "name": "Billadior:religious",
+      "regionId": "903",
+      "isSecret": false
+    },
+    {
+      "id": "1453",
+      "name": "Billadior:urban",
+      "regionId": "903",
+      "isSecret": false
+    },
+    {
+      "id": "956",
+      "name": "Birrat",
+      "regionId": "899",
+      "isSecret": false
+    },
+    {
+      "id": "1458",
+      "name": "Birrat:fortress",
+      "regionId": "899",
+      "isSecret": false
+    },
+    {
+      "id": "1457",
+      "name": "Birrat:religious",
+      "regionId": "899",
+      "isSecret": false
+    },
+    {
+      "id": "1456",
+      "name": "Birrat:urban",
+      "regionId": "899",
+      "isSecret": false
+    },
+    {
+      "id": "957",
+      "name": "BleakCarridok",
+      "regionId": "900",
+      "isSecret": false
+    },
+    {
+      "id": "1461",
+      "name": "BleakCarridok:fortress",
+      "regionId": "900",
+      "isSecret": false
+    },
+    {
+      "id": "1460",
+      "name": "BleakCarridok:religious",
+      "regionId": "900",
+      "isSecret": false
+    },
+    {
+      "id": "1459",
+      "name": "BleakCarridok:urban",
+      "regionId": "900",
+      "isSecret": false
+    },
+    {
+      "id": "954",
+      "name": "Bodrûl",
+      "regionId": "902",
+      "isSecret": false
+    },
+    {
+      "id": "1464",
+      "name": "Bodrûl:fortress",
+      "regionId": "902",
+      "isSecret": false
+    },
+    {
+      "id": "1463",
+      "name": "Bodrûl:religious",
+      "regionId": "902",
+      "isSecret": false
+    },
+    {
+      "id": "1462",
+      "name": "Bodrûl:urban",
+      "regionId": "902",
+      "isSecret": false
+    },
+    {
+      "id": "955",
+      "name": "Boduus",
+      "regionId": "898",
+      "isSecret": false
+    },
+    {
+      "id": "1467",
+      "name": "Boduus:fortress",
+      "regionId": "898",
+      "isSecret": false
+    },
+    {
+      "id": "1466",
+      "name": "Boduus:religious",
+      "regionId": "898",
+      "isSecret": false
+    },
+    {
+      "id": "1465",
+      "name": "Boduus:urban",
+      "regionId": "898",
+      "isSecret": false
+    },
+    {
+      "id": "952",
+      "name": "Bohen",
+      "regionId": "901",
+      "isSecret": false
+    },
+    {
+      "id": "1470",
+      "name": "Bohen:fortress",
+      "regionId": "901",
+      "isSecret": false
+    },
+    {
+      "id": "1469",
+      "name": "Bohen:religious",
+      "regionId": "901",
+      "isSecret": false
+    },
+    {
+      "id": "1468",
+      "name": "Bohen:urban",
+      "regionId": "901",
+      "isSecret": false
+    },
+    {
+      "id": "953",
+      "name": "Bracûr",
+      "regionId": "897",
+      "isSecret": false
+    },
+    {
+      "id": "1473",
+      "name": "Bracûr:fortress",
+      "regionId": "897",
+      "isSecret": false
+    },
+    {
+      "id": "1472",
+      "name": "Bracûr:religious",
+      "regionId": "897",
+      "isSecret": false
+    },
+    {
+      "id": "1471",
+      "name": "Bracûr:urban",
+      "regionId": "897",
+      "isSecret": false
+    },
+    {
+      "id": "951",
+      "name": "Branahim",
+      "regionId": "896",
+      "isSecret": false
+    },
+    {
+      "id": "1476",
+      "name": "Branahim:fortress",
+      "regionId": "896",
+      "isSecret": false
+    },
+    {
+      "id": "1475",
+      "name": "Branahim:religious",
+      "regionId": "896",
+      "isSecret": false
+    },
+    {
+      "id": "1474",
+      "name": "Branahim:urban",
+      "regionId": "896",
+      "isSecret": false
+    },
+    {
+      "id": "950",
+      "name": "Brandöe",
+      "regionId": "895",
+      "isSecret": false
+    },
+    {
+      "id": "1479",
+      "name": "Brandöe:fortress",
+      "regionId": "895",
+      "isSecret": false
+    },
+    {
+      "id": "1478",
+      "name": "Brandöe:religious",
+      "regionId": "895",
+      "isSecret": false
+    },
+    {
+      "id": "1477",
+      "name": "Brandöe:urban",
+      "regionId": "895",
+      "isSecret": false
+    },
+    {
+      "id": "85",
+      "name": "Breselek",
+      "regionId": "33",
+      "isSecret": false
+    },
+    {
+      "id": "1482",
+      "name": "Breselek:fortress",
+      "regionId": "33",
+      "isSecret": false
+    },
+    {
+      "id": "1481",
+      "name": "Breselek:religious",
+      "regionId": "33",
+      "isSecret": false
+    },
+    {
+      "id": "1480",
+      "name": "Breselek:urban",
+      "regionId": "33",
+      "isSecret": false
+    },
+    {
+      "id": "949",
+      "name": "Brigabekos",
+      "regionId": "893",
+      "isSecret": false
+    },
+    {
+      "id": "1485",
+      "name": "Brigabekos:fortress",
+      "regionId": "893",
+      "isSecret": false
+    },
+    {
+      "id": "1484",
+      "name": "Brigabekos:religious",
+      "regionId": "893",
+      "isSecret": false
+    },
+    {
+      "id": "1483",
+      "name": "Brigabekos:urban",
+      "regionId": "893",
+      "isSecret": false
+    },
+    {
+      "id": "174",
+      "name": "Bronnow",
+      "regionId": "892",
+      "isSecret": false
+    },
+    {
+      "id": "1488",
+      "name": "Bronnow:fortress",
+      "regionId": "892",
+      "isSecret": false
+    },
+    {
+      "id": "1487",
+      "name": "Bronnow:religious",
+      "regionId": "892",
+      "isSecret": false
+    },
+    {
+      "id": "1486",
+      "name": "Bronnow:urban",
+      "regionId": "892",
+      "isSecret": false
+    },
+    {
+      "id": "948",
+      "name": "Brukos",
+      "regionId": "891",
+      "isSecret": false
+    },
+    {
+      "id": "1491",
+      "name": "Brukos:fortress",
+      "regionId": "891",
+      "isSecret": false
+    },
+    {
+      "id": "1490",
+      "name": "Brukos:religious",
+      "regionId": "891",
+      "isSecret": false
+    },
+    {
+      "id": "1489",
+      "name": "Brukos:urban",
+      "regionId": "891",
+      "isSecret": false
+    },
+    {
+      "id": "173",
+      "name": "Bufalein",
+      "regionId": "889",
+      "isSecret": false
+    },
+    {
+      "id": "1494",
+      "name": "Bufalein:fortress",
+      "regionId": "889",
+      "isSecret": false
+    },
+    {
+      "id": "1493",
+      "name": "Bufalein:religious",
+      "regionId": "889",
+      "isSecret": false
+    },
+    {
+      "id": "1492",
+      "name": "Bufalein:urban",
+      "regionId": "889",
+      "isSecret": false
+    },
+    {
+      "id": "170",
+      "name": "Bylen",
+      "regionId": "888",
+      "isSecret": false
+    },
+    {
+      "id": "1497",
+      "name": "Bylen:fortress",
+      "regionId": "888",
+      "isSecret": false
+    },
+    {
+      "id": "1496",
+      "name": "Bylen:religious",
+      "regionId": "888",
+      "isSecret": false
+    },
+    {
+      "id": "1495",
+      "name": "Bylen:urban",
+      "regionId": "888",
+      "isSecret": false
+    },
+    {
+      "id": "947",
+      "name": "Bylis",
+      "regionId": "887",
+      "isSecret": false
+    },
+    {
+      "id": "1500",
+      "name": "Bylis:fortress",
+      "regionId": "887",
+      "isSecret": false
+    },
+    {
+      "id": "1499",
+      "name": "Bylis:religious",
+      "regionId": "887",
+      "isSecret": false
+    },
+    {
+      "id": "1498",
+      "name": "Bylis:urban",
+      "regionId": "887",
+      "isSecret": false
+    },
+    {
+      "id": "178",
+      "name": "Bæmûl",
+      "regionId": "912",
+      "isSecret": false
+    },
+    {
+      "id": "1503",
+      "name": "Bæmûl:fortress",
+      "regionId": "912",
+      "isSecret": false
+    },
+    {
+      "id": "1502",
+      "name": "Bæmûl:religious",
+      "regionId": "912",
+      "isSecret": false
+    },
+    {
+      "id": "1501",
+      "name": "Bæmûl:urban",
+      "regionId": "912",
+      "isSecret": false
+    },
+    {
+      "id": "172",
+      "name": "Bûkleth",
+      "regionId": "890",
+      "isSecret": false
+    },
+    {
+      "id": "1506",
+      "name": "Bûkleth:fortress",
+      "regionId": "890",
+      "isSecret": false
+    },
+    {
+      "id": "1505",
+      "name": "Bûkleth:religious",
+      "regionId": "890",
+      "isSecret": false
+    },
+    {
+      "id": "1504",
+      "name": "Bûkleth:urban",
+      "regionId": "890",
+      "isSecret": false
+    },
+    {
+      "id": "946",
+      "name": "Cabalos",
+      "regionId": "885",
+      "isSecret": false
+    },
+    {
+      "id": "1509",
+      "name": "Cabalos:fortress",
+      "regionId": "885",
+      "isSecret": false
+    },
+    {
+      "id": "1508",
+      "name": "Cabalos:religious",
+      "regionId": "885",
+      "isSecret": false
+    },
+    {
+      "id": "1507",
+      "name": "Cabalos:urban",
+      "regionId": "885",
+      "isSecret": false
+    },
+    {
+      "id": "942",
+      "name": "Campaspë",
+      "regionId": "884",
+      "isSecret": false
+    },
+    {
+      "id": "1512",
+      "name": "Campaspë:fortress",
+      "regionId": "884",
+      "isSecret": false
+    },
+    {
+      "id": "1511",
+      "name": "Campaspë:religious",
+      "regionId": "884",
+      "isSecret": false
+    },
+    {
+      "id": "1510",
+      "name": "Campaspë:urban",
+      "regionId": "884",
+      "isSecret": false
+    },
+    {
+      "id": "945",
+      "name": "Cantecait",
+      "regionId": "883",
+      "isSecret": false
+    },
+    {
+      "id": "1515",
+      "name": "Cantecait:fortress",
+      "regionId": "883",
+      "isSecret": false
+    },
+    {
+      "id": "1514",
+      "name": "Cantecait:religious",
+      "regionId": "883",
+      "isSecret": false
+    },
+    {
+      "id": "1513",
+      "name": "Cantecait:urban",
+      "regionId": "883",
+      "isSecret": false
+    },
+    {
+      "id": "1067",
+      "name": "Cape Sutrom",
+      "regionId": "1014",
+      "isSecret": false
+    },
+    {
+      "id": "1518",
+      "name": "Cape Sutrom:fortress",
+      "regionId": "1014",
+      "isSecret": false
+    },
+    {
+      "id": "1517",
+      "name": "Cape Sutrom:religious",
+      "regionId": "1014",
+      "isSecret": false
+    },
+    {
+      "id": "1516",
+      "name": "Cape Sutrom:urban",
+      "regionId": "1014",
+      "isSecret": false
+    },
+    {
+      "id": "940",
+      "name": "Carcë",
+      "regionId": "882",
+      "isSecret": false
+    },
+    {
+      "id": "1521",
+      "name": "Carcë:fortress",
+      "regionId": "882",
+      "isSecret": false
+    },
+    {
+      "id": "1520",
+      "name": "Carcë:religious",
+      "regionId": "882",
+      "isSecret": false
+    },
+    {
+      "id": "1519",
+      "name": "Carcë:urban",
+      "regionId": "882",
+      "isSecret": false
+    },
+    {
+      "id": "941",
+      "name": "Cardjun",
+      "regionId": "881",
+      "isSecret": false
+    },
+    {
+      "id": "1524",
+      "name": "Cardjun:fortress",
+      "regionId": "881",
+      "isSecret": false
+    },
+    {
+      "id": "1523",
+      "name": "Cardjun:religious",
+      "regionId": "881",
+      "isSecret": false
+    },
+    {
+      "id": "1522",
+      "name": "Cardjun:urban",
+      "regionId": "881",
+      "isSecret": false
+    },
+    {
+      "id": "943",
+      "name": "Caris",
+      "regionId": "880",
+      "isSecret": false
+    },
+    {
+      "id": "1527",
+      "name": "Caris:fortress",
+      "regionId": "880",
+      "isSecret": false
+    },
+    {
+      "id": "1526",
+      "name": "Caris:religious",
+      "regionId": "880",
+      "isSecret": false
+    },
+    {
+      "id": "1525",
+      "name": "Caris:urban",
+      "regionId": "880",
+      "isSecret": false
+    },
+    {
+      "id": "938",
+      "name": "Carlon",
+      "regionId": "879",
+      "isSecret": false
+    },
+    {
+      "id": "1530",
+      "name": "Carlon:fortress",
+      "regionId": "879",
+      "isSecret": false
+    },
+    {
+      "id": "1529",
+      "name": "Carlon:religious",
+      "regionId": "879",
+      "isSecret": false
+    },
+    {
+      "id": "1528",
+      "name": "Carlon:urban",
+      "regionId": "879",
+      "isSecret": false
+    },
+    {
+      "id": "939",
+      "name": "Caros",
+      "regionId": "878",
+      "isSecret": false
+    },
+    {
+      "id": "1533",
+      "name": "Caros:fortress",
+      "regionId": "878",
+      "isSecret": false
+    },
+    {
+      "id": "1532",
+      "name": "Caros:religious",
+      "regionId": "878",
+      "isSecret": false
+    },
+    {
+      "id": "1531",
+      "name": "Caros:urban",
+      "regionId": "878",
+      "isSecret": false
+    },
+    {
+      "id": "1232",
+      "name": "Cathedral",
+      "regionId": "899",
+      "isSecret": false
+    },
+    {
+      "id": "937",
+      "name": "Cauaros",
+      "regionId": "876",
+      "isSecret": false
+    },
+    {
+      "id": "1536",
+      "name": "Cauaros:fortress",
+      "regionId": "876",
+      "isSecret": false
+    },
+    {
+      "id": "1535",
+      "name": "Cauaros:religious",
+      "regionId": "876",
+      "isSecret": false
+    },
+    {
+      "id": "1534",
+      "name": "Cauaros:urban",
+      "regionId": "876",
+      "isSecret": false
+    },
+    {
+      "id": "936",
+      "name": "Cauatl",
+      "regionId": "875",
+      "isSecret": false
+    },
+    {
+      "id": "1539",
+      "name": "Cauatl:fortress",
+      "regionId": "875",
+      "isSecret": false
+    },
+    {
+      "id": "1538",
+      "name": "Cauatl:religious",
+      "regionId": "875",
+      "isSecret": false
+    },
+    {
+      "id": "1537",
+      "name": "Cauatl:urban",
+      "regionId": "875",
+      "isSecret": false
+    },
+    {
+      "id": "935",
+      "name": "Chakah",
+      "regionId": "873",
+      "isSecret": false
+    },
+    {
+      "id": "1542",
+      "name": "Chakah:fortress",
+      "regionId": "873",
+      "isSecret": false
+    },
+    {
+      "id": "1541",
+      "name": "Chakah:religious",
+      "regionId": "873",
+      "isSecret": false
+    },
+    {
+      "id": "1540",
+      "name": "Chakah:urban",
+      "regionId": "873",
+      "isSecret": false
+    },
+    {
+      "id": "933",
+      "name": "Chalkko",
+      "regionId": "877",
+      "isSecret": false
+    },
+    {
+      "id": "1545",
+      "name": "Chalkko:fortress",
+      "regionId": "877",
+      "isSecret": false
+    },
+    {
+      "id": "1544",
+      "name": "Chalkko:religious",
+      "regionId": "877",
+      "isSecret": false
+    },
+    {
+      "id": "1543",
+      "name": "Chalkko:urban",
+      "regionId": "877",
+      "isSecret": false
+    },
+    {
+      "id": "932",
+      "name": "Chapaht",
+      "regionId": "874",
+      "isSecret": false
+    },
+    {
+      "id": "1548",
+      "name": "Chapaht:fortress",
+      "regionId": "874",
+      "isSecret": false
+    },
+    {
+      "id": "1547",
+      "name": "Chapaht:religious",
+      "regionId": "874",
+      "isSecret": false
+    },
+    {
+      "id": "1546",
+      "name": "Chapaht:urban",
+      "regionId": "874",
+      "isSecret": false
+    },
+    {
+      "id": "934",
+      "name": "Chekkah",
+      "regionId": "872",
+      "isSecret": false
+    },
+    {
+      "id": "1551",
+      "name": "Chekkah:fortress",
+      "regionId": "872",
+      "isSecret": false
+    },
+    {
+      "id": "1550",
+      "name": "Chekkah:religious",
+      "regionId": "872",
+      "isSecret": false
+    },
+    {
+      "id": "1549",
+      "name": "Chekkah:urban",
+      "regionId": "872",
+      "isSecret": false
+    },
+    {
+      "id": "929",
+      "name": "Chi'itter",
+      "regionId": "871",
+      "isSecret": false
+    },
+    {
+      "id": "1554",
+      "name": "Chi'itter:fortress",
+      "regionId": "871",
+      "isSecret": false
+    },
+    {
+      "id": "1553",
+      "name": "Chi'itter:religious",
+      "regionId": "871",
+      "isSecret": false
+    },
+    {
+      "id": "1552",
+      "name": "Chi'itter:urban",
+      "regionId": "871",
+      "isSecret": false
+    },
+    {
+      "id": "930",
+      "name": "Chi'tari",
+      "regionId": "870",
+      "isSecret": false
+    },
+    {
+      "id": "1557",
+      "name": "Chi'tari:fortress",
+      "regionId": "870",
+      "isSecret": false
+    },
+    {
+      "id": "1556",
+      "name": "Chi'tari:religious",
+      "regionId": "870",
+      "isSecret": false
+    },
+    {
+      "id": "1555",
+      "name": "Chi'tari:urban",
+      "regionId": "870",
+      "isSecret": false
+    },
+    {
+      "id": "928",
+      "name": "Chidrûl",
+      "regionId": "869",
+      "isSecret": false
+    },
+    {
+      "id": "1560",
+      "name": "Chidrûl:fortress",
+      "regionId": "869",
+      "isSecret": false
+    },
+    {
+      "id": "1559",
+      "name": "Chidrûl:religious",
+      "regionId": "869",
+      "isSecret": false
+    },
+    {
+      "id": "1558",
+      "name": "Chidrûl:urban",
+      "regionId": "869",
+      "isSecret": false
+    },
+    {
+      "id": "931",
+      "name": "Chilyohan",
+      "regionId": "867",
+      "isSecret": false
+    },
+    {
+      "id": "1563",
+      "name": "Chilyohan:fortress",
+      "regionId": "867",
+      "isSecret": false
+    },
+    {
+      "id": "1562",
+      "name": "Chilyohan:religious",
+      "regionId": "867",
+      "isSecret": false
+    },
+    {
+      "id": "1561",
+      "name": "Chilyohan:urban",
+      "regionId": "867",
+      "isSecret": false
+    },
+    {
+      "id": "927",
+      "name": "Chitlan",
+      "regionId": "868",
+      "isSecret": false
+    },
+    {
+      "id": "1566",
+      "name": "Chitlan:fortress",
+      "regionId": "868",
+      "isSecret": false
+    },
+    {
+      "id": "1565",
+      "name": "Chitlan:religious",
+      "regionId": "868",
+      "isSecret": false
+    },
+    {
+      "id": "1564",
+      "name": "Chitlan:urban",
+      "regionId": "868",
+      "isSecret": false
+    },
+    {
+      "id": "926",
+      "name": "Chitteri",
+      "regionId": "866",
+      "isSecret": false
+    },
+    {
+      "id": "1569",
+      "name": "Chitteri:fortress",
+      "regionId": "866",
+      "isSecret": false
+    },
+    {
+      "id": "1568",
+      "name": "Chitteri:religious",
+      "regionId": "866",
+      "isSecret": false
+    },
+    {
+      "id": "1567",
+      "name": "Chitteri:urban",
+      "regionId": "866",
+      "isSecret": false
+    },
+    {
+      "id": "1063",
+      "name": "Chittix Coast",
+      "regionId": "1010",
+      "isSecret": false
+    },
+    {
+      "id": "1572",
+      "name": "Chittix Coast:fortress",
+      "regionId": "1010",
+      "isSecret": false
+    },
+    {
+      "id": "1571",
+      "name": "Chittix Coast:religious",
+      "regionId": "1010",
+      "isSecret": false
+    },
+    {
+      "id": "1570",
+      "name": "Chittix Coast:urban",
+      "regionId": "1010",
+      "isSecret": false
+    },
+    {
+      "id": "1140",
+      "name": "Choloa River",
+      "regionId": "1036",
+      "isSecret": false
+    },
+    {
+      "id": "1575",
+      "name": "Choloa River:fortress",
+      "regionId": "1036",
+      "isSecret": false
+    },
+    {
+      "id": "1574",
+      "name": "Choloa River:religious",
+      "regionId": "1036",
+      "isSecret": false
+    },
+    {
+      "id": "1573",
+      "name": "Choloa River:urban",
+      "regionId": "1036",
+      "isSecret": false
+    },
+    {
+      "id": "925",
+      "name": "Chorken",
+      "regionId": "865",
+      "isSecret": false
+    },
+    {
+      "id": "1578",
+      "name": "Chorken:fortress",
+      "regionId": "865",
+      "isSecret": false
+    },
+    {
+      "id": "1577",
+      "name": "Chorken:religious",
+      "regionId": "865",
+      "isSecret": false
+    },
+    {
+      "id": "1576",
+      "name": "Chorken:urban",
+      "regionId": "865",
+      "isSecret": false
+    },
+    {
+      "id": "924",
+      "name": "Chorra",
+      "regionId": "864",
+      "isSecret": false
+    },
+    {
+      "id": "1581",
+      "name": "Chorra:fortress",
+      "regionId": "864",
+      "isSecret": false
+    },
+    {
+      "id": "1580",
+      "name": "Chorra:religious",
+      "regionId": "864",
+      "isSecret": false
+    },
+    {
+      "id": "1579",
+      "name": "Chorra:urban",
+      "regionId": "864",
+      "isSecret": false
+    },
+    {
+      "id": "923",
+      "name": "Chortix",
+      "regionId": "863",
+      "isSecret": false
+    },
+    {
+      "id": "1584",
+      "name": "Chortix:fortress",
+      "regionId": "863",
+      "isSecret": false
+    },
+    {
+      "id": "1583",
+      "name": "Chortix:religious",
+      "regionId": "863",
+      "isSecret": false
+    },
+    {
+      "id": "1582",
+      "name": "Chortix:urban",
+      "regionId": "863",
+      "isSecret": false
+    },
+    {
+      "id": "921",
+      "name": "Chorzar",
+      "regionId": "862",
+      "isSecret": false
+    },
+    {
+      "id": "1587",
+      "name": "Chorzar:fortress",
+      "regionId": "862",
+      "isSecret": false
+    },
+    {
+      "id": "1586",
+      "name": "Chorzar:religious",
+      "regionId": "862",
+      "isSecret": false
+    },
+    {
+      "id": "1585",
+      "name": "Chorzar:urban",
+      "regionId": "862",
+      "isSecret": false
+    },
+    {
+      "id": "919",
+      "name": "Choyaua",
+      "regionId": "859",
+      "isSecret": false
+    },
+    {
+      "id": "1590",
+      "name": "Choyaua:fortress",
+      "regionId": "859",
+      "isSecret": false
+    },
+    {
+      "id": "1589",
+      "name": "Choyaua:religious",
+      "regionId": "859",
+      "isSecret": false
+    },
+    {
+      "id": "1588",
+      "name": "Choyaua:urban",
+      "regionId": "859",
+      "isSecret": false
+    },
+    {
+      "id": "920",
+      "name": "Cintos",
+      "regionId": "860",
+      "isSecret": false
+    },
+    {
+      "id": "1593",
+      "name": "Cintos:fortress",
+      "regionId": "860",
+      "isSecret": false
+    },
+    {
+      "id": "1592",
+      "name": "Cintos:religious",
+      "regionId": "860",
+      "isSecret": false
+    },
+    {
+      "id": "1591",
+      "name": "Cintos:urban",
+      "regionId": "860",
+      "isSecret": false
+    },
+    {
+      "id": "922",
+      "name": "Citu",
+      "regionId": "861",
+      "isSecret": false
+    },
+    {
+      "id": "1596",
+      "name": "Citu:fortress",
+      "regionId": "861",
+      "isSecret": false
+    },
+    {
+      "id": "1595",
+      "name": "Citu:religious",
+      "regionId": "861",
+      "isSecret": false
+    },
+    {
+      "id": "1594",
+      "name": "Citu:urban",
+      "regionId": "861",
+      "isSecret": false
+    },
+    {
+      "id": "918",
+      "name": "Clivvis",
+      "regionId": "857",
+      "isSecret": false
+    },
+    {
+      "id": "1599",
+      "name": "Clivvis:fortress",
+      "regionId": "857",
+      "isSecret": false
+    },
+    {
+      "id": "1598",
+      "name": "Clivvis:religious",
+      "regionId": "857",
+      "isSecret": false
+    },
+    {
+      "id": "1597",
+      "name": "Clivvis:urban",
+      "regionId": "857",
+      "isSecret": false
+    },
+    {
+      "id": "916",
+      "name": "Co'atepec",
+      "regionId": "858",
+      "isSecret": false
+    },
+    {
+      "id": "1602",
+      "name": "Co'atepec:fortress",
+      "regionId": "858",
+      "isSecret": false
+    },
+    {
+      "id": "1601",
+      "name": "Co'atepec:religious",
+      "regionId": "858",
+      "isSecret": false
+    },
+    {
+      "id": "1600",
+      "name": "Co'atepec:urban",
+      "regionId": "858",
+      "isSecret": false
+    },
+    {
+      "id": "1130",
+      "name": "Cochmikki River",
+      "regionId": "1026",
+      "isSecret": false
+    },
+    {
+      "id": "1605",
+      "name": "Cochmikki River:fortress",
+      "regionId": "1026",
+      "isSecret": false
+    },
+    {
+      "id": "1604",
+      "name": "Cochmikki River:religious",
+      "regionId": "1026",
+      "isSecret": false
+    },
+    {
+      "id": "1603",
+      "name": "Cochmikki River:urban",
+      "regionId": "1026",
+      "isSecret": false
+    },
+    {
+      "id": "24",
+      "name": "Colledhu",
+      "regionId": "856",
+      "isSecret": false
+    },
+    {
+      "id": "1608",
+      "name": "Colledhu:fortress",
+      "regionId": "856",
+      "isSecret": false
+    },
+    {
+      "id": "1607",
+      "name": "Colledhu:religious",
+      "regionId": "856",
+      "isSecret": false
+    },
+    {
+      "id": "1606",
+      "name": "Colledhu:urban",
+      "regionId": "856",
+      "isSecret": false
+    },
+    {
+      "id": "915",
+      "name": "Corinn(2121)",
+      "regionId": "854",
+      "isSecret": false
+    },
+    {
+      "id": "1611",
+      "name": "Corinn(2121):fortress",
+      "regionId": "854",
+      "isSecret": false
+    },
+    {
+      "id": "1610",
+      "name": "Corinn(2121):religious",
+      "regionId": "854",
+      "isSecret": false
+    },
+    {
+      "id": "1609",
+      "name": "Corinn(2121):urban",
+      "regionId": "854",
+      "isSecret": false
+    },
+    {
+      "id": "917",
+      "name": "Corinn(2211)",
+      "regionId": "855",
+      "isSecret": false
+    },
+    {
+      "id": "1614",
+      "name": "Corinn(2211):fortress",
+      "regionId": "855",
+      "isSecret": false
+    },
+    {
+      "id": "1613",
+      "name": "Corinn(2211):religious",
+      "regionId": "855",
+      "isSecret": false
+    },
+    {
+      "id": "1612",
+      "name": "Corinn(2211):urban",
+      "regionId": "855",
+      "isSecret": false
+    },
+    {
+      "id": "914",
+      "name": "Corund",
+      "regionId": "852",
+      "isSecret": false
+    },
+    {
+      "id": "1617",
+      "name": "Corund:fortress",
+      "regionId": "852",
+      "isSecret": false
+    },
+    {
+      "id": "1616",
+      "name": "Corund:religious",
+      "regionId": "852",
+      "isSecret": false
+    },
+    {
+      "id": "1615",
+      "name": "Corund:urban",
+      "regionId": "852",
+      "isSecret": false
+    },
+    {
+      "id": "911",
+      "name": "Coz'tic",
+      "regionId": "851",
+      "isSecret": false
+    },
+    {
+      "id": "1620",
+      "name": "Coz'tic:fortress",
+      "regionId": "851",
+      "isSecret": false
+    },
+    {
+      "id": "1619",
+      "name": "Coz'tic:religious",
+      "regionId": "851",
+      "isSecret": false
+    },
+    {
+      "id": "1618",
+      "name": "Coz'tic:urban",
+      "regionId": "851",
+      "isSecret": false
+    },
+    {
+      "id": "913",
+      "name": "Cozcapilla",
+      "regionId": "853",
+      "isSecret": false
+    },
+    {
+      "id": "1623",
+      "name": "Cozcapilla:fortress",
+      "regionId": "853",
+      "isSecret": false
+    },
+    {
+      "id": "1622",
+      "name": "Cozcapilla:religious",
+      "regionId": "853",
+      "isSecret": false
+    },
+    {
+      "id": "1621",
+      "name": "Cozcapilla:urban",
+      "regionId": "853",
+      "isSecret": false
+    },
+    {
+      "id": "1153",
+      "name": "Crinmi River",
+      "regionId": "1048",
+      "isSecret": false
+    },
+    {
+      "id": "1626",
+      "name": "Crinmi River:fortress",
+      "regionId": "1048",
+      "isSecret": false
+    },
+    {
+      "id": "1625",
+      "name": "Crinmi River:religious",
+      "regionId": "1048",
+      "isSecret": false
+    },
+    {
+      "id": "1624",
+      "name": "Crinmi River:urban",
+      "regionId": "1048",
+      "isSecret": false
+    },
+    {
+      "id": "910",
+      "name": "Crodiolendh",
+      "regionId": "850",
+      "isSecret": false
+    },
+    {
+      "id": "1629",
+      "name": "Crodiolendh:fortress",
+      "regionId": "850",
+      "isSecret": false
+    },
+    {
+      "id": "1628",
+      "name": "Crodiolendh:religious",
+      "regionId": "850",
+      "isSecret": false
+    },
+    {
+      "id": "1627",
+      "name": "Crodiolendh:urban",
+      "regionId": "850",
+      "isSecret": false
+    },
+    {
+      "id": "912",
+      "name": "Cuppar",
+      "regionId": "849",
+      "isSecret": false
+    },
+    {
+      "id": "1632",
+      "name": "Cuppar:fortress",
+      "regionId": "849",
+      "isSecret": false
+    },
+    {
+      "id": "1631",
+      "name": "Cuppar:religious",
+      "regionId": "849",
+      "isSecret": false
+    },
+    {
+      "id": "1630",
+      "name": "Cuppar:urban",
+      "regionId": "849",
+      "isSecret": false
+    },
+    {
+      "id": "944",
+      "name": "Cærrat",
+      "regionId": "886",
+      "isSecret": false
+    },
+    {
+      "id": "1635",
+      "name": "Cærrat:fortress",
+      "regionId": "886",
+      "isSecret": false
+    },
+    {
+      "id": "1634",
+      "name": "Cærrat:religious",
+      "regionId": "886",
+      "isSecret": false
+    },
+    {
+      "id": "1633",
+      "name": "Cærrat:urban",
+      "regionId": "886",
+      "isSecret": false
+    },
+    {
+      "id": "909",
+      "name": "Dahu",
+      "regionId": "845",
+      "isSecret": false
+    },
+    {
+      "id": "1638",
+      "name": "Dahu:fortress",
+      "regionId": "845",
+      "isSecret": false
+    },
+    {
+      "id": "1637",
+      "name": "Dahu:religious",
+      "regionId": "845",
+      "isSecret": false
+    },
+    {
+      "id": "1636",
+      "name": "Dahu:urban",
+      "regionId": "845",
+      "isSecret": false
+    },
+    {
+      "id": "907",
+      "name": "Dalawathi",
+      "regionId": "844",
+      "isSecret": false
+    },
+    {
+      "id": "1641",
+      "name": "Dalawathi:fortress",
+      "regionId": "844",
+      "isSecret": false
+    },
+    {
+      "id": "1640",
+      "name": "Dalawathi:religious",
+      "regionId": "844",
+      "isSecret": false
+    },
+    {
+      "id": "1639",
+      "name": "Dalawathi:urban",
+      "regionId": "844",
+      "isSecret": false
+    },
+    {
+      "id": "906",
+      "name": "Dalgányi",
+      "regionId": "846",
+      "isSecret": false
+    },
+    {
+      "id": "1644",
+      "name": "Dalgányi:fortress",
+      "regionId": "846",
+      "isSecret": false
+    },
+    {
+      "id": "1643",
+      "name": "Dalgányi:religious",
+      "regionId": "846",
+      "isSecret": false
+    },
+    {
+      "id": "1642",
+      "name": "Dalgányi:urban",
+      "regionId": "846",
+      "isSecret": false
+    },
+    {
+      "id": "904",
+      "name": "Dalkurnu",
+      "regionId": "848",
+      "isSecret": false
+    },
+    {
+      "id": "1647",
+      "name": "Dalkurnu:fortress",
+      "regionId": "848",
+      "isSecret": false
+    },
+    {
+      "id": "1646",
+      "name": "Dalkurnu:religious",
+      "regionId": "848",
+      "isSecret": false
+    },
+    {
+      "id": "1645",
+      "name": "Dalkurnu:urban",
+      "regionId": "848",
+      "isSecret": false
+    },
+    {
+      "id": "908",
+      "name": "Dalâd",
+      "regionId": "847",
+      "isSecret": false
+    },
+    {
+      "id": "1650",
+      "name": "Dalâd:fortress",
+      "regionId": "847",
+      "isSecret": false
+    },
+    {
+      "id": "1649",
+      "name": "Dalâd:religious",
+      "regionId": "847",
+      "isSecret": false
+    },
+    {
+      "id": "1648",
+      "name": "Dalâd:urban",
+      "regionId": "847",
+      "isSecret": false
+    },
+    {
+      "id": "903",
+      "name": "Dambana",
+      "regionId": "843",
+      "isSecret": false
+    },
+    {
+      "id": "1653",
+      "name": "Dambana:fortress",
+      "regionId": "843",
+      "isSecret": false
+    },
+    {
+      "id": "1652",
+      "name": "Dambana:religious",
+      "regionId": "843",
+      "isSecret": false
+    },
+    {
+      "id": "1651",
+      "name": "Dambana:urban",
+      "regionId": "843",
+      "isSecret": false
+    },
+    {
+      "id": "902",
+      "name": "Dambiyi",
+      "regionId": "842",
+      "isSecret": false
+    },
+    {
+      "id": "1656",
+      "name": "Dambiyi:fortress",
+      "regionId": "842",
+      "isSecret": false
+    },
+    {
+      "id": "1655",
+      "name": "Dambiyi:religious",
+      "regionId": "842",
+      "isSecret": false
+    },
+    {
+      "id": "1654",
+      "name": "Dambiyi:urban",
+      "regionId": "842",
+      "isSecret": false
+    },
+    {
+      "id": "905",
+      "name": "Dannek",
+      "regionId": "840",
+      "isSecret": false
+    },
+    {
+      "id": "1659",
+      "name": "Dannek:fortress",
+      "regionId": "840",
+      "isSecret": false
+    },
+    {
+      "id": "1658",
+      "name": "Dannek:religious",
+      "regionId": "840",
+      "isSecret": false
+    },
+    {
+      "id": "1657",
+      "name": "Dannek:urban",
+      "regionId": "840",
+      "isSecret": false
+    },
+    {
+      "id": "169",
+      "name": "Danneseth",
+      "regionId": "839",
+      "isSecret": false
+    },
+    {
+      "id": "1662",
+      "name": "Danneseth:fortress",
+      "regionId": "839",
+      "isSecret": false
+    },
+    {
+      "id": "1661",
+      "name": "Danneseth:religious",
+      "regionId": "839",
+      "isSecret": false
+    },
+    {
+      "id": "1660",
+      "name": "Danneseth:urban",
+      "regionId": "839",
+      "isSecret": false
+    },
+    {
+      "id": "900",
+      "name": "Dara",
+      "regionId": "838",
+      "isSecret": false
+    },
+    {
+      "id": "1665",
+      "name": "Dara:fortress",
+      "regionId": "838",
+      "isSecret": false
+    },
+    {
+      "id": "1664",
+      "name": "Dara:religious",
+      "regionId": "838",
+      "isSecret": false
+    },
+    {
+      "id": "1663",
+      "name": "Dara:urban",
+      "regionId": "838",
+      "isSecret": false
+    },
+    {
+      "id": "899",
+      "name": "Daradú",
+      "regionId": "841",
+      "isSecret": false
+    },
+    {
+      "id": "1668",
+      "name": "Daradú:fortress",
+      "regionId": "841",
+      "isSecret": false
+    },
+    {
+      "id": "1667",
+      "name": "Daradú:religious",
+      "regionId": "841",
+      "isSecret": false
+    },
+    {
+      "id": "1666",
+      "name": "Daradú:urban",
+      "regionId": "841",
+      "isSecret": false
+    },
+    {
+      "id": "901",
+      "name": "Darathal",
+      "regionId": "837",
+      "isSecret": false
+    },
+    {
+      "id": "1671",
+      "name": "Darathal:fortress",
+      "regionId": "837",
+      "isSecret": false
+    },
+    {
+      "id": "1670",
+      "name": "Darathal:religious",
+      "regionId": "837",
+      "isSecret": false
+    },
+    {
+      "id": "1669",
+      "name": "Darathal:urban",
+      "regionId": "837",
+      "isSecret": false
+    },
+    {
+      "id": "898",
+      "name": "Darchi",
+      "regionId": "836",
+      "isSecret": false
+    },
+    {
+      "id": "1674",
+      "name": "Darchi:fortress",
+      "regionId": "836",
+      "isSecret": false
+    },
+    {
+      "id": "1673",
+      "name": "Darchi:religious",
+      "regionId": "836",
+      "isSecret": false
+    },
+    {
+      "id": "1672",
+      "name": "Darchi:urban",
+      "regionId": "836",
+      "isSecret": false
+    },
+    {
+      "id": "897",
+      "name": "Darghas",
+      "regionId": "835",
+      "isSecret": false
+    },
+    {
+      "id": "1677",
+      "name": "Darghas:fortress",
+      "regionId": "835",
+      "isSecret": false
+    },
+    {
+      "id": "1676",
+      "name": "Darghas:religious",
+      "regionId": "835",
+      "isSecret": false
+    },
+    {
+      "id": "1675",
+      "name": "Darghas:urban",
+      "regionId": "835",
+      "isSecret": false
+    },
+    {
+      "id": "895",
+      "name": "Darida",
+      "regionId": "833",
+      "isSecret": false
+    },
+    {
+      "id": "1680",
+      "name": "Darida:fortress",
+      "regionId": "833",
+      "isSecret": false
+    },
+    {
+      "id": "1679",
+      "name": "Darida:religious",
+      "regionId": "833",
+      "isSecret": false
+    },
+    {
+      "id": "1678",
+      "name": "Darida:urban",
+      "regionId": "833",
+      "isSecret": false
+    },
+    {
+      "id": "896",
+      "name": "Darrayi",
+      "regionId": "834",
+      "isSecret": false
+    },
+    {
+      "id": "1683",
+      "name": "Darrayi:fortress",
+      "regionId": "834",
+      "isSecret": false
+    },
+    {
+      "id": "1682",
+      "name": "Darrayi:religious",
+      "regionId": "834",
+      "isSecret": false
+    },
+    {
+      "id": "1681",
+      "name": "Darrayi:urban",
+      "regionId": "834",
+      "isSecret": false
+    },
+    {
+      "id": "1147",
+      "name": "Darriow River",
+      "regionId": "1059",
+      "isSecret": false
+    },
+    {
+      "id": "1686",
+      "name": "Darriow River:fortress",
+      "regionId": "1059",
+      "isSecret": false
+    },
+    {
+      "id": "1685",
+      "name": "Darriow River:religious",
+      "regionId": "1059",
+      "isSecret": false
+    },
+    {
+      "id": "1684",
+      "name": "Darriow River:urban",
+      "regionId": "1059",
+      "isSecret": false
+    },
+    {
+      "id": "892",
+      "name": "Daryis",
+      "regionId": "830",
+      "isSecret": false
+    },
+    {
+      "id": "1689",
+      "name": "Daryis:fortress",
+      "regionId": "830",
+      "isSecret": false
+    },
+    {
+      "id": "1688",
+      "name": "Daryis:religious",
+      "regionId": "830",
+      "isSecret": false
+    },
+    {
+      "id": "1687",
+      "name": "Daryis:urban",
+      "regionId": "830",
+      "isSecret": false
+    },
+    {
+      "id": "894",
+      "name": "Dathadhu",
+      "regionId": "832",
+      "isSecret": false
+    },
+    {
+      "id": "1692",
+      "name": "Dathadhu:fortress",
+      "regionId": "832",
+      "isSecret": false
+    },
+    {
+      "id": "1691",
+      "name": "Dathadhu:religious",
+      "regionId": "832",
+      "isSecret": false
+    },
+    {
+      "id": "1690",
+      "name": "Dathadhu:urban",
+      "regionId": "832",
+      "isSecret": false
+    },
+    {
+      "id": "890",
+      "name": "Davica",
+      "regionId": "828",
+      "isSecret": false
+    },
+    {
+      "id": "1695",
+      "name": "Davica:fortress",
+      "regionId": "828",
+      "isSecret": false
+    },
+    {
+      "id": "1694",
+      "name": "Davica:religious",
+      "regionId": "828",
+      "isSecret": false
+    },
+    {
+      "id": "1693",
+      "name": "Davica:urban",
+      "regionId": "828",
+      "isSecret": false
+    },
+    {
+      "id": "888",
+      "name": "Decaspë",
+      "regionId": "827",
+      "isSecret": false
+    },
+    {
+      "id": "1698",
+      "name": "Decaspë:fortress",
+      "regionId": "827",
+      "isSecret": false
+    },
+    {
+      "id": "1697",
+      "name": "Decaspë:religious",
+      "regionId": "827",
+      "isSecret": false
+    },
+    {
+      "id": "1696",
+      "name": "Decaspë:urban",
+      "regionId": "827",
+      "isSecret": false
+    },
+    {
+      "id": "889",
+      "name": "Degrah",
+      "regionId": "826",
+      "isSecret": false
+    },
+    {
+      "id": "1701",
+      "name": "Degrah:fortress",
+      "regionId": "826",
+      "isSecret": false
+    },
+    {
+      "id": "1700",
+      "name": "Degrah:religious",
+      "regionId": "826",
+      "isSecret": false
+    },
+    {
+      "id": "1699",
+      "name": "Degrah:urban",
+      "regionId": "826",
+      "isSecret": false
+    },
+    {
+      "id": "891",
+      "name": "Deiradjur",
+      "regionId": "825",
+      "isSecret": false
+    },
+    {
+      "id": "1704",
+      "name": "Deiradjur:fortress",
+      "regionId": "825",
+      "isSecret": false
+    },
+    {
+      "id": "1703",
+      "name": "Deiradjur:religious",
+      "regionId": "825",
+      "isSecret": false
+    },
+    {
+      "id": "1702",
+      "name": "Deiradjur:urban",
+      "regionId": "825",
+      "isSecret": false
+    },
+    {
+      "id": "887",
+      "name": "Deiss",
+      "regionId": "829",
+      "isSecret": false
+    },
+    {
+      "id": "1707",
+      "name": "Deiss:fortress",
+      "regionId": "829",
+      "isSecret": false
+    },
+    {
+      "id": "1706",
+      "name": "Deiss:religious",
+      "regionId": "829",
+      "isSecret": false
+    },
+    {
+      "id": "1705",
+      "name": "Deiss:urban",
+      "regionId": "829",
+      "isSecret": false
+    },
+    {
+      "id": "886",
+      "name": "Dekametos",
+      "regionId": "824",
+      "isSecret": false
+    },
+    {
+      "id": "1710",
+      "name": "Dekametos:fortress",
+      "regionId": "824",
+      "isSecret": false
+    },
+    {
+      "id": "1709",
+      "name": "Dekametos:religious",
+      "regionId": "824",
+      "isSecret": false
+    },
+    {
+      "id": "1708",
+      "name": "Dekametos:urban",
+      "regionId": "824",
+      "isSecret": false
+    },
+    {
+      "id": "883",
+      "name": "Delin",
+      "regionId": "823",
+      "isSecret": false
+    },
+    {
+      "id": "1713",
+      "name": "Delin:fortress",
+      "regionId": "823",
+      "isSecret": false
+    },
+    {
+      "id": "1712",
+      "name": "Delin:religious",
+      "regionId": "823",
+      "isSecret": false
+    },
+    {
+      "id": "1711",
+      "name": "Delin:urban",
+      "regionId": "823",
+      "isSecret": false
+    },
+    {
+      "id": "884",
+      "name": "Denezikat",
+      "regionId": "821",
+      "isSecret": false
+    },
+    {
+      "id": "1716",
+      "name": "Denezikat:fortress",
+      "regionId": "821",
+      "isSecret": false
+    },
+    {
+      "id": "1715",
+      "name": "Denezikat:religious",
+      "regionId": "821",
+      "isSecret": false
+    },
+    {
+      "id": "1714",
+      "name": "Denezikat:urban",
+      "regionId": "821",
+      "isSecret": false
+    },
+    {
+      "id": "882",
+      "name": "Dennovar",
+      "regionId": "820",
+      "isSecret": false
+    },
+    {
+      "id": "1719",
+      "name": "Dennovar:fortress",
+      "regionId": "820",
+      "isSecret": false
+    },
+    {
+      "id": "1718",
+      "name": "Dennovar:religious",
+      "regionId": "820",
+      "isSecret": false
+    },
+    {
+      "id": "1717",
+      "name": "Dennovar:urban",
+      "regionId": "820",
+      "isSecret": false
+    },
+    {
+      "id": "885",
+      "name": "Derridon",
+      "regionId": "822",
+      "isSecret": false
+    },
+    {
+      "id": "1722",
+      "name": "Derridon:fortress",
+      "regionId": "822",
+      "isSecret": false
+    },
+    {
+      "id": "1721",
+      "name": "Derridon:religious",
+      "regionId": "822",
+      "isSecret": false
+    },
+    {
+      "id": "1720",
+      "name": "Derridon:urban",
+      "regionId": "822",
+      "isSecret": false
+    },
+    {
+      "id": "34",
+      "name": "Derrow",
+      "regionId": "12",
+      "isSecret": false
+    },
+    {
+      "id": "1725",
+      "name": "Derrow:fortress",
+      "regionId": "12",
+      "isSecret": false
+    },
+    {
+      "id": "1724",
+      "name": "Derrow:religious",
+      "regionId": "12",
+      "isSecret": false
+    },
+    {
+      "id": "1723",
+      "name": "Derrow:urban",
+      "regionId": "12",
+      "isSecret": false
+    },
+    {
+      "id": "881",
+      "name": "Dervolendh",
+      "regionId": "817",
+      "isSecret": false
+    },
+    {
+      "id": "1728",
+      "name": "Dervolendh:fortress",
+      "regionId": "817",
+      "isSecret": false
+    },
+    {
+      "id": "1727",
+      "name": "Dervolendh:religious",
+      "regionId": "817",
+      "isSecret": false
+    },
+    {
+      "id": "1726",
+      "name": "Dervolendh:urban",
+      "regionId": "817",
+      "isSecret": false
+    },
+    {
+      "id": "880",
+      "name": "Dimba",
+      "regionId": "819",
+      "isSecret": false
+    },
+    {
+      "id": "1731",
+      "name": "Dimba:fortress",
+      "regionId": "819",
+      "isSecret": false
+    },
+    {
+      "id": "1730",
+      "name": "Dimba:religious",
+      "regionId": "819",
+      "isSecret": false
+    },
+    {
+      "id": "1729",
+      "name": "Dimba:urban",
+      "regionId": "819",
+      "isSecret": false
+    },
+    {
+      "id": "879",
+      "name": "Dinsadon",
+      "regionId": "814",
+      "isSecret": false
+    },
+    {
+      "id": "1734",
+      "name": "Dinsadon:fortress",
+      "regionId": "814",
+      "isSecret": false
+    },
+    {
+      "id": "1733",
+      "name": "Dinsadon:religious",
+      "regionId": "814",
+      "isSecret": false
+    },
+    {
+      "id": "1732",
+      "name": "Dinsadon:urban",
+      "regionId": "814",
+      "isSecret": false
+    },
+    {
+      "id": "877",
+      "name": "Dirhax",
+      "regionId": "816",
+      "isSecret": false
+    },
+    {
+      "id": "1737",
+      "name": "Dirhax:fortress",
+      "regionId": "816",
+      "isSecret": false
+    },
+    {
+      "id": "1736",
+      "name": "Dirhax:religious",
+      "regionId": "816",
+      "isSecret": false
+    },
+    {
+      "id": "1735",
+      "name": "Dirhax:urban",
+      "regionId": "816",
+      "isSecret": false
+    },
+    {
+      "id": "876",
+      "name": "Djalneth",
+      "regionId": "815",
+      "isSecret": false
+    },
+    {
+      "id": "1740",
+      "name": "Djalneth:fortress",
+      "regionId": "815",
+      "isSecret": false
+    },
+    {
+      "id": "1739",
+      "name": "Djalneth:religious",
+      "regionId": "815",
+      "isSecret": false
+    },
+    {
+      "id": "1738",
+      "name": "Djalneth:urban",
+      "regionId": "815",
+      "isSecret": false
+    },
+    {
+      "id": "878",
+      "name": "Djarden",
+      "regionId": "813",
+      "isSecret": false
+    },
+    {
+      "id": "1743",
+      "name": "Djarden:fortress",
+      "regionId": "813",
+      "isSecret": false
+    },
+    {
+      "id": "1742",
+      "name": "Djarden:religious",
+      "regionId": "813",
+      "isSecret": false
+    },
+    {
+      "id": "1741",
+      "name": "Djarden:urban",
+      "regionId": "813",
+      "isSecret": false
+    },
+    {
+      "id": "1065",
+      "name": "Dorkat Coast",
+      "regionId": "1012",
+      "isSecret": false
+    },
+    {
+      "id": "1746",
+      "name": "Dorkat Coast:fortress",
+      "regionId": "1012",
+      "isSecret": false
+    },
+    {
+      "id": "1745",
+      "name": "Dorkat Coast:religious",
+      "regionId": "1012",
+      "isSecret": false
+    },
+    {
+      "id": "1744",
+      "name": "Dorkat Coast:urban",
+      "regionId": "1012",
+      "isSecret": false
+    },
+    {
+      "id": "873",
+      "name": "Dornaïs",
+      "regionId": "812",
+      "isSecret": false
+    },
+    {
+      "id": "1749",
+      "name": "Dornaïs:fortress",
+      "regionId": "812",
+      "isSecret": false
+    },
+    {
+      "id": "1748",
+      "name": "Dornaïs:religious",
+      "regionId": "812",
+      "isSecret": false
+    },
+    {
+      "id": "1747",
+      "name": "Dornaïs:urban",
+      "regionId": "812",
+      "isSecret": false
+    },
+    {
+      "id": "871",
+      "name": "Dorozhand",
+      "regionId": "810",
+      "isSecret": false
+    },
+    {
+      "id": "1752",
+      "name": "Dorozhand:fortress",
+      "regionId": "810",
+      "isSecret": false
+    },
+    {
+      "id": "1751",
+      "name": "Dorozhand:religious",
+      "regionId": "810",
+      "isSecret": false
+    },
+    {
+      "id": "1750",
+      "name": "Dorozhand:urban",
+      "regionId": "810",
+      "isSecret": false
+    },
+    {
+      "id": "874",
+      "name": "Dorria",
+      "regionId": "811",
+      "isSecret": false
+    },
+    {
+      "id": "1755",
+      "name": "Dorria:fortress",
+      "regionId": "811",
+      "isSecret": false
+    },
+    {
+      "id": "1754",
+      "name": "Dorria:religious",
+      "regionId": "811",
+      "isSecret": false
+    },
+    {
+      "id": "1753",
+      "name": "Dorria:urban",
+      "regionId": "811",
+      "isSecret": false
+    },
+    {
+      "id": "875",
+      "name": "Dorrial",
+      "regionId": "809",
+      "isSecret": false
+    },
+    {
+      "id": "1758",
+      "name": "Dorrial:fortress",
+      "regionId": "809",
+      "isSecret": false
+    },
+    {
+      "id": "1757",
+      "name": "Dorrial:religious",
+      "regionId": "809",
+      "isSecret": false
+    },
+    {
+      "id": "1756",
+      "name": "Dorrial:urban",
+      "regionId": "809",
+      "isSecret": false
+    },
+    {
+      "id": "870",
+      "name": "Dottoria",
+      "regionId": "807",
+      "isSecret": false
+    },
+    {
+      "id": "1761",
+      "name": "Dottoria:fortress",
+      "regionId": "807",
+      "isSecret": false
+    },
+    {
+      "id": "1760",
+      "name": "Dottoria:religious",
+      "regionId": "807",
+      "isSecret": false
+    },
+    {
+      "id": "1759",
+      "name": "Dottoria:urban",
+      "regionId": "807",
+      "isSecret": false
+    },
+    {
+      "id": "166",
+      "name": "Dramûl",
+      "regionId": "808",
+      "isSecret": false
+    },
+    {
+      "id": "1764",
+      "name": "Dramûl:fortress",
+      "regionId": "808",
+      "isSecret": false
+    },
+    {
+      "id": "1763",
+      "name": "Dramûl:religious",
+      "regionId": "808",
+      "isSecret": false
+    },
+    {
+      "id": "1762",
+      "name": "Dramûl:urban",
+      "regionId": "808",
+      "isSecret": false
+    },
+    {
+      "id": "872",
+      "name": "Dranyi",
+      "regionId": "805",
+      "isSecret": false
+    },
+    {
+      "id": "1767",
+      "name": "Dranyi:fortress",
+      "regionId": "805",
+      "isSecret": false
+    },
+    {
+      "id": "1766",
+      "name": "Dranyi:religious",
+      "regionId": "805",
+      "isSecret": false
+    },
+    {
+      "id": "1765",
+      "name": "Dranyi:urban",
+      "regionId": "805",
+      "isSecret": false
+    },
+    {
+      "id": "868",
+      "name": "Drazjun",
+      "regionId": "804",
+      "isSecret": false
+    },
+    {
+      "id": "1770",
+      "name": "Drazjun:fortress",
+      "regionId": "804",
+      "isSecret": false
+    },
+    {
+      "id": "1769",
+      "name": "Drazjun:religious",
+      "regionId": "804",
+      "isSecret": false
+    },
+    {
+      "id": "1768",
+      "name": "Drazjun:urban",
+      "regionId": "804",
+      "isSecret": false
+    },
+    {
+      "id": "869",
+      "name": "Drityi",
+      "regionId": "803",
+      "isSecret": false
+    },
+    {
+      "id": "1773",
+      "name": "Drityi:fortress",
+      "regionId": "803",
+      "isSecret": false
+    },
+    {
+      "id": "1772",
+      "name": "Drityi:religious",
+      "regionId": "803",
+      "isSecret": false
+    },
+    {
+      "id": "1771",
+      "name": "Drityi:urban",
+      "regionId": "803",
+      "isSecret": false
+    },
+    {
+      "id": "27",
+      "name": "Drogdyr",
+      "regionId": "802",
+      "isSecret": false
+    },
+    {
+      "id": "1776",
+      "name": "Drogdyr:fortress",
+      "regionId": "802",
+      "isSecret": false
+    },
+    {
+      "id": "1775",
+      "name": "Drogdyr:religious",
+      "regionId": "802",
+      "isSecret": false
+    },
+    {
+      "id": "1774",
+      "name": "Drogdyr:urban",
+      "regionId": "802",
+      "isSecret": false
+    },
+    {
+      "id": "28",
+      "name": "Dubarha",
+      "regionId": "801",
+      "isSecret": false
+    },
+    {
+      "id": "1779",
+      "name": "Dubarha:fortress",
+      "regionId": "801",
+      "isSecret": false
+    },
+    {
+      "id": "1778",
+      "name": "Dubarha:religious",
+      "regionId": "801",
+      "isSecret": false
+    },
+    {
+      "id": "1777",
+      "name": "Dubarha:urban",
+      "regionId": "801",
+      "isSecret": false
+    },
+    {
+      "id": "865",
+      "name": "Dubepuos",
+      "regionId": "806",
+      "isSecret": false
+    },
+    {
+      "id": "1782",
+      "name": "Dubepuos:fortress",
+      "regionId": "806",
+      "isSecret": false
+    },
+    {
+      "id": "1781",
+      "name": "Dubepuos:religious",
+      "regionId": "806",
+      "isSecret": false
+    },
+    {
+      "id": "1780",
+      "name": "Dubepuos:urban",
+      "regionId": "806",
+      "isSecret": false
+    },
+    {
+      "id": "866",
+      "name": "Dunvaël",
+      "regionId": "800",
+      "isSecret": false
+    },
+    {
+      "id": "1785",
+      "name": "Dunvaël:fortress",
+      "regionId": "800",
+      "isSecret": false
+    },
+    {
+      "id": "1784",
+      "name": "Dunvaël:religious",
+      "regionId": "800",
+      "isSecret": false
+    },
+    {
+      "id": "1783",
+      "name": "Dunvaël:urban",
+      "regionId": "800",
+      "isSecret": false
+    },
+    {
+      "id": "867",
+      "name": "Dusios",
+      "regionId": "798",
+      "isSecret": false
+    },
+    {
+      "id": "1788",
+      "name": "Dusios:fortress",
+      "regionId": "798",
+      "isSecret": false
+    },
+    {
+      "id": "1787",
+      "name": "Dusios:religious",
+      "regionId": "798",
+      "isSecret": false
+    },
+    {
+      "id": "1786",
+      "name": "Dusios:urban",
+      "regionId": "798",
+      "isSecret": false
+    },
+    {
+      "id": "863",
+      "name": "Duzjun",
+      "regionId": "799",
+      "isSecret": false
+    },
+    {
+      "id": "1791",
+      "name": "Duzjun:fortress",
+      "regionId": "799",
+      "isSecret": false
+    },
+    {
+      "id": "1790",
+      "name": "Duzjun:religious",
+      "regionId": "799",
+      "isSecret": false
+    },
+    {
+      "id": "1789",
+      "name": "Duzjun:urban",
+      "regionId": "799",
+      "isSecret": false
+    },
+    {
+      "id": "864",
+      "name": "Dwelnaz",
+      "regionId": "797",
+      "isSecret": false
+    },
+    {
+      "id": "1794",
+      "name": "Dwelnaz:fortress",
+      "regionId": "797",
+      "isSecret": false
+    },
+    {
+      "id": "1793",
+      "name": "Dwelnaz:religious",
+      "regionId": "797",
+      "isSecret": false
+    },
+    {
+      "id": "1792",
+      "name": "Dwelnaz:urban",
+      "regionId": "797",
+      "isSecret": false
+    },
+    {
+      "id": "860",
+      "name": "Dynath",
+      "regionId": "795",
+      "isSecret": false
+    },
+    {
+      "id": "1797",
+      "name": "Dynath:fortress",
+      "regionId": "795",
+      "isSecret": false
+    },
+    {
+      "id": "1796",
+      "name": "Dynath:religious",
+      "regionId": "795",
+      "isSecret": false
+    },
+    {
+      "id": "1795",
+      "name": "Dynath:urban",
+      "regionId": "795",
+      "isSecret": false
+    },
+    {
+      "id": "893",
+      "name": "Dárrima",
+      "regionId": "831",
+      "isSecret": false
+    },
+    {
+      "id": "1800",
+      "name": "Dárrima:fortress",
+      "regionId": "831",
+      "isSecret": false
+    },
+    {
+      "id": "1799",
+      "name": "Dárrima:religious",
+      "regionId": "831",
+      "isSecret": false
+    },
+    {
+      "id": "1798",
+      "name": "Dárrima:urban",
+      "regionId": "831",
+      "isSecret": false
+    },
+    {
+      "id": "1059",
+      "name": "Eastern Gulf of Iphil",
+      "regionId": "1006",
+      "isSecret": false
+    },
+    {
+      "id": "1803",
+      "name": "Eastern Gulf of Iphil:fortress",
+      "regionId": "1006",
+      "isSecret": false
+    },
+    {
+      "id": "1802",
+      "name": "Eastern Gulf of Iphil:religious",
+      "regionId": "1006",
+      "isSecret": false
+    },
+    {
+      "id": "1801",
+      "name": "Eastern Gulf of Iphil:urban",
+      "regionId": "1006",
+      "isSecret": false
+    },
+    {
+      "id": "861",
+      "name": "Ebmadh",
+      "regionId": "796",
+      "isSecret": false
+    },
+    {
+      "id": "1806",
+      "name": "Ebmadh:fortress",
+      "regionId": "796",
+      "isSecret": false
+    },
+    {
+      "id": "1805",
+      "name": "Ebmadh:religious",
+      "regionId": "796",
+      "isSecret": false
+    },
+    {
+      "id": "1804",
+      "name": "Ebmadh:urban",
+      "regionId": "796",
+      "isSecret": false
+    },
+    {
+      "id": "859",
+      "name": "Ebnon",
+      "regionId": "792",
+      "isSecret": false
+    },
+    {
+      "id": "1809",
+      "name": "Ebnon:fortress",
+      "regionId": "792",
+      "isSecret": false
+    },
+    {
+      "id": "1808",
+      "name": "Ebnon:religious",
+      "regionId": "792",
+      "isSecret": false
+    },
+    {
+      "id": "1807",
+      "name": "Ebnon:urban",
+      "regionId": "792",
+      "isSecret": false
+    },
+    {
+      "id": "41",
+      "name": "Edhen",
+      "regionId": "13",
+      "isSecret": false
+    },
+    {
+      "id": "1812",
+      "name": "Edhen:fortress",
+      "regionId": "13",
+      "isSecret": false
+    },
+    {
+      "id": "1811",
+      "name": "Edhen:religious",
+      "regionId": "13",
+      "isSecret": false
+    },
+    {
+      "id": "1810",
+      "name": "Edhen:urban",
+      "regionId": "13",
+      "isSecret": false
+    },
+    {
+      "id": "79",
+      "name": "Egheldyr",
+      "regionId": "30",
+      "isSecret": false
+    },
+    {
+      "id": "1815",
+      "name": "Egheldyr:fortress",
+      "regionId": "30",
+      "isSecret": false
+    },
+    {
+      "id": "1814",
+      "name": "Egheldyr:religious",
+      "regionId": "30",
+      "isSecret": false
+    },
+    {
+      "id": "1813",
+      "name": "Egheldyr:urban",
+      "regionId": "30",
+      "isSecret": false
+    },
+    {
+      "id": "857",
+      "name": "Egurundharr",
+      "regionId": "790",
+      "isSecret": false
+    },
+    {
+      "id": "1818",
+      "name": "Egurundharr:fortress",
+      "regionId": "790",
+      "isSecret": false
+    },
+    {
+      "id": "1817",
+      "name": "Egurundharr:religious",
+      "regionId": "790",
+      "isSecret": false
+    },
+    {
+      "id": "1816",
+      "name": "Egurundharr:urban",
+      "regionId": "790",
+      "isSecret": false
+    },
+    {
+      "id": "858",
+      "name": "Eimés",
+      "regionId": "793",
+      "isSecret": false
+    },
+    {
+      "id": "1821",
+      "name": "Eimés:fortress",
+      "regionId": "793",
+      "isSecret": false
+    },
+    {
+      "id": "1820",
+      "name": "Eimés:religious",
+      "regionId": "793",
+      "isSecret": false
+    },
+    {
+      "id": "1819",
+      "name": "Eimés:urban",
+      "regionId": "793",
+      "isSecret": false
+    },
+    {
+      "id": "855",
+      "name": "Ekatchix",
+      "regionId": "788",
+      "isSecret": false
+    },
+    {
+      "id": "1824",
+      "name": "Ekatchix:fortress",
+      "regionId": "788",
+      "isSecret": false
+    },
+    {
+      "id": "1823",
+      "name": "Ekatchix:religious",
+      "regionId": "788",
+      "isSecret": false
+    },
+    {
+      "id": "1822",
+      "name": "Ekatchix:urban",
+      "regionId": "788",
+      "isSecret": false
+    },
+    {
+      "id": "1143",
+      "name": "Ekatik River",
+      "regionId": "1039",
+      "isSecret": false
+    },
+    {
+      "id": "1827",
+      "name": "Ekatik River:fortress",
+      "regionId": "1039",
+      "isSecret": false
+    },
+    {
+      "id": "1826",
+      "name": "Ekatik River:religious",
+      "regionId": "1039",
+      "isSecret": false
+    },
+    {
+      "id": "1825",
+      "name": "Ekatik River:urban",
+      "regionId": "1039",
+      "isSecret": false
+    },
+    {
+      "id": "854",
+      "name": "Eksos",
+      "regionId": "786",
+      "isSecret": false
+    },
+    {
+      "id": "1830",
+      "name": "Eksos:fortress",
+      "regionId": "786",
+      "isSecret": false
+    },
+    {
+      "id": "1829",
+      "name": "Eksos:religious",
+      "regionId": "786",
+      "isSecret": false
+    },
+    {
+      "id": "1828",
+      "name": "Eksos:urban",
+      "regionId": "786",
+      "isSecret": false
+    },
+    {
+      "id": "853",
+      "name": "Elanggar",
+      "regionId": "787",
+      "isSecret": false
+    },
+    {
+      "id": "1833",
+      "name": "Elanggar:fortress",
+      "regionId": "787",
+      "isSecret": false
+    },
+    {
+      "id": "1832",
+      "name": "Elanggar:religious",
+      "regionId": "787",
+      "isSecret": false
+    },
+    {
+      "id": "1831",
+      "name": "Elanggar:urban",
+      "regionId": "787",
+      "isSecret": false
+    },
+    {
+      "id": "852",
+      "name": "Elbalarr",
+      "regionId": "784",
+      "isSecret": false
+    },
+    {
+      "id": "1836",
+      "name": "Elbalarr:fortress",
+      "regionId": "784",
+      "isSecret": false
+    },
+    {
+      "id": "1835",
+      "name": "Elbalarr:religious",
+      "regionId": "784",
+      "isSecret": false
+    },
+    {
+      "id": "1834",
+      "name": "Elbalarr:urban",
+      "regionId": "784",
+      "isSecret": false
+    },
+    {
+      "id": "856",
+      "name": "Elbun",
+      "regionId": "783",
+      "isSecret": false
+    },
+    {
+      "id": "1839",
+      "name": "Elbun:fortress",
+      "regionId": "783",
+      "isSecret": false
+    },
+    {
+      "id": "1838",
+      "name": "Elbun:religious",
+      "regionId": "783",
+      "isSecret": false
+    },
+    {
+      "id": "1837",
+      "name": "Elbun:urban",
+      "regionId": "783",
+      "isSecret": false
+    },
+    {
+      "id": "851",
+      "name": "Elobros",
+      "regionId": "785",
+      "isSecret": false
+    },
+    {
+      "id": "1842",
+      "name": "Elobros:fortress",
+      "regionId": "785",
+      "isSecret": false
+    },
+    {
+      "id": "1841",
+      "name": "Elobros:religious",
+      "regionId": "785",
+      "isSecret": false
+    },
+    {
+      "id": "1840",
+      "name": "Elobros:urban",
+      "regionId": "785",
+      "isSecret": false
+    },
+    {
+      "id": "162",
+      "name": "Elowen",
+      "regionId": "782",
+      "isSecret": false
+    },
+    {
+      "id": "1845",
+      "name": "Elowen:fortress",
+      "regionId": "782",
+      "isSecret": false
+    },
+    {
+      "id": "1844",
+      "name": "Elowen:religious",
+      "regionId": "782",
+      "isSecret": false
+    },
+    {
+      "id": "1843",
+      "name": "Elowen:urban",
+      "regionId": "782",
+      "isSecret": false
+    },
+    {
+      "id": "849",
+      "name": "Elusat",
+      "regionId": "780",
+      "isSecret": false
+    },
+    {
+      "id": "1848",
+      "name": "Elusat:fortress",
+      "regionId": "780",
+      "isSecret": false
+    },
+    {
+      "id": "1847",
+      "name": "Elusat:religious",
+      "regionId": "780",
+      "isSecret": false
+    },
+    {
+      "id": "1846",
+      "name": "Elusat:urban",
+      "regionId": "780",
+      "isSecret": false
+    },
+    {
+      "id": "848",
+      "name": "Emanadar",
+      "regionId": "779",
+      "isSecret": false
+    },
+    {
+      "id": "1851",
+      "name": "Emanadar:fortress",
+      "regionId": "779",
+      "isSecret": false
+    },
+    {
+      "id": "1850",
+      "name": "Emanadar:religious",
+      "regionId": "779",
+      "isSecret": false
+    },
+    {
+      "id": "1849",
+      "name": "Emanadar:urban",
+      "regionId": "779",
+      "isSecret": false
+    },
+    {
+      "id": "846",
+      "name": "Endani",
+      "regionId": "778",
+      "isSecret": false
+    },
+    {
+      "id": "1854",
+      "name": "Endani:fortress",
+      "regionId": "778",
+      "isSecret": false
+    },
+    {
+      "id": "1853",
+      "name": "Endani:religious",
+      "regionId": "778",
+      "isSecret": false
+    },
+    {
+      "id": "1852",
+      "name": "Endani:urban",
+      "regionId": "778",
+      "isSecret": false
+    },
+    {
+      "id": "847",
+      "name": "Endekkar",
+      "regionId": "781",
+      "isSecret": false
+    },
+    {
+      "id": "1857",
+      "name": "Endekkar:fortress",
+      "regionId": "781",
+      "isSecret": false
+    },
+    {
+      "id": "1856",
+      "name": "Endekkar:religious",
+      "regionId": "781",
+      "isSecret": false
+    },
+    {
+      "id": "1855",
+      "name": "Endekkar:urban",
+      "regionId": "781",
+      "isSecret": false
+    },
+    {
+      "id": "845",
+      "name": "Endrazi",
+      "regionId": "776",
+      "isSecret": false
+    },
+    {
+      "id": "1860",
+      "name": "Endrazi:fortress",
+      "regionId": "776",
+      "isSecret": false
+    },
+    {
+      "id": "1859",
+      "name": "Endrazi:religious",
+      "regionId": "776",
+      "isSecret": false
+    },
+    {
+      "id": "1858",
+      "name": "Endrazi:urban",
+      "regionId": "776",
+      "isSecret": false
+    },
+    {
+      "id": "850",
+      "name": "Enoor",
+      "regionId": "777",
+      "isSecret": false
+    },
+    {
+      "id": "1863",
+      "name": "Enoor:fortress",
+      "regionId": "777",
+      "isSecret": false
+    },
+    {
+      "id": "1862",
+      "name": "Enoor:religious",
+      "regionId": "777",
+      "isSecret": false
+    },
+    {
+      "id": "1861",
+      "name": "Enoor:urban",
+      "regionId": "777",
+      "isSecret": false
+    },
+    {
+      "id": "843",
+      "name": "Enrid",
+      "regionId": "775",
+      "isSecret": false
+    },
+    {
+      "id": "1866",
+      "name": "Enrid:fortress",
+      "regionId": "775",
+      "isSecret": false
+    },
+    {
+      "id": "1865",
+      "name": "Enrid:religious",
+      "regionId": "775",
+      "isSecret": false
+    },
+    {
+      "id": "1864",
+      "name": "Enrid:urban",
+      "regionId": "775",
+      "isSecret": false
+    },
+    {
+      "id": "844",
+      "name": "Ensar",
+      "regionId": "773",
+      "isSecret": false
+    },
+    {
+      "id": "1869",
+      "name": "Ensar:fortress",
+      "regionId": "773",
+      "isSecret": false
+    },
+    {
+      "id": "1868",
+      "name": "Ensar:religious",
+      "regionId": "773",
+      "isSecret": false
+    },
+    {
+      "id": "1867",
+      "name": "Ensar:urban",
+      "regionId": "773",
+      "isSecret": false
+    },
+    {
+      "id": "842",
+      "name": "Ensaraneth",
+      "regionId": "774",
+      "isSecret": false
+    },
+    {
+      "id": "1872",
+      "name": "Ensaraneth:fortress",
+      "regionId": "774",
+      "isSecret": false
+    },
+    {
+      "id": "1871",
+      "name": "Ensaraneth:religious",
+      "regionId": "774",
+      "isSecret": false
+    },
+    {
+      "id": "1870",
+      "name": "Ensaraneth:urban",
+      "regionId": "774",
+      "isSecret": false
+    },
+    {
+      "id": "841",
+      "name": "Ensardinim",
+      "regionId": "772",
+      "isSecret": false
+    },
+    {
+      "id": "1875",
+      "name": "Ensardinim:fortress",
+      "regionId": "772",
+      "isSecret": false
+    },
+    {
+      "id": "1874",
+      "name": "Ensardinim:religious",
+      "regionId": "772",
+      "isSecret": false
+    },
+    {
+      "id": "1873",
+      "name": "Ensardinim:urban",
+      "regionId": "772",
+      "isSecret": false
+    },
+    {
+      "id": "839",
+      "name": "Envel",
+      "regionId": "770",
+      "isSecret": false
+    },
+    {
+      "id": "1878",
+      "name": "Envel:fortress",
+      "regionId": "770",
+      "isSecret": false
+    },
+    {
+      "id": "1877",
+      "name": "Envel:religious",
+      "regionId": "770",
+      "isSecret": false
+    },
+    {
+      "id": "1876",
+      "name": "Envel:urban",
+      "regionId": "770",
+      "isSecret": false
+    },
+    {
+      "id": "840",
+      "name": "Episma",
+      "regionId": "769",
+      "isSecret": false
+    },
+    {
+      "id": "1881",
+      "name": "Episma:fortress",
+      "regionId": "769",
+      "isSecret": false
+    },
+    {
+      "id": "1880",
+      "name": "Episma:religious",
+      "regionId": "769",
+      "isSecret": false
+    },
+    {
+      "id": "1879",
+      "name": "Episma:urban",
+      "regionId": "769",
+      "isSecret": false
+    },
+    {
+      "id": "838",
+      "name": "Erclë",
+      "regionId": "771",
+      "isSecret": false
+    },
+    {
+      "id": "1884",
+      "name": "Erclë:fortress",
+      "regionId": "771",
+      "isSecret": false
+    },
+    {
+      "id": "1883",
+      "name": "Erclë:religious",
+      "regionId": "771",
+      "isSecret": false
+    },
+    {
+      "id": "1882",
+      "name": "Erclë:urban",
+      "regionId": "771",
+      "isSecret": false
+    },
+    {
+      "id": "836",
+      "name": "Erediar",
+      "regionId": "768",
+      "isSecret": false
+    },
+    {
+      "id": "1887",
+      "name": "Erediar:fortress",
+      "regionId": "768",
+      "isSecret": false
+    },
+    {
+      "id": "1886",
+      "name": "Erediar:religious",
+      "regionId": "768",
+      "isSecret": false
+    },
+    {
+      "id": "1885",
+      "name": "Erediar:urban",
+      "regionId": "768",
+      "isSecret": false
+    },
+    {
+      "id": "837",
+      "name": "Erekat",
+      "regionId": "767",
+      "isSecret": false
+    },
+    {
+      "id": "1890",
+      "name": "Erekat:fortress",
+      "regionId": "767",
+      "isSecret": false
+    },
+    {
+      "id": "1889",
+      "name": "Erekat:religious",
+      "regionId": "767",
+      "isSecret": false
+    },
+    {
+      "id": "1888",
+      "name": "Erekat:urban",
+      "regionId": "767",
+      "isSecret": false
+    },
+    {
+      "id": "835",
+      "name": "Eremeth",
+      "regionId": "764",
+      "isSecret": false
+    },
+    {
+      "id": "1893",
+      "name": "Eremeth:fortress",
+      "regionId": "764",
+      "isSecret": false
+    },
+    {
+      "id": "1892",
+      "name": "Eremeth:religious",
+      "regionId": "764",
+      "isSecret": false
+    },
+    {
+      "id": "1891",
+      "name": "Eremeth:urban",
+      "regionId": "764",
+      "isSecret": false
+    },
+    {
+      "id": "834",
+      "name": "Eretech",
+      "regionId": "763",
+      "isSecret": false
+    },
+    {
+      "id": "1896",
+      "name": "Eretech:fortress",
+      "regionId": "763",
+      "isSecret": false
+    },
+    {
+      "id": "1895",
+      "name": "Eretech:religious",
+      "regionId": "763",
+      "isSecret": false
+    },
+    {
+      "id": "1894",
+      "name": "Eretech:urban",
+      "regionId": "763",
+      "isSecret": false
+    },
+    {
+      "id": "833",
+      "name": "Erglin",
+      "regionId": "766",
+      "isSecret": false
+    },
+    {
+      "id": "1899",
+      "name": "Erglin:fortress",
+      "regionId": "766",
+      "isSecret": false
+    },
+    {
+      "id": "1898",
+      "name": "Erglin:religious",
+      "regionId": "766",
+      "isSecret": false
+    },
+    {
+      "id": "1897",
+      "name": "Erglin:urban",
+      "regionId": "766",
+      "isSecret": false
+    },
+    {
+      "id": "831",
+      "name": "Erran",
+      "regionId": "762",
+      "isSecret": false
+    },
+    {
+      "id": "1902",
+      "name": "Erran:fortress",
+      "regionId": "762",
+      "isSecret": false
+    },
+    {
+      "id": "1901",
+      "name": "Erran:religious",
+      "regionId": "762",
+      "isSecret": false
+    },
+    {
+      "id": "1900",
+      "name": "Erran:urban",
+      "regionId": "762",
+      "isSecret": false
+    },
+    {
+      "id": "829",
+      "name": "Ersma",
+      "regionId": "759",
+      "isSecret": false
+    },
+    {
+      "id": "1905",
+      "name": "Ersma:fortress",
+      "regionId": "759",
+      "isSecret": false
+    },
+    {
+      "id": "1904",
+      "name": "Ersma:religious",
+      "regionId": "759",
+      "isSecret": false
+    },
+    {
+      "id": "1903",
+      "name": "Ersma:urban",
+      "regionId": "759",
+      "isSecret": false
+    },
+    {
+      "id": "828",
+      "name": "Esamocia",
+      "regionId": "758",
+      "isSecret": false
+    },
+    {
+      "id": "1908",
+      "name": "Esamocia:fortress",
+      "regionId": "758",
+      "isSecret": false
+    },
+    {
+      "id": "1907",
+      "name": "Esamocia:religious",
+      "regionId": "758",
+      "isSecret": false
+    },
+    {
+      "id": "1906",
+      "name": "Esamocia:urban",
+      "regionId": "758",
+      "isSecret": false
+    },
+    {
+      "id": "830",
+      "name": "Evikkat",
+      "regionId": "760",
+      "isSecret": false
+    },
+    {
+      "id": "1911",
+      "name": "Evikkat:fortress",
+      "regionId": "760",
+      "isSecret": false
+    },
+    {
+      "id": "1910",
+      "name": "Evikkat:religious",
+      "regionId": "760",
+      "isSecret": false
+    },
+    {
+      "id": "1909",
+      "name": "Evikkat:urban",
+      "regionId": "760",
+      "isSecret": false
+    },
+    {
+      "id": "826",
+      "name": "Exiya",
+      "regionId": "757",
+      "isSecret": false
+    },
+    {
+      "id": "1914",
+      "name": "Exiya:fortress",
+      "regionId": "757",
+      "isSecret": false
+    },
+    {
+      "id": "1913",
+      "name": "Exiya:religious",
+      "regionId": "757",
+      "isSecret": false
+    },
+    {
+      "id": "1912",
+      "name": "Exiya:urban",
+      "regionId": "757",
+      "isSecret": false
+    },
+    {
+      "id": "827",
+      "name": "Ezek",
+      "regionId": "761",
+      "isSecret": false
+    },
+    {
+      "id": "1917",
+      "name": "Ezek:fortress",
+      "regionId": "761",
+      "isSecret": false
+    },
+    {
+      "id": "1916",
+      "name": "Ezek:religious",
+      "regionId": "761",
+      "isSecret": false
+    },
+    {
+      "id": "1915",
+      "name": "Ezek:urban",
+      "regionId": "761",
+      "isSecret": false
+    },
+    {
+      "id": "824",
+      "name": "Faustulos",
+      "regionId": "756",
+      "isSecret": false
+    },
+    {
+      "id": "1920",
+      "name": "Faustulos:fortress",
+      "regionId": "756",
+      "isSecret": false
+    },
+    {
+      "id": "1919",
+      "name": "Faustulos:religious",
+      "regionId": "756",
+      "isSecret": false
+    },
+    {
+      "id": "1918",
+      "name": "Faustulos:urban",
+      "regionId": "756",
+      "isSecret": false
+    },
+    {
+      "id": "825",
+      "name": "Fazhûl",
+      "regionId": "755",
+      "isSecret": false
+    },
+    {
+      "id": "1923",
+      "name": "Fazhûl:fortress",
+      "regionId": "755",
+      "isSecret": false
+    },
+    {
+      "id": "1922",
+      "name": "Fazhûl:religious",
+      "regionId": "755",
+      "isSecret": false
+    },
+    {
+      "id": "1921",
+      "name": "Fazhûl:urban",
+      "regionId": "755",
+      "isSecret": false
+    },
+    {
+      "id": "822",
+      "name": "Fessun",
+      "regionId": "753",
+      "isSecret": false
+    },
+    {
+      "id": "1926",
+      "name": "Fessun:fortress",
+      "regionId": "753",
+      "isSecret": false
+    },
+    {
+      "id": "1925",
+      "name": "Fessun:religious",
+      "regionId": "753",
+      "isSecret": false
+    },
+    {
+      "id": "1924",
+      "name": "Fessun:urban",
+      "regionId": "753",
+      "isSecret": false
+    },
+    {
+      "id": "821",
+      "name": "Finnedor",
+      "regionId": "752",
+      "isSecret": false
+    },
+    {
+      "id": "1929",
+      "name": "Finnedor:fortress",
+      "regionId": "752",
+      "isSecret": false
+    },
+    {
+      "id": "1928",
+      "name": "Finnedor:religious",
+      "regionId": "752",
+      "isSecret": false
+    },
+    {
+      "id": "1927",
+      "name": "Finnedor:urban",
+      "regionId": "752",
+      "isSecret": false
+    },
+    {
+      "id": "823",
+      "name": "Fior",
+      "regionId": "751",
+      "isSecret": false
+    },
+    {
+      "id": "1932",
+      "name": "Fior:fortress",
+      "regionId": "751",
+      "isSecret": false
+    },
+    {
+      "id": "1931",
+      "name": "Fior:religious",
+      "regionId": "751",
+      "isSecret": false
+    },
+    {
+      "id": "1930",
+      "name": "Fior:urban",
+      "regionId": "751",
+      "isSecret": false
+    },
+    {
+      "id": "820",
+      "name": "Firnos",
+      "regionId": "750",
+      "isSecret": false
+    },
+    {
+      "id": "1935",
+      "name": "Firnos:fortress",
+      "regionId": "750",
+      "isSecret": false
+    },
+    {
+      "id": "1934",
+      "name": "Firnos:religious",
+      "regionId": "750",
+      "isSecret": false
+    },
+    {
+      "id": "1933",
+      "name": "Firnos:urban",
+      "regionId": "750",
+      "isSecret": false
+    },
+    {
+      "id": "819",
+      "name": "Flanzjein",
+      "regionId": "754",
+      "isSecret": false
+    },
+    {
+      "id": "1938",
+      "name": "Flanzjein:fortress",
+      "regionId": "754",
+      "isSecret": false
+    },
+    {
+      "id": "1937",
+      "name": "Flanzjein:religious",
+      "regionId": "754",
+      "isSecret": false
+    },
+    {
+      "id": "1936",
+      "name": "Flanzjein:urban",
+      "regionId": "754",
+      "isSecret": false
+    },
+    {
+      "id": "818",
+      "name": "Formagek",
+      "regionId": "749",
+      "isSecret": false
+    },
+    {
+      "id": "1941",
+      "name": "Formagek:fortress",
+      "regionId": "749",
+      "isSecret": false
+    },
+    {
+      "id": "1940",
+      "name": "Formagek:religious",
+      "regionId": "749",
+      "isSecret": false
+    },
+    {
+      "id": "1939",
+      "name": "Formagek:urban",
+      "regionId": "749",
+      "isSecret": false
+    },
+    {
+      "id": "816",
+      "name": "Forndonim",
+      "regionId": "748",
+      "isSecret": false
+    },
+    {
+      "id": "1944",
+      "name": "Forndonim:fortress",
+      "regionId": "748",
+      "isSecret": false
+    },
+    {
+      "id": "1943",
+      "name": "Forndonim:religious",
+      "regionId": "748",
+      "isSecret": false
+    },
+    {
+      "id": "1942",
+      "name": "Forndonim:urban",
+      "regionId": "748",
+      "isSecret": false
+    },
+    {
+      "id": "814",
+      "name": "Forodhu",
+      "regionId": "747",
+      "isSecret": false
+    },
+    {
+      "id": "1947",
+      "name": "Forodhu:fortress",
+      "regionId": "747",
+      "isSecret": false
+    },
+    {
+      "id": "1946",
+      "name": "Forodhu:religious",
+      "regionId": "747",
+      "isSecret": false
+    },
+    {
+      "id": "1945",
+      "name": "Forodhu:urban",
+      "regionId": "747",
+      "isSecret": false
+    },
+    {
+      "id": "815",
+      "name": "Gabaghûl",
+      "regionId": "746",
+      "isSecret": false
+    },
+    {
+      "id": "1950",
+      "name": "Gabaghûl:fortress",
+      "regionId": "746",
+      "isSecret": false
+    },
+    {
+      "id": "1949",
+      "name": "Gabaghûl:religious",
+      "regionId": "746",
+      "isSecret": false
+    },
+    {
+      "id": "1948",
+      "name": "Gabaghûl:urban",
+      "regionId": "746",
+      "isSecret": false
+    },
+    {
+      "id": "161",
+      "name": "Gabros",
+      "regionId": "744",
+      "isSecret": false
+    },
+    {
+      "id": "1953",
+      "name": "Gabros:fortress",
+      "regionId": "744",
+      "isSecret": false
+    },
+    {
+      "id": "1952",
+      "name": "Gabros:religious",
+      "regionId": "744",
+      "isSecret": false
+    },
+    {
+      "id": "1951",
+      "name": "Gabros:urban",
+      "regionId": "744",
+      "isSecret": false
+    },
+    {
+      "id": "817",
+      "name": "Galeo",
+      "regionId": "742",
+      "isSecret": false
+    },
+    {
+      "id": "1956",
+      "name": "Galeo:fortress",
+      "regionId": "742",
+      "isSecret": false
+    },
+    {
+      "id": "1955",
+      "name": "Galeo:religious",
+      "regionId": "742",
+      "isSecret": false
+    },
+    {
+      "id": "1954",
+      "name": "Galeo:urban",
+      "regionId": "742",
+      "isSecret": false
+    },
+    {
+      "id": "812",
+      "name": "Galingdri",
+      "regionId": "741",
+      "isSecret": false
+    },
+    {
+      "id": "1959",
+      "name": "Galingdri:fortress",
+      "regionId": "741",
+      "isSecret": false
+    },
+    {
+      "id": "1958",
+      "name": "Galingdri:religious",
+      "regionId": "741",
+      "isSecret": false
+    },
+    {
+      "id": "1957",
+      "name": "Galingdri:urban",
+      "regionId": "741",
+      "isSecret": false
+    },
+    {
+      "id": "810",
+      "name": "Galluch",
+      "regionId": "740",
+      "isSecret": false
+    },
+    {
+      "id": "1962",
+      "name": "Galluch:fortress",
+      "regionId": "740",
+      "isSecret": false
+    },
+    {
+      "id": "1961",
+      "name": "Galluch:religious",
+      "regionId": "740",
+      "isSecret": false
+    },
+    {
+      "id": "1960",
+      "name": "Galluch:urban",
+      "regionId": "740",
+      "isSecret": false
+    },
+    {
+      "id": "809",
+      "name": "Gandri",
+      "regionId": "743",
+      "isSecret": false
+    },
+    {
+      "id": "1965",
+      "name": "Gandri:fortress",
+      "regionId": "743",
+      "isSecret": false
+    },
+    {
+      "id": "1964",
+      "name": "Gandri:religious",
+      "regionId": "743",
+      "isSecret": false
+    },
+    {
+      "id": "1963",
+      "name": "Gandri:urban",
+      "regionId": "743",
+      "isSecret": false
+    },
+    {
+      "id": "808",
+      "name": "Ganteth",
+      "regionId": "739",
+      "isSecret": false
+    },
+    {
+      "id": "1968",
+      "name": "Ganteth:fortress",
+      "regionId": "739",
+      "isSecret": false
+    },
+    {
+      "id": "1967",
+      "name": "Ganteth:religious",
+      "regionId": "739",
+      "isSecret": false
+    },
+    {
+      "id": "1966",
+      "name": "Ganteth:urban",
+      "regionId": "739",
+      "isSecret": false
+    },
+    {
+      "id": "811",
+      "name": "Garghas",
+      "regionId": "738",
+      "isSecret": false
+    },
+    {
+      "id": "1971",
+      "name": "Garghas:fortress",
+      "regionId": "738",
+      "isSecret": false
+    },
+    {
+      "id": "1970",
+      "name": "Garghas:religious",
+      "regionId": "738",
+      "isSecret": false
+    },
+    {
+      "id": "1969",
+      "name": "Garghas:urban",
+      "regionId": "738",
+      "isSecret": false
+    },
+    {
+      "id": "158",
+      "name": "Garnethryn",
+      "regionId": "737",
+      "isSecret": false
+    },
+    {
+      "id": "1974",
+      "name": "Garnethryn:fortress",
+      "regionId": "737",
+      "isSecret": false
+    },
+    {
+      "id": "1973",
+      "name": "Garnethryn:religious",
+      "regionId": "737",
+      "isSecret": false
+    },
+    {
+      "id": "1972",
+      "name": "Garnethryn:urban",
+      "regionId": "737",
+      "isSecret": false
+    },
+    {
+      "id": "43",
+      "name": "Garowdyr",
+      "regionId": "14",
+      "isSecret": false
+    },
+    {
+      "id": "1977",
+      "name": "Garowdyr:fortress",
+      "regionId": "14",
+      "isSecret": false
+    },
+    {
+      "id": "1976",
+      "name": "Garowdyr:religious",
+      "regionId": "14",
+      "isSecret": false
+    },
+    {
+      "id": "1975",
+      "name": "Garowdyr:urban",
+      "regionId": "14",
+      "isSecret": false
+    },
+    {
+      "id": "807",
+      "name": "Garven",
+      "regionId": "735",
+      "isSecret": false
+    },
+    {
+      "id": "1980",
+      "name": "Garven:fortress",
+      "regionId": "735",
+      "isSecret": false
+    },
+    {
+      "id": "1979",
+      "name": "Garven:religious",
+      "regionId": "735",
+      "isSecret": false
+    },
+    {
+      "id": "1978",
+      "name": "Garven:urban",
+      "regionId": "735",
+      "isSecret": false
+    },
+    {
+      "id": "806",
+      "name": "Garwel",
+      "regionId": "733",
+      "isSecret": false
+    },
+    {
+      "id": "1983",
+      "name": "Garwel:fortress",
+      "regionId": "733",
+      "isSecret": false
+    },
+    {
+      "id": "1982",
+      "name": "Garwel:religious",
+      "regionId": "733",
+      "isSecret": false
+    }
+  ]
+}

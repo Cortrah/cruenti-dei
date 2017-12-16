@@ -1,0 +1,55 @@
+{
+  "name": "Region",
+  "base": "PersistedModel",
+  "strict": false,
+  "idInjection": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "id": true,
+      "required": true,
+      "index": true
+    },
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "code": {
+      "type": "string"
+    },
+    "x": {
+      "type": "number",
+      "required": false
+    },
+    "y": {
+      "type": "number"
+    },
+    "cx": {
+      "type": "number"
+    },
+    "cy": {
+      "type": "number"
+    },
+    "displayPath": {
+      "type": "string"
+    },
+    "terrainTypeId": {
+      "type": "string"
+    },
+    "bordersVolcano": {
+      "type": "boolean"
+    },
+    "isSecret": {
+      "type": "boolean"
+    },
+    "mapId": {
+      "type": "string",
+      "required": true,
+      "index": false
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": []
+}

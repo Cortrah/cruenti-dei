@@ -1,0 +1,140 @@
+{
+"RECORDS":[
+{
+"id":"0",
+"name":"Untrained",
+"code":"un",
+"effect_xml":" ",
+"description_xml":" ",
+"movement_rules_id":""
+},
+{
+"id":"1",
+"name":"General",
+"code":"gn",
+"effect_xml":" ",
+"description_xml":" ",
+"movement_rules_id":""
+},
+{
+"id":"2",
+"name":"Wizard",
+"code":"wz",
+"effect_xml":" ",
+"description_xml":" ",
+"movement_rules_id":""
+},
+{
+"id":"3",
+"name":"Scholar",
+"code":"sc",
+"effect_xml":" ",
+"description_xml":" ",
+"movement_rules_id":""
+},
+{
+"id":"4",
+"name":"Lich",
+"code":"li",
+"effect_xml":" ",
+"description_xml":" ",
+"movement_rules_id":""
+},
+{
+"id":"5",
+"name":"Admiral",
+"code":"ad",
+"effect_xml":" ",
+"description_xml":" ",
+"movement_rules_id":""
+},
+{
+"id":"6",
+"name":"Air Marshal",
+"code":"am",
+"effect_xml":" ",
+"description_xml":" ",
+"movement_rules_id":""
+},
+{
+"id":"7",
+"name":"Spy",
+"code":"sp",
+"effect_xml":" ",
+"description_xml":" ",
+"movement_rules_id":""
+},
+{
+"id":"8",
+"name":"Alchemist",
+"code":"al",
+"effect_xml":" ",
+"description_xml":" ",
+"movement_rules_id":""
+},
+{
+"id":"9",
+"name":"Historian",
+"code":"hi",
+"effect_xml":" ",
+"description_xml":" ",
+"movement_rules_id":""
+},
+{
+"id":"10",
+"name":"Map Maker",
+"code":"mm",
+"effect_xml":" ",
+"description_xml":" ",
+"movement_rules_id":""
+},
+{
+"id":"11",
+"name":"Engineer",
+"code":"eg",
+"effect_xml":" ",
+"description_xml":" ",
+"movement_rules_id":""
+},
+{
+"id":"12",
+"name":"Jurist",
+"code":"ju",
+"effect_xml":" ",
+"description_xml":" ",
+"movement_rules_id":""
+},
+{
+"id":"13",
+"name":"Medical Doctor",
+"code":"md",
+"effect_xml":" ",
+"description_xml":" ",
+"movement_rules_id":""
+},
+{
+"id":"14",
+"name":"Theologian",
+"code":"th",
+"effect_xml":" ",
+"description_xml":" ",
+"movement_rules_id":""
+},
+{
+"id":"15",
+"name":"Vampire",
+"code":"vp",
+"effect_xml":" ",
+"description_xml":" ",
+"movement_rules_id":""
+},
+{
+"id":"16",
+"name":"Navigator",
+"code":"na",
+"effect_xml":" ",
+"description_xml":" ",
+"movement_rules_id":""
+}
+]
+}

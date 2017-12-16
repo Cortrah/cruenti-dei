@@ -1,0 +1,16 @@
+{
+  "realmsTurnStatuses": [
+    {
+      "id": "0",
+      "realmId": "0",
+      "isi": "2.0",
+      "tv": "0",
+      "tradePartnerIds": ["0","1"],
+      "religionId": "0",
+      "kindredId": "0",
+      "rulerName": "",
+      "familyTree": "",
+      "gmNotes": ""
+    }
+  ]
+}

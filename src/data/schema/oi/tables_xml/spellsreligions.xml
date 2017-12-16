@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<SPELLSRELIGIONS>
+<SPELLSRELIGION>
+<id>1</id>
+<spelltype_id>1</spelltype_id>
+<religion_id>7</religion_id>
+</SPELLSRELIGION>
+<SPELLSRELIGION>
+<id>2</id>
+<spelltype_id>2</spelltype_id>
+<religion_id>7</religion_id>
+</SPELLSRELIGION>
+<SPELLSRELIGION>
+<id>3</id>
+<spelltype_id>3</spelltype_id>
+<religion_id>3</religion_id>
+</SPELLSRELIGION>
+<SPELLSRELIGION>
+<id>4</id>
+<spelltype_id>4</spelltype_id>
+<religion_id>7</religion_id>
+</SPELLSRELIGION>
+</SPELLSRELIGIONS>

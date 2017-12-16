@@ -1,0 +1,233 @@
+users
+	first_name
+	last_name
+	login
+	email
+	password
+	credits
+	role enum(superuser, guest, admin, player, dei)
+
+personas
+    name
+    img
+    belongs_to user_id
+    has_one realm_id
+
+realms
+    name
+    belongs_to persona_id
+    has_one game_id
+	has_many realm_turns
+
+games
+	name
+	has_many turns
+	rate_enum                   // daily, weekly, monthly
+	status_enum                 // open, filled, in-progress, complete
+	has_one current_turn_id
+
+turns
+	number
+	status      // preparing, setup, in-progress, turns-in, processing, processing-complete, awaiting-entries
+	due_date
+	belongs_to game_id
+	has_many realms_turns
+
+realms_turns
+    starting_regions
+    starting_isi
+    starting_tv
+    realm_actions
+    leader_actions
+    auto_results
+    final_results
+    ending_regions
+    ending_isi
+    ending_tv
+    has_many trade_partners
+    belongs_to turn_id
+    belongs_to realm_id
+
+regions_turns_status
+	gp
+	ap
+	nfp
+	mana
+	pwb
+	status
+	has_road
+	is_inimical
+	belongs_to region_id
+	belongs_to realm_turn_id
+	has_one allegiance_type_id
+	has_one second_tributor_realm_id
+	has_one kindred_id
+	has_one religion_id
+	has_many items
+	has_many unit_type_groups
+
+regions
+	name
+	code
+	notes
+	game_id
+	has_one path_id
+	is_secret
+    is_floating
+    is_flying
+    borders_volcano
+	belongs_to major_map_id
+	has_one terrain_type_id
+	has_many locations
+
+paths
+    path
+    fill_color
+    stroke_color
+    stroke_width
+    alpha
+    display_x
+    display_y
+    center_x
+    center_y
+    belongs_to major_map_id
+    belongs_to region_id
+
+major_maps
+    name
+    is_secret
+    bg_img_path
+    has_many regions
+    has_many paths
+
+locations
+    name
+    belongs_to region_id
+
+action_types
+agent_types
+allegiance_types
+border_types
+build_types
+build_location_types
+feature_types
+kindred_types
+movement_types
+training_types
+unit_types
+item_types
+spell_types
+construct_types
+provinces
+religions
+
+movement_effects
+name
+description
+conditions
+movement_rules_id
+effect_xml
+
+locations_items
+locations_unit_type_groups
+
+leaders_items
+leaders_unit_type_groups
+
+realms_trade_partners
+partner_realm1_id
+partner_realm2_id
+game_id
+turn_id
+
+secret_x_viewers
+    has_one table_name
+    has_one realm_id
+    has_one x_id
+			
+<Turn turnNumber="23">
+ <RealmsVo id="1" name="Kommolek" religionId="1" realmType="County Palatine" notes="oki"
+ religiousStrength="6.6" isi="1123.8" tv="7" mana="73" regionGp="23" urbanGp="18" ictGp="14"
+ pwbGp="481" savedGp="300" prodAp="72" savedAp="22" totalAp="94" nfp="34" sfp="0" armySupport="221"
+ cavQr="6" infQr="7" sgeQr="6" navQr="6" airQr="6" nsrQr="7" irQr="5" blQr="5" rsQr="7"
+ cavInvestment="256" infInvestment="34" sgeInvestment="455" navInvestment="300" airInvestment="125"
+ irInvestment="50" blInvestment="200" nsrInvestment="350" gmOnlyNotes=" things" displayColor="26265"
+ corruptionPercentage="1" plaguePercentage="0" isSecret="0" homeregionId="5"
+ realmDescription="" capitallocationId="1017"/>
+
+ <PlayersVo id="1" gameId="1" realmId="1" firstName="Cortlandt" lastName="Winters"
+ email="cort@cortwinters.net" password="octofish" credits="12" name="General Scum"/>
+
+ <OwnedRegions ids="5,900,966,967"/>
+ <NonhostileRegions ids=""/>
+ <TradePartners ids="5,6,7,8,10"/>
+
+ <InitiateTradeWith ids=""/>displays RealmsVo Name, tv
+ <CeaseTradeWith ids=""/>displays RealmsVo Name, tv
+
+ <IncomeExpenses>
+	<ResourcesFromOthers realmFromId="" realmFromName="" gp="" ap="" nfp="" sfp="" mana=""/>
+	<ResourcesToOthers realmToId="" realmToName="" gp="" ap="" nfp="" sfp="" mana=""/>
+	<ItemsToOthers toRealmId="" itemId="" locationId="" phaseId=""/>
+    <UnitsToOthers toRealmId="" unitTypeGroupId="" unitTypeId="" count="" locationId="" phaseId=""/>
+	<ItemsFromOthers fromRealmId="" fromRealmName="" itemName="" itemPseudoId="" locationId="" phaseId="" /> 
+	<UnitsFromOthers fromRealmId="" unitTypeGroupName="" unitTypeId="" count="" locationId="" phaseId="" />
+
+	<BuildUnits unitTypeId="" count="" atRegionId="" atLocationId=""
+	gp="" ap="" nfp="" sfp=""" mana="" upgradeFromUnitTypeId="" upgradeFromCount=""/>
+	<Builds constructTypeId="" regionId="" locationId="" upgradeFromTypeId=""
+	upgradeFromCount="" gp="" ap="" nfp="" sfp="" mana="" />
+	<DemobForBuilds unitTypeGroupId="" unitTypeId="" count=""/>
+	
+	<ManaUsed leaderId="" spellId="" note="" gp="" ap="" nfp="" sfp="" mana=""/>
+	<MiscIncomeEntries note="" gp="" ap="" nfp="" sfp=""" mana=""/>
+	<MiscExpenseEntries note="" gp="" ap="" nfp="" sfp=""" mana=""/>
+	
+	<Revenue internationalTrade="0" gpFromSacrifice="0" manaFromSacrifice="0"
+	miscelaniousGp="0" miscelaniousAp="0" miscelaniousNfp="0" miscelaniousSfp="0" miscelaniousMana="0"/>
+	
+	<Expenses sfGp="0" sfAp="0" sfNfp="0" sfSfp="0" sfMana="0" armySupportAp="0"
+	tithGp="0" tithAp="0" cavInv="0" infInv="0" sgeInv="0" navInv="0" airInv="0"
+	nsrInv="0" nsrManaInv="0" irInv="0" irNfpInv="0" blInv="0" blNfpInv="0" blSfpInv="0"
+	pwInv="0" pwNfpInv="0" pwSfpInv="0" leaderManaUse="0"/>
+ 
+ </IncomeExpenses>
+
+ <GarrisonedItems>
+	<ItemsVo id="96" code="A1" name="A1" manaCost="0" apCost="0" nfpCost="0" gpCost="0"
+	itemDescription=" " itemEffect=" " spellId="0" manaCharge="0" blankCost="0" realmId="1"/>
+ </GarrisonedItems>
+
+ <GarrisonedUnits>
+	<UnittypegroupsVo id="189" unittypeId="1" count="5" homeregionId="0" realmId="1"
+	displaySymbol="0" displayX="0" displayY="0" name="5 li" isAllied="0"
+	airCargoCapacity="0" groundCargoCapacity="0" navalCargoCapacity="0"
+	airCargoUsed="0" groundCargoUsed="0" navalCargoUsed="0"/>
+</GarrisonedUnits>
+
+ <Leaders>
+	<LeadersVo id="10" homeregionId="5" trainingId="1" kindredId="0" name="Annavas'Ǎ'"
+	code="R1" command="1" loyalty="1" combat="10" diplomacy="8" sorcery="9" age="67" sex=" M"
+	notes="Kommolek Leader notes 5li 5mc two crystals" caryingGp="10" caryingAp="1"
+	displaySymbol="0" displayX="0" displayY="0" locationId="806" agenttypeId="1" realmId="1" regionId="733">
+
+	  <StartingLeaderUnitTypeGroups>
+		<UnittypegroupsVo id="195" unittypeId="19" count="40" homeregionId="0" realmId="1"
+		displaySymbol="0" displayX="0" displayY="0" name="40 sw" isAllied="0"
+		airCargoCapacity="0" groundCargoCapacity="0" navalCargoCapacity="0"
+		airCargoUsed="0" groundCargoUsed="0" navalCargoUsed="0"/>
+	  </StartingLeaderUnitTypeGroups>
+
+	  <PostBuildLeaderUnits/>
+	  <DeltaLeaderUnits/>
+
+	  <StartingLeaderItems>
+		<ItemsVo id="96" code="A1" name="A1" manaCost="0" apCost="0" nfpCost="0" gpCost="0"
+		itemDescription=" " itemEffect=" " spellId="0" manaCharge="0" blankCost="0" realmId="1"/>
+	  </StartingLeaderItems>
+
+	  <DeltaLeaderItems/>
+	  <LeaderActions/>
+	</LeadersVo>
+ </Leaders>
+</Turn>

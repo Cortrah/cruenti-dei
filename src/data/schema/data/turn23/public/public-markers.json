@@ -1,0 +1,37 @@
+{
+  "publicMarkers": [
+      {
+        "mapId": "1",
+        "markers": [
+          {
+            "markerId": "1",
+            "label": "28zi 5lc",
+            "tooltip": "Lagat",
+            "symbol": "0",
+            "markerSetId": "22",
+            "color": "3368601",
+            "labelBgColor": "0",
+            "labelBgAlpha": "0",
+            "x": "1552",
+            "y": "1725"
+          }
+        ]
+      } , {
+        "mapId": "1",
+        "markers": [
+          {
+            "markerId": "1",
+            "label": "28zi 5lc",
+            "tooltip": "Lagat",
+            "symbol": "0",
+            "markerSetId": "22",
+            "color": "3368601",
+            "labelBgColor": "0",
+            "labelBgAlpha": "0",
+            "x": "1552",
+            "y": "1725"
+          }
+        ]
+    }
+  ]
+}

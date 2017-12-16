@@ -1,0 +1,11 @@
+{
+  "personas":
+  [{
+		"id": "0",
+		"name": "",
+		"img": "",
+		"userId":"0",
+    "realmId":"0",
+    "isSecret": false
+	}]
+}

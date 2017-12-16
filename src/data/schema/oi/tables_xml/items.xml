@@ -1,0 +1,729 @@
+<?xml version="1.0" standalone="yes"?>
+<ITEMS>
+<ITEM>
+<id>1</id>
+<item_code>Haste</item_code>
+<item_name>Haste Spell Crystal </item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description></item_description>
+<item_effect></item_effect>
+</ITEM>
+<ITEM>
+<id>2</id>
+<item_code>A:Haste</item_code>
+<item_name>Amulet of Haste</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description>Artifact that casts haste on 5 units per turn for free</item_description>
+<item_effect></item_effect>
+</ITEM>
+<ITEM>
+<id>4</id>
+<item_code>Avatar Iluvar</item_code>
+<item_name>Avatar Crystal: Iluvar</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description>Must be cast at beginning of Turn. Spell crystal is destroyed upon casting. First casting by realm has a (10 + RS)% chance of success. When casting fails each casting in succession is +10 i.e. 2nd casting is (20 + RS)% Must be cast in Priory, Abby, or Holy Site.</item_description>
+<item_effect>When successful, Avatar is born in Realm casting that turn. If cast by primacy in primacy&apos;s realm, the Avatar can be born in any region that calls the primacy legitimate.</item_effect>
+</ITEM>
+<ITEM>
+<id>5</id>
+<item_code>Avatar Tarot</item_code>
+<item_name>Avatar Crystal: Lords of the Tarot</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description>Must be cast at beginning of Turn. Spell crystal is destroyed upon casting. First casting by realm has a (10 + RS)% chance of success. When casting fails each casting in succession is +10 i.e. 2nd casting is (20 + RS)% Must be cast in Priory, Abby, or Holy Site.</item_description>
+<item_effect> When successful, Avatar is born in Realm casting that turn. If cast by primacy in primacy&apos;s realm, the Avatar can be born in any region that calls the primacy legitimate. One of the twenty-two Lords of the Taro is born when this spell is successful</item_effect>
+</ITEM>
+<ITEM>
+<id>6</id>
+<item_code>Brambles</item_code>
+<item_name>Brambles Crystal</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description>Transforms region into impassable Forest or Jungle. Can be prevented by Greater Wards.</item_description>
+<item_effect>Transforms region into either Forest or Jungle. Region must already border two regions of the desired terrain type. i.e. To cast a jungle, region must be bordered by two jungle regions.</item_effect>
+</ITEM>
+<ITEM>
+<id>7</id>
+<item_code>Avatar Urda</item_code>
+<item_name>Avatar Crystal: Urda</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description>Must be cast at beginning of Turn. Spell crystal is destroyed upon casting. First casting by realm has a (10 + RS)% chance of success. When casting fails each casting in succession is +10 i.e. 2nd casting is (20 + RS)% Must be cast in Priory, Abby, or Holy Site.</item_description>
+<item_effect>When successful, Avatar is born in Realm casting that turn. If cast by primacy in primacy&apos;s realm, the Avatar can be born in any region that calls the primacy legitimate. Sects that worship on of the Nine Sacred Animals of Urda may use this spell to Summon the Avatar of their totem at their discretion (see §8.1.3.6)</item_effect>
+</ITEM>
+<ITEM>
+<id>8</id>
+<item_code>Avatar Yagnar</item_code>
+<item_name>Avatar Crystal: Yagnar</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description>Must be cast at beginning of Turn. Spell crystal is destroyed upon casting. First casting by realm has a (10 + RS)% chance of success. When casting fails each casting in succession is +10 i.e. 2nd casting is (20 + RS)% Must be cast in Priory, Abby, or Holy Site.</item_description>
+<item_effect>When successful, Avatar is born in Realm casting that turn. If cast by primacy in primacy&apos;s realm, the Avatar can be born in any region that calls the primacy legitimate.</item_effect>
+</ITEM>
+<ITEM>
+<id>9</id>
+<item_code>Copy</item_code>
+<item_name>Copy Spell Crystal</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description>Leader must have blank available upon which to copy the spell. Spell allows Leader to create another copy of any Spell Crystal already in his possession.</item_description>
+<item_effect>Creates copy onto blank spell crystal of desired spell crystal leader has in possession. </item_effect>
+</ITEM>
+<ITEM>
+<id>10</id>
+<item_code>Create Artifact</item_code>
+<item_name>Create Artifact Crystal</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description>Must be cast at Start of Turn. Spell creates new Artifact (approved).  Requires presence of a spell crystal(s) containing prerequisite spell. </item_description>
+<item_effect>Creates a new Artifact, designed by the player and approved by the referee. </item_effect>
+</ITEM>
+<ITEM>
+<id>11</id>
+<item_code>Crumble</item_code>
+<item_name>Crumble Crystal</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description>Time to Cast = 2. Can only be cast once on a specific structure until it is repaired. Spell effects can be prevented by Greater Wards</item_description>
+<item_effect>Reduces the fortification value of a Town, City, or Fortress by 1 to 10 units. </item_effect>
+</ITEM>
+<ITEM>
+<id>12</id>
+<item_code>Curse (Major)</item_code>
+<item_name>Curse (Major) Spell</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description>Must be cast at Start of Turn. Target Realm must be adjacent to the casting Realm or trading with them, or the Leader casting the spell must be within the borders of the target Realm.</item_description>
+<item_effect>Subtracts 20% from the chance of success for all actions the target realm undertakes for one turn.</item_effect>
+</ITEM>
+<ITEM>
+<id>13</id>
+<item_code>Curse (Minor)</item_code>
+<item_name>Curse (Minor) Crystal</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description>Must be cast at start of turn. Time to cast 2. Target realm must be adjacent to the casting Realm or trading with them or the Leader casting the spell must be within the borders of the target Realm.</item_description>
+<item_effect>Subtracts 10% from the chance of success for all actions the target Real undertakes for one Turn.</item_effect>
+</ITEM>
+<ITEM>
+<id>14</id>
+<item_code>De-Animate</item_code>
+<item_name>De-Animate crystal</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description>Can be cast at any time during turn. Can be conditionaly cast as a part of a Respond acton.</item_description>
+<item_effect>Effectively destroyes between 2 and 20 unites of WT or ZI in the Region occupied by the caster. </item_effect>
+</ITEM>
+<ITEM>
+<id>15</id>
+<item_code>Dig</item_code>
+<item_name>Dig Crystal</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description>Takes 3 to cadst and must be cast at beginning of turn. Moves roughly ten cubic meters of earth or rock for every 10 mana expended leaving a hole or cave behind. This is an Urdan spell. </item_description>
+<item_effect>Can destroy 2 F or CF Units per 10 mana. A Priory or Abbey may be destroyed by 20 mana while 30 will destroy a cathedral. Effects may be prevented by Greater Wards.</item_effect>
+</ITEM>
+<ITEM>
+<id>16</id>
+<item_code>Earthquake</item_code>
+<item_name>Earthquake Crystal</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description>Time to cast = 2. Will cause an earthquake in the Region occupied by the caster. </item_description>
+<item_effect>Any City in the Region is reduced by two levels. 50% chance of Port Area in region or non-Urdan priory being destroyed. Towns are automatically destroyed. Half of any units or Fortress points present are destroyed. Leaders in the affected Region have a 15% chance of dying. This spell affects any Units in the caster&apos;s Army as well.</item_effect>
+</ITEM>
+<ITEM>
+<id>17</id>
+<item_code>Elder Sign</item_code>
+<item_name>Elder Sign Crystal</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description></item_description>
+<item_effect></item_effect>
+</ITEM>
+<ITEM>
+<id>18</id>
+<item_code>Eye of Yagnar</item_code>
+<item_name>Eye of Yagnar</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description></item_description>
+<item_effect></item_effect>
+</ITEM>
+<ITEM>
+<id>19</id>
+<item_code>Fire Bolt</item_code>
+<item_name>Fire Bolt Crystal</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description></item_description>
+<item_effect></item_effect>
+</ITEM>
+<ITEM>
+<id>20</id>
+<item_code>Fires from Heaven</item_code>
+<item_name>Fires from Heaven Crystal</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description></item_description>
+<item_effect></item_effect>
+</ITEM>
+<ITEM>
+<id>21</id>
+<item_code>Gills</item_code>
+<item_name>Gills Crystal</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description></item_description>
+<item_effect></item_effect>
+</ITEM>
+<ITEM>
+<id>22</id>
+<item_code>Immortality (L)</item_code>
+<item_name>Immortality (Lesser) Crystal</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description></item_description>
+<item_effect></item_effect>
+</ITEM>
+<ITEM>
+<id>23</id>
+<item_code>Lichlife</item_code>
+<item_name>Lichlife Crystal</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description></item_description>
+<item_effect></item_effect>
+</ITEM>
+<ITEM>
+<id>24</id>
+<item_code>Lightning Bolt</item_code>
+<item_name>Lightning Bolt Crystal</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description></item_description>
+<item_effect></item_effect>
+</ITEM>
+<ITEM>
+<id>25</id>
+<item_code>Luck</item_code>
+<item_name>Luck Crystal</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description></item_description>
+<item_effect></item_effect>
+</ITEM>
+<ITEM>
+<id>26</id>
+<item_code>Mass Teleport</item_code>
+<item_name>Mass Teleport Crystal</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description></item_description>
+<item_effect></item_effect>
+</ITEM>
+<ITEM>
+<id>27</id>
+<item_code>Mists of Iluvar</item_code>
+<item_name>Mists of Iluvar Crystal</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description></item_description>
+<item_effect></item_effect>
+</ITEM>
+<ITEM>
+<id>28</id>
+<item_code>Psychometry</item_code>
+<item_name>Psychometry Crystal</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description></item_description>
+<item_effect></item_effect>
+</ITEM>
+<ITEM>
+<id>29</id>
+<item_code>Raise Dead</item_code>
+<item_name>Raise Dead Crystal</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description></item_description>
+<item_effect>ZOMBIES!</item_effect>
+</ITEM>
+<ITEM>
+<id>30</id>
+<item_code>Random Act</item_code>
+<item_name>Random Act Crystal</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description></item_description>
+<item_effect></item_effect>
+</ITEM>
+<ITEM>
+<id>31</id>
+<item_code>Reflection</item_code>
+<item_name>Reflection Crystal</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description></item_description>
+<item_effect></item_effect>
+</ITEM>
+<ITEM>
+<id>32</id>
+<item_code>Sanctuary</item_code>
+<item_name>Sanctuary Crystal</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description></item_description>
+<item_effect></item_effect>
+</ITEM>
+<ITEM>
+<id>33</id>
+<item_code>Shadow Knights</item_code>
+<item_name>Shadow Knights Crystal</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description></item_description>
+<item_effect></item_effect>
+</ITEM>
+<ITEM>
+<id>34</id>
+<item_code>Stone Warriors</item_code>
+<item_name>Stone Warriors Crystal</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description></item_description>
+<item_effect></item_effect>
+</ITEM>
+<ITEM>
+<id>35</id>
+<item_code>Storm</item_code>
+<item_name>Storm Crystal</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description></item_description>
+<item_effect></item_effect>
+</ITEM>
+<ITEM>
+<id>36</id>
+<item_code>S. Demon</item_code>
+<item_name>Summon Immortal (Demon) Crystal</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description></item_description>
+<item_effect></item_effect>
+</ITEM>
+<ITEM>
+<id>37</id>
+<item_code>S. Deva</item_code>
+<item_name>Summon Immortal (Deva) Crystal</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description></item_description>
+<item_effect></item_effect>
+</ITEM>
+<ITEM>
+<id>38</id>
+<item_code>S. Djinn</item_code>
+<item_name>Summon Immortal (Djinn) Crystal</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description></item_description>
+<item_effect></item_effect>
+</ITEM>
+<ITEM>
+<id>39</id>
+<item_code>S. Dragon</item_code>
+<item_name>Summon Immortal (Dragon) Crystal</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description></item_description>
+<item_effect></item_effect>
+</ITEM>
+<ITEM>
+<id>40</id>
+<item_code>S Efreet</item_code>
+<item_name>Summon Immortal (Efreet) Crystal</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description></item_description>
+<item_effect></item_effect>
+</ITEM>
+<ITEM>
+<id>41</id>
+<item_code>Toadform</item_code>
+<item_name>Toadform Crystal</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description></item_description>
+<item_effect></item_effect>
+</ITEM>
+<ITEM>
+<id>42</id>
+<item_code>Tornadoes</item_code>
+<item_name>Tornadoes Crystal</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description></item_description>
+<item_effect></item_effect>
+</ITEM>
+<ITEM>
+<id>43</id>
+<item_code>Unbind</item_code>
+<item_name>Unbind Crystal</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description></item_description>
+<item_effect></item_effect>
+</ITEM>
+<ITEM>
+<id>44</id>
+<item_code>Wake Forest</item_code>
+<item_name>Wake the Forest Crystal</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description></item_description>
+<item_effect></item_effect>
+</ITEM>
+<ITEM>
+<id>45</id>
+<item_code>Wards Gr.</item_code>
+<item_name>Wards (Greater) Crystal</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description></item_description>
+<item_effect></item_effect>
+</ITEM>
+<ITEM>
+<id>46</id>
+<item_code>Wards Less</item_code>
+<item_name>Wards (Lesser) Crystal</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description></item_description>
+<item_effect></item_effect>
+</ITEM>
+<ITEM>
+<id>47</id>
+<item_code>Create Mana Battery</item_code>
+<item_name>Create Mana Battery Spell</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description></item_description>
+<item_effect></item_effect>
+</ITEM>
+<ITEM>
+<id>48</id>
+<item_code>Dessication</item_code>
+<item_name>Dessication Crystal</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description></item_description>
+<item_effect></item_effect>
+</ITEM>
+<ITEM>
+<id>49</id>
+<item_code>Dustdeath</item_code>
+<item_name>Dustdeath Crystal</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description></item_description>
+<item_effect></item_effect>
+</ITEM>
+<ITEM>
+<id>50</id>
+<item_code>Garden</item_code>
+<item_name>Garden Crystal</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description></item_description>
+<item_effect></item_effect>
+</ITEM>
+<ITEM>
+<id>51</id>
+<item_code>Immortality (Gr)</item_code>
+<item_name>Immortality (Greater) Crystal</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description></item_description>
+<item_effect></item_effect>
+</ITEM>
+<ITEM>
+<id>52</id>
+<item_code>Invoked Devastation</item_code>
+<item_name>Invoked Devastation Crystal</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description></item_description>
+<item_effect></item_effect>
+</ITEM>
+<ITEM>
+<id>53</id>
+<item_code>Justice</item_code>
+<item_name>Justice Crystal</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description></item_description>
+<item_effect></item_effect>
+</ITEM>
+<ITEM>
+<id>54</id>
+<item_code>Land Bridge</item_code>
+<item_name>Land Brydge Crystal</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description></item_description>
+<item_effect></item_effect>
+</ITEM>
+<ITEM>
+<id>55</id>
+<item_code>Mana Leech</item_code>
+<item_name>Mana Leech Crystal</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description></item_description>
+<item_effect></item_effect>
+</ITEM>
+<ITEM>
+<id>56</id>
+<item_code>Mountains</item_code>
+<item_name>Mountains Crystal</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description></item_description>
+<item_effect></item_effect>
+</ITEM>
+<ITEM>
+<id>57</id>
+<item_code>Peace</item_code>
+<item_name>Peace Crystal</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description></item_description>
+<item_effect></item_effect>
+</ITEM>
+<ITEM>
+<id>58</id>
+<item_code>S. Angel</item_code>
+<item_name>Summon Immortal (Angel)</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description></item_description>
+<item_effect></item_effect>
+</ITEM>
+<ITEM>
+<id>59</id>
+<item_code>S. Dem Pr</item_code>
+<item_name>Summon Immortal (Demonic Prince)</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description></item_description>
+<item_effect></item_effect>
+</ITEM>
+<ITEM>
+<id>60</id>
+<item_code>S. Gr Wyrm</item_code>
+<item_name>Summon Immortal (Great Wyrm) Crystal</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description></item_description>
+<item_effect></item_effect>
+</ITEM>
+<ITEM>
+<id>61</id>
+<item_code>S. Lord of Tarot</item_code>
+<item_name>Summon Lord of the Tarot Crystal</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description></item_description>
+<item_effect></item_effect>
+</ITEM>
+<ITEM>
+<id>62</id>
+<item_code>Trollspawn</item_code>
+<item_name>Trollspawn Crystal</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description></item_description>
+<item_effect></item_effect>
+</ITEM>
+<ITEM>
+<id>63</id>
+<item_code>Truesight</item_code>
+<item_name>Truesight Crystal</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description></item_description>
+<item_effect></item_effect>
+</ITEM>
+<ITEM>
+<id>64</id>
+<item_code>The Unraveling</item_code>
+<item_name>The Unraveling Crystal</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description></item_description>
+<item_effect></item_effect>
+</ITEM>
+<ITEM>
+<id>65</id>
+<item_code>Vampyr</item_code>
+<item_name>Vampyr Crystal</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description></item_description>
+<item_effect></item_effect>
+</ITEM>
+<ITEM>
+<id>66</id>
+<item_code>Void Earth</item_code>
+<item_name>Void Earth Crystal</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description></item_description>
+<item_effect></item_effect>
+</ITEM>
+<ITEM>
+<id>67</id>
+<item_code>Wards (Grid)</item_code>
+<item_name>Wards (Grid) Crystal</item_name>
+<mana_cost>0</mana_cost>
+<ap_cost>0</ap_cost>
+<nfp_cost>0</nfp_cost>
+<gp_cost>0</gp_cost>
+<item_description></item_description>
+<item_effect></item_effect>
+</ITEM>
+</ITEMS>

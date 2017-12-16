@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<SPELLTYPES>
+<SPELLTYPE>
+<id>1</id>
+<spell_name>Flight</spell_name>
+<level>Minor</level>
+<nsr>4</nsr>
+<mana_cost>5</mana_cost>
+<time_to_cast>0</time_to_cast>
+<when_to_cast>Any</when_to_cast>
+<allow_multiple_casters>0</allow_multiple_casters>
+<effect></effect>
+<description></description>
+<is_secret></is_secret>
+</SPELLTYPE>
+<SPELLTYPE>
+<id>2</id>
+<spell_name>Haste</spell_name>
+<level>Major</level>
+<nsr>4</nsr>
+<mana_cost>10+1x</mana_cost>
+<time_to_cast>0</time_to_cast>
+<when_to_cast>Any</when_to_cast>
+<allow_multiple_casters>1</allow_multiple_casters>
+<effect></effect>
+<description></description>
+<is_secret></is_secret>
+</SPELLTYPE>
+<SPELLTYPE>
+<id>3</id>
+<spell_name>Avatar of Urda</spell_name>
+<level>Major</level>
+<nsr>4</nsr>
+<mana_cost>100</mana_cost>
+<time_to_cast>4</time_to_cast>
+<when_to_cast>Start of Turn</when_to_cast>
+<allow_multiple_casters>1</allow_multiple_casters>
+<effect></effect>
+<description></description>
+<is_secret></is_secret>
+</SPELLTYPE>
+<SPELLTYPE>
+<id>4</id>
+<spell_name>Create Mana Battery</spell_name>
+<level>Meta</level>
+<nsr>8</nsr>
+<mana_cost>Varies</mana_cost>
+<time_to_cast>0</time_to_cast>
+<when_to_cast>Start of Turn</when_to_cast>
+<allow_multiple_casters>1</allow_multiple_casters>
+<effect></effect>
+<description></description>
+<is_secret></is_secret>
+</SPELLTYPE>
+</SPELLTYPES>

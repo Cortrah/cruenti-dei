@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<ALLEGIANCES>
+<ALLEGIANCE>
+<id>32</id>
+<allegiancetype_id>3</allegiancetype_id>
+<realm_id>1</realm_id>
+<region_id>2</region_id>
+</ALLEGIANCE>
+<ALLEGIANCE>
+<id>33</id>
+<allegiancetype_id>2</allegiancetype_id>
+<realm_id>3</realm_id>
+<region_id>4</region_id>
+</ALLEGIANCE>
+<ALLEGIANCE>
+<id>34</id>
+<allegiancetype_id>1</allegiancetype_id>
+<realm_id>1</realm_id>
+<region_id>5</region_id>
+</ALLEGIANCE>
+<ALLEGIANCE>
+<id>35</id>
+<allegiancetype_id>1</allegiancetype_id>
+<realm_id>6</realm_id>
+<region_id>2</region_id>
+</ALLEGIANCE>
+</ALLEGIANCES>

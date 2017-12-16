@@ -1,0 +1,33 @@
+gen v1
+
+rails generate scaffold control_type name:string code:string effect:text description:
+
+rails generate scaffold border_type name:string code:string effect:text description:text is_directional:boolean
+
+rails generate scaffold kindred name:string code:string description:text gm_notes:text is_secret:boolean is_flier:boolean is_amphibian:boolean 
+
+rails generate scaffold religion name:string code:string symbol:string description:text
+
+rails generate scaffold build_location_type name:string code:string
+
+rails generate scaffold province name:string
+
+rails generate scaffold location name:string code:string region_id:integer is_secret:boolean notes:text gm_notes:text
+
+rails generate scaffold quadrant mame:string x:integer y:integer map_id:integer is_secret:boolean
+
+rails generate scaffold map name:string bg:string is_secret:boolean
+
+rails generate scaffold quadrants mame:string x:integer y:integer map_id:integer is_secret:boolean
+
+rails generate scaffold realms_turn_status is_secret:boolean starting_isi:integer ending_isi:integer starting_tv:integer ending_tv:integer kindred_id:integer religion_id:integer realm_id:integer ruler_name:string family_tree:text gm_notes:text realm_trade_partners:text
+
+rails generate scaffold regions_turn_status is_secret:boolean controlling_realm_id:integer control_type_id:integer second_tributor_realm_id:integer has_road:boolean gp:integer ap:integer nfp:integer mana:integer pwb:integer tv:integer kindred_id:integer religion_id:integer province_id:integer
+
+rails generate scaffold region name:string x:integer y:integer path:text code:text color:integer cx:integer cy:integer is_secret:boolean borders_volcano:boolean map_id:integer terrain_type_id:integer
+
+rails generate scaffold terrain_type name:string description:text effect:text
+
+rails generate scaffold realm name:string color:integer persona_id:integer first_turn:integer last_turn:integer current_turn_status_id:integer
+
+rails generate scaffold regions_border name:string code:string is_directional:boolean source_id:integer sink_id:integer is_secret:boolean

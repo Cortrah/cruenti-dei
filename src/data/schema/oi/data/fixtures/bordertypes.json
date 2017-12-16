@@ -1,0 +1,214 @@
+{
+"RECORDS":[
+{
+"id":"0",
+"name":"Unknown",
+"land_cost":"NA",
+"air_cost":"NA",
+"naval_cost":"NA",
+"bordertype_effect":"Marks a need to be created",
+"code":"?",
+"is_directional":"0"
+},
+{
+"id":"1",
+"name":"Adjacent",
+"land_cost":"+0",
+"air_cost":"+0",
+"naval_cost":"+0",
+"bordertype_effect":" ",
+"code":"adj",
+"is_directional":"0"
+},
+{
+"id":"2",
+"name":"River",
+"land_cost":"+1",
+"air_cost":"+0",
+"naval_cost":"+0",
+"bordertype_effect":" ",
+"code":"ri",
+"is_directional":"0"
+},
+{
+"id":"3",
+"name":"Road",
+"land_cost":"*(.5)",
+"air_cost":"+0",
+"naval_cost":"NA",
+"bordertype_effect":" ",
+"code":"r",
+"is_directional":"0"
+},
+{
+"id":"4",
+"name":"MinorMountain",
+"land_cost":"+2",
+"air_cost":"+1",
+"naval_cost":"NA",
+"bordertype_effect":" ",
+"code":"mm",
+"is_directional":"0"
+},
+{
+"id":"5",
+"name":"MajorMountain",
+"land_cost":"+3",
+"air_cost":"+1",
+"naval_cost":"NA",
+"bordertype_effect":" ",
+"code":"MM",
+"is_directional":"0"
+},
+{
+"id":"6",
+"name":"GreatWall",
+"land_cost":"+0",
+"air_cost":"+0",
+"naval_cost":"+0",
+"bordertype_effect":" ",
+"code":"GW",
+"is_directional":"0"
+},
+{
+"id":"7",
+"name":"Coastal",
+"land_cost":"+1",
+"air_cost":"+0",
+"naval_cost":"+1",
+"bordertype_effect":" ",
+"code":"c",
+"is_directional":"0"
+},
+{
+"id":"8",
+"name":"Gate",
+"land_cost":"+1",
+"air_cost":"NA",
+"naval_cost":"NA",
+"bordertype_effect":" ",
+"code":"g",
+"is_directional":"0"
+},
+{
+"id":"9",
+"name":"Stairs",
+"land_cost":"All",
+"air_cost":"NA",
+"naval_cost":"NA",
+"bordertype_effect":" ",
+"code":"s",
+"is_directional":"0"
+},
+{
+"id":"10",
+"name":"UpCliffs",
+"land_cost":"NA",
+"air_cost":"+1",
+"naval_cost":"NA",
+"bordertype_effect":" ",
+"code":"->[",
+"is_directional":"1"
+},
+{
+"id":"11",
+"name":"CoastalPort",
+"land_cost":"+0",
+"air_cost":"+0",
+"naval_cost":"+0",
+"bordertype_effect":" ",
+"code":"cp",
+"is_directional":"0"
+},
+{
+"id":"12",
+"name":"Tunnel",
+"land_cost":"+1",
+"air_cost":"NA",
+"naval_cost":"NA",
+"bordertype_effect":" ",
+"code":"t",
+"is_directional":"0"
+},
+{
+"id":"13",
+"name":"BlockedTunnel",
+"land_cost":"NA",
+"air_cost":"NA",
+"naval_cost":"NA",
+"bordertype_effect":" ",
+"code":"bt",
+"is_directional":"0"
+},
+{
+"id":"14",
+"name":"Bridge",
+"land_cost":"+0",
+"air_cost":"+0",
+"naval_cost":"+0",
+"bordertype_effect":" ",
+"code":"b",
+"is_directional":"0"
+},
+{
+"id":"15",
+"name":"UpCurrent",
+"land_cost":"NA",
+"air_cost":"-1",
+"naval_cost":"+0",
+"bordertype_effect":" ",
+"code":"<-{",
+"is_directional":"1"
+},
+{
+"id":"16",
+"name":"DownCurrent",
+"land_cost":"NA",
+"air_cost":"+0",
+"naval_cost":"*2",
+"bordertype_effect":" ",
+"code":"}->",
+"is_directional":"1"
+},
+{
+"id":"17",
+"name":"DownCliffs",
+"land_cost":"+0",
+"air_cost":"+0",
+"naval_cost":"NA",
+"bordertype_effect":" ",
+"code":"]->",
+"is_directional":"1"
+},
+{
+"id":"18",
+"name":"Gills",
+"land_cost":"NA",
+"air_cost":"NA",
+"naval_cost":"+0",
+"bordertype_effect":" ",
+"code":"g",
+"is_directional":"0"
+},
+{
+"id":"19",
+"name":"Teleport",
+"land_cost":"NA",
+"air_cost":"NA",
+"naval_cost":"NA",
+"bordertype_effect":" ",
+"code":"tp",
+"is_directional":"0"
+},
+{
+"id":"20",
+"name":"MassTeleport",
+"land_cost":"NA",
+"air_cost":"NA",
+"naval_cost":"NA",
+"bordertype_effect":" ",
+"code":"mtp",
+"is_directional":"0"
+}
+]
+}

@@ -1,0 +1,327 @@
+<?xml version="1.0"?>
+<RECORDS>
+<RECORD>
+	<id>0</id>
+	<realm_name>None</realm_name>
+	<religion_id>0</religion_id>
+	<realm_type>Unowned</realm_type>
+	<capitallocation_id>0</capitallocation_id>
+	<isi>0.0</isi>
+	<tv>0</tv>
+</RECORD>
+<RECORD>
+	<id>1</id>
+	<realm_name>Kommolek</realm_name>
+	<religion_id>1</religion_id>
+	<realm_type>Imperial Realm</realm_type>
+	<capitallocation_id>17</capitallocation_id>
+	<isi>671.0</isi>
+	<tv>20</tv>
+</RECORD>
+<RECORD>
+	<id>2</id>
+	<realm_name>Tiriowglass</realm_name>
+	<religion_id>2</religion_id>
+	<realm_type>Imperial Realm</realm_type>
+	<capitallocation_id>0</capitallocation_id>
+	<isi>727.0</isi>
+	<tv>0</tv>
+</RECORD>
+<RECORD>
+	<id>3</id>
+	<realm_name>Elpharec</realm_name>
+	<religion_id>2</religion_id>
+	<realm_type>Imperial Realm</realm_type>
+	<capitallocation_id>0</capitallocation_id>
+	<isi>999.0</isi>
+	<tv>0</tv>
+</RECORD>
+<RECORD>
+	<id>4</id>
+	<realm_name>IOC</realm_name>
+	<religion_id>2</religion_id>
+	<realm_type>Primacy</realm_type>
+	<capitallocation_id>0</capitallocation_id>
+	<isi>448.0</isi>
+	<tv>0</tv>
+</RECORD>
+<RECORD>
+	<id>5</id>
+	<realm_name>Merryn</realm_name>
+	<religion_id>3</religion_id>
+	<realm_type>Imperial Realm</realm_type>
+	<capitallocation_id>0</capitallocation_id>
+	<isi>333.0</isi>
+	<tv>0</tv>
+</RECORD>
+<RECORD>
+	<id>6</id>
+	<realm_name>Duedhyn</realm_name>
+	<religion_id>3</religion_id>
+	<realm_type>Imperial Realm</realm_type>
+	<capitallocation_id>0</capitallocation_id>
+	<isi>656.0</isi>
+	<tv>0</tv>
+</RECORD>
+<RECORD>
+	<id>7</id>
+	<realm_name>Cappargarnia</realm_name>
+	<religion_id>4</religion_id>
+	<realm_type>Imperial Elector</realm_type>
+	<capitallocation_id>0</capitallocation_id>
+	<isi>1495.0</isi>
+	<tv>0</tv>
+</RECORD>
+<RECORD>
+	<id>8</id>
+	<realm_name>Imperial Demense</realm_name>
+	<religion_id>7</religion_id>
+	<realm_type>Empirial Center</realm_type>
+	<capitallocation_id>0</capitallocation_id>
+	<isi>0.0</isi>
+	<tv>0</tv>
+</RECORD>
+<RECORD>
+	<id>9</id>
+	<realm_name>None</realm_name>
+	<religion_id>7</religion_id>
+	<realm_type>Unowned</realm_type>
+	<capitallocation_id>0</capitallocation_id>
+	<isi>0.0</isi>
+	<tv>0</tv>
+</RECORD>
+<RECORD>
+	<id>10</id>
+	<realm_name>CUT</realm_name>
+	<religion_id>3</religion_id>
+	<realm_type>Primacy</realm_type>
+	<capitallocation_id>0</capitallocation_id>
+	<isi>1183.0</isi>
+	<tv>0</tv>
+</RECORD>
+<RECORD>
+	<id>12</id>
+	<realm_name>Golmath</realm_name>
+	<religion_id>4</religion_id>
+	<realm_type>Imperial Elector</realm_type>
+	<capitallocation_id>0</capitallocation_id>
+	<isi>2208.0</isi>
+	<tv>0</tv>
+</RECORD>
+<RECORD>
+	<id>13</id>
+	<realm_name>Aradec</realm_name>
+	<religion_id>2</religion_id>
+	<realm_type>Imperial Elector</realm_type>
+	<capitallocation_id>0</capitallocation_id>
+	<isi>2027.0</isi>
+	<tv>0</tv>
+</RECORD>
+<RECORD>
+	<id>14</id>
+	<realm_name>Zarkandhu</realm_name>
+	<religion_id>1</religion_id>
+	<realm_type>Imperial Elector</realm_type>
+	<capitallocation_id>0</capitallocation_id>
+	<isi>1459.0</isi>
+	<tv>0</tv>
+</RECORD>
+<RECORD>
+	<id>15</id>
+	<realm_name>Attuburrk</realm_name>
+	<religion_id>1</religion_id>
+	<realm_type>Imperial Elector</realm_type>
+	<capitallocation_id>0</capitallocation_id>
+	<isi>1421.0</isi>
+	<tv>0</tv>
+</RECORD>
+<RECORD>
+	<id>16</id>
+	<realm_name>Araxes</realm_name>
+	<religion_id>3</religion_id>
+	<realm_type>Imperial Realm</realm_type>
+	<capitallocation_id>0</capitallocation_id>
+	<isi>1412.0</isi>
+	<tv>0</tv>
+</RECORD>
+<RECORD>
+	<id>17</id>
+	<realm_name>Thace, Elector</realm_name>
+	<religion_id>3</religion_id>
+	<realm_type>Imperial Elector</realm_type>
+	<capitallocation_id>0</capitallocation_id>
+	<isi>1379.0</isi>
+	<tv>0</tv>
+</RECORD>
+<RECORD>
+	<id>18</id>
+	<realm_name>Chitixi</realm_name>
+	<religion_id>1</religion_id>
+	<realm_type>Imperial Elector</realm_type>
+	<capitallocation_id>0</capitallocation_id>
+	<isi>1325.0</isi>
+	<tv>0</tv>
+</RECORD>
+<RECORD>
+	<id>20</id>
+	<realm_name>Itaxik</realm_name>
+	<religion_id>3</religion_id>
+	<realm_type>Imperial Elector</realm_type>
+	<capitallocation_id>0</capitallocation_id>
+	<isi>1312.0</isi>
+	<tv>0</tv>
+</RECORD>
+<RECORD>
+	<id>22</id>
+	<realm_name>Ingazi</realm_name>
+	<religion_id>3</religion_id>
+	<realm_type>Imperial Realm</realm_type>
+	<capitallocation_id>0</capitallocation_id>
+	<isi>1142.0</isi>
+	<tv>0</tv>
+</RECORD>
+<RECORD>
+	<id>23</id>
+	<realm_name>Elpharec</realm_name>
+	<religion_id>2</religion_id>
+	<realm_type>Imperial Realm</realm_type>
+	<capitallocation_id>0</capitallocation_id>
+	<isi>999.0</isi>
+	<tv>0</tv>
+</RECORD>
+<RECORD>
+	<id>24</id>
+	<realm_name>Pexiki</realm_name>
+	<religion_id>1</religion_id>
+	<realm_type>Imperial Realm</realm_type>
+	<capitallocation_id>0</capitallocation_id>
+	<isi>940.0</isi>
+	<tv>0</tv>
+</RECORD>
+<RECORD>
+	<id>25</id>
+	<realm_name>Hyragec</realm_name>
+	<religion_id>3</religion_id>
+	<realm_type>Imperial Realm</realm_type>
+	<capitallocation_id>0</capitallocation_id>
+	<isi>822.0</isi>
+	<tv>0</tv>
+</RECORD>
+<RECORD>
+	<id>26</id>
+	<realm_name>Thace, Duchy</realm_name>
+	<religion_id>3</religion_id>
+	<realm_type>Imperial Realm</realm_type>
+	<capitallocation_id>0</capitallocation_id>
+	<isi>795.0</isi>
+	<tv>0</tv>
+</RECORD>
+<RECORD>
+	<id>27</id>
+	<realm_name>Taneki</realm_name>
+	<religion_id>1</religion_id>
+	<realm_type>Imperial Realm</realm_type>
+	<capitallocation_id>0</capitallocation_id>
+	<isi>761.0</isi>
+	<tv>0</tv>
+</RECORD>
+<RECORD>
+	<id>28</id>
+	<realm_name>Kitcitchat</realm_name>
+	<religion_id>1</religion_id>
+	<realm_type>Imperial Realm</realm_type>
+	<capitallocation_id>0</capitallocation_id>
+	<isi>627.0</isi>
+	<tv>0</tv>
+</RECORD>
+<RECORD>
+	<id>29</id>
+	<realm_name>Putini-Yani</realm_name>
+	<religion_id>5</religion_id>
+	<realm_type>Imperial Realm</realm_type>
+	<capitallocation_id>0</capitallocation_id>
+	<isi>623.0</isi>
+	<tv>0</tv>
+</RECORD>
+<RECORD>
+	<id>30</id>
+	<realm_name>Veiled Masters</realm_name>
+	<religion_id>1</religion_id>
+	<realm_type>Primacy</realm_type>
+	<capitallocation_id>0</capitallocation_id>
+	<isi>605.0</isi>
+	<tv>0</tv>
+</RECORD>
+<RECORD>
+	<id>31</id>
+	<realm_name>Murali</realm_name>
+	<religion_id>4</religion_id>
+	<realm_type>Imperial Realm</realm_type>
+	<capitallocation_id>0</capitallocation_id>
+	<isi>548.0</isi>
+	<tv>0</tv>
+</RECORD>
+<RECORD>
+	<id>32</id>
+	<realm_name>Tokatl</realm_name>
+	<religion_id>4</religion_id>
+	<realm_type>County</realm_type>
+	<capitallocation_id>0</capitallocation_id>
+	<isi>507.6</isi>
+	<tv>14</tv>
+</RECORD>
+<RECORD>
+	<id>33</id>
+	<realm_name>Sakkar</realm_name>
+	<religion_id>2</religion_id>
+	<realm_type>Imperial Realm</realm_type>
+	<capitallocation_id>0</capitallocation_id>
+	<isi>363.0</isi>
+	<tv>0</tv>
+</RECORD>
+<RECORD>
+	<id>34</id>
+	<realm_name>Yax'te</realm_name>
+	<religion_id>2</religion_id>
+	<realm_type>Imperial Realm</realm_type>
+	<capitallocation_id>0</capitallocation_id>
+	<isi>353.0</isi>
+	<tv>0</tv>
+</RECORD>
+<RECORD>
+	<id>35</id>
+	<realm_name>Carce</realm_name>
+	<religion_id>3</religion_id>
+	<realm_type>Imperial Realm</realm_type>
+	<capitallocation_id>0</capitallocation_id>
+	<isi>326.0</isi>
+	<tv>0</tv>
+</RECORD>
+<RECORD>
+	<id>36</id>
+	<realm_name>Sword of Illuvar</realm_name>
+	<religion_id>2</religion_id>
+	<realm_type>Primacy</realm_type>
+	<capitallocation_id>0</capitallocation_id>
+	<isi>303.0</isi>
+	<tv>0</tv>
+</RECORD>
+<RECORD>
+	<id>37</id>
+	<realm_name>Averon</realm_name>
+	<religion_id>2</religion_id>
+	<realm_type>Imperial Elector</realm_type>
+	<capitallocation_id>0</capitallocation_id>
+	<isi>0.0</isi>
+	<tv>0</tv>
+</RECORD>
+<RECORD>
+	<id>38</id>
+	<realm_name>Hyragec</realm_name>
+	<religion_id>3</religion_id>
+	<realm_type>Imperial Realm</realm_type>
+	<capitallocation_id>0</capitallocation_id>
+	<isi>0.0</isi>
+	<tv>0</tv>
+</RECORD>
+</RECORDS>

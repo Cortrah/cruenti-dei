@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<AGENTTYPES>
+<AGENTTYPE>
+<id>1</id>
+<agent_description>Ruler</agent_description>
+</AGENTTYPE>
+<AGENTTYPE>
+<id>2</id>
+<agent_description>Heir</agent_description>
+</AGENTTYPE>
+<AGENTTYPE>
+<id>3</id>
+<agent_description>Friendly</agent_description>
+</AGENTTYPE>
+<AGENTTYPE>
+<id>4</id>
+<agent_description>Allied</agent_description>
+</AGENTTYPE>
+<AGENTTYPE>
+<id>5</id>
+<agent_description>Mercenary</agent_description>
+</AGENTTYPE>
+<AGENTTYPE>
+<id>6</id>
+<agent_description>Guard</agent_description>
+</AGENTTYPE>
+</AGENTTYPES>
