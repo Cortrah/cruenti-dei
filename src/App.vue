@@ -6,7 +6,7 @@
 
 <script>
   import Stageground from './layouts/Stageground.vue'
-  import Story from './components/Story.vue'
+  import Story from './components/TwoColumnLayout.vue'
   import Catelog from './layouts/Catelog.vue'
 
   export default {

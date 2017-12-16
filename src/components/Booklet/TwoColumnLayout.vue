@@ -1,8 +1,5 @@
 <template>
-  <div class="story">
-    <OpeningParagraph></OpeningParagraph>
-    <h1>2 column layout example</h1>
-
+  <div class="two-cols">
     <div>
       <h2>First column</h2>
       <OpeningParagraph></OpeningParagraph>
@@ -49,7 +46,7 @@
     clear: both;
   }
 
-  .story {
+  .two-cols {
     font-family: Oldstyle;
   }
 

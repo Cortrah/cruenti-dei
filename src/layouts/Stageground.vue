@@ -18,7 +18,7 @@
 
 <script type="text/babel">
     import GameMap from '../components/GameMap.vue'
-    import Story from '../components/Story.vue'
+    import Story from '../components/TwoColumnLayout.vue'
     import Errantry from '../components/ErrantryList.vue'
 
     export default {
