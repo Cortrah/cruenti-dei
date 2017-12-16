@@ -1,7 +1,7 @@
 <template>
   <div class="pane">
     <div class="toolbar">
-      <input type="range" min="0" max="5" value="3" id="fader">
+      <input type="range" min="0" max="10" value="5" id="fader">
     </div>
     <img src="./sahul.gif"></img>
   </div>
