@@ -1,7 +1,6 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import GameMap from '@/components/GameMap'
-import Story from '@/components/Story'
+import GameMap from '@/components/GameMap/GameMap'
 
 Vue.use(Router)
 

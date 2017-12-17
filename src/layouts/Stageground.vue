@@ -17,9 +17,9 @@
 </template>
 
 <script type="text/babel">
-    import GameMap from '../components/GameMap.vue'
-    import Story from '../components/TwoColumnLayout.vue'
-    import Errantry from '../components/ErrantryList.vue'
+    import GameMap from '../components/GameMap/GameMap.vue'
+    import Story from '../components/Booklet/TwoColumnLayout.vue'
+    import Errantry from '../components/TurnResults/ErrantryList.vue'
 
     export default {
     name: 'stageground',
