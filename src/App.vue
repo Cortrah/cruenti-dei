@@ -1,16 +1,16 @@
 <template>
   <div id="app">
-    <FullScreen></FullScreen>
+    <FullScreenFlex></FullScreenFlex>
   </div>
 </template>
 
 <script>
-  import FullScreen from './layouts/FullScreen.vue'
+  import FullScreenFlex from './layouts/FullScreenFlex.vue'
 
   export default {
     name: 'app',
     components: {
-        FullScreen
+        FullScreenFlex
     }
   }
 </script>

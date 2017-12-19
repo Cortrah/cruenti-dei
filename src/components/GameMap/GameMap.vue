@@ -18,8 +18,6 @@
   }
 
   .pane {
-    height:600px;
-    width:800px;
     overflow: scroll;
   }
 
