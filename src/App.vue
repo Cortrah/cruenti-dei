@@ -1,18 +1,16 @@
 <template>
   <div id="app">
-    <Stageground></Stageground>
+    <FullScreen></FullScreen>
   </div>
 </template>
 
 <script>
-  import Stageground from './layouts/Stageground.vue'
-  import Story from './components/Booklet/TwoColumnLayout.vue'
-  import Catelog from './layouts/Catelog.vue'
+  import FullScreen from './layouts/FullScreen.vue'
 
   export default {
     name: 'app',
     components: {
-        Stageground
+        FullScreen
     }
   }
 </script>
