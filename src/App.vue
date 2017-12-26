@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <FullScreenFlex></FullScreenFlex>
+    <button @click.prevent="testIt"></button>
   </div>
 </template>
 
@@ -11,6 +12,11 @@
     name: 'app',
     components: {
         FullScreenFlex
+    },
+    methods: {
+        testIt: function () {
+            alert('ok');
+        }
     }
   }
 </script>
