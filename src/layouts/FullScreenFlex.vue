@@ -45,8 +45,10 @@
                         </el-tab-pane>
                         <el-tab-pane label="REALM">REALM</el-tab-pane>
                         <el-tab-pane label="LEADER">LEADER</el-tab-pane>
-                        <el-tab-pane label="RULES">RULES</el-tab-pane>
                         <el-tab-pane label="DIPLOMACY">DIPLOMACY</el-tab-pane>
+                        <el-tab-pane label="RULES">
+                            <border-type></border-type>
+                        </el-tab-pane>
                     </el-tabs>
                 </el-col>
             </el-row>
@@ -59,10 +61,12 @@
     import GameMap from '../components/GameMap/GameMap.vue'
     import TwoColumnLayout from '../components/Booklet/TwoColumnLayout.vue'
     import Errantry from '../components/TurnResults/ErrantryList.vue'
+    import BorderType from "../components/Rules/BorderType";
 
     export default {
         name: 'FullScreenFlex',
         components: {
+            BorderType,
             GameMap, TwoColumnLayout, Errantry
         },
         data () {

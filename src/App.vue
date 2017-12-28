@@ -1,38 +1,16 @@
 <template>
     <div id="app">
         <FullScreenFlex></FullScreenFlex>
-        <div>
-            <div v-for="borderType of borderTypeList">
-                <div>{{ borderType.name }}</div>
-            </div>
-        </div>
     </div>
 </template>
 
 <script>
     import FullScreenFlex from './layouts/FullScreenFlex.vue'
-    import gql from 'graphql-tag'
-
-    const BORDER_TYPES_QUERY = gql`
-        {
-          borderTypeList {
-            id
-            name
-          }
-        }`;
 
     export default {
         name: 'app',
         components: {
             FullScreenFlex
-        },
-        data () {
-            return {
-                borderTypeList: []
-            }
-        },
-        apollo: {
-            borderTypeList: BORDER_TYPES_QUERY,
         },
     }
 </script>
