@@ -10,6 +10,10 @@ import VueApollo from 'vue-apollo'
 import "./theme/index.css"
 import ElementUI from 'element-ui'
 
+Vue.use(VueApollo);
+Vue.use(ElementUI);
+Vue.config.productionTip = false;
+
 const httpLink = new HttpLink({
     uri: 'http://localhost:8080/graphql',
 });
@@ -23,10 +27,6 @@ const apolloClient = new ApolloClient({
 const apolloProvider = new VueApollo({
     defaultClient: apolloClient,
 });
-
-Vue.use(VueApollo);
-Vue.use(ElementUI);
-Vue.config.productionTip = false;
 
 new Vue({
     el: '#app',

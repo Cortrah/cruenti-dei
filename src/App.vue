@@ -1,9 +1,7 @@
 <template>
     <div id="app">
         <FullScreenFlex></FullScreenFlex>
-        <button @click.prevent="testIt"></button>
         <div>
-            <div v-if="loading" class="loading">Loading...</div>
             <div v-for="borderType of borderTypeList">
                 <div>{{ borderType.name }}</div>
             </div>
@@ -15,37 +13,27 @@
     import FullScreenFlex from './layouts/FullScreenFlex.vue'
     import gql from 'graphql-tag'
 
-    // const BORDER_TYPES_QUERY = Apollo.gql`
-    //     {
-    //       borderTypeList {
-    //         id
-    //         name
-    //       }
-    //     }`;
+    const BORDER_TYPES_QUERY = gql`
+        {
+          borderTypeList {
+            id
+            name
+          }
+        }`;
 
     export default {
         name: 'app',
         components: {
             FullScreenFlex
         },
-        data: {
-            borderTypeList: [],
-            loading: 0,
-        },
-        apolloProvider,
-        apollo: {
-            query: gql`{
-                borderTypeList {
-                    id
-                    name
-                }
-            }`
-        },
-        methods: {
-            testIt: function () {
-                alert('ok');
+        data () {
+            return {
+                borderTypeList: []
             }
-        }
+        },
+        apollo: {
+            borderTypeList: BORDER_TYPES_QUERY,
+        },
     }
 </script>
 
