@@ -1,8 +1,8 @@
-# cruenti-dei
+# Cruenti-Dei
 
-> Vue2 Webpack Version
+# Vue2 Webpack Version
 
-## Build Setup
+# Build Setup
 
 ``` bash
 # install dependencies
@@ -35,6 +35,7 @@ npm test
 ## Data
 
 - [ ] bordertypes
+    - [X] basic id and name
     - [ ] add costs, description and status standard fields
     - [ ] table for rules display
     - [ ] inline dropdown for selection
@@ -59,27 +60,6 @@ npm test
 - [ ] Leader Drag and drop for movement
 - [ ] Leader Orbit Selector for other actions
 
-## references
-
-[vue]()
-
-[vue webpack guide](http://vuejs-templates.github.io/webpack/)
-
-[docs for vue-loader](http://vuejs.github.io/vue-loader)
-
-[element]()
-
-[apollo-client]()
-
-[apollo-vue]()
-
-[storybook]()
-
-[jest]()
-
-[vue test utils]()
-
-[greensock]()
 
 ## Server [old-imperial](https://github.com/Cortrah/old-imperial)
 
@@ -109,6 +89,18 @@ npm test
         - personal conversation at a location
         - or via a paired set of crystal balls
 
+## references
+
+* [vue](https://vuejs.org/v2/guide/components.html#Props)
+* [vue webpack guide](http://vuejs-templates.github.io/webpack/)
+* [docs for vue-loader](http://vuejs.github.io/vue-loader)
+* [element](http://element.eleme.io/#/en-US/component/form)
+* [apollo-client](https://www.apollographql.com/client/)
+* [apollo-vue](https://github.com/akryum/vue-apollo)
+* [storybook](https://github.com/storybooks/storybook)
+* [jest](https://facebook.github.io/jest/docs/en/api.html)
+* [vue test utils](https://vue-test-utils.vuejs.org/en/)
+* [greensock](https://greensock.com/docs/)
 
 
 
