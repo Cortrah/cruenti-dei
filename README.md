@@ -42,8 +42,32 @@ npm test
 - [ ] spells
     - [ ] add costs, description and status standard fields
     - [ ] section in rules display
-    - [ ] widget for a new proposal maybe spell
+    - [ ] widget and dialog for new spell proposals, review, iteration and acceptance (as a leader action)
     - [ ] inline dropdown for selection
+
+- [ ] json examples and a form for each domain class
+
+- [ ] Phase 1
+    - [ ] BorderType
+    - [ ] MajorMap
+    - [ ] MovementEffect
+    - [ ] MovementRule
+    - [ ] MovementType
+    - [ ] Region
+    - [ ] TerrainType
+    - [ ] LeaderAction
+    - [ ] ActionCategory (movement)
+- [ ] Phase 2
+    - [ ] Player
+    - [ ] Realm
+    - [ ] Kindred
+    - [ ] Spell
+    - [ ] Religion
+- [ ] Phase 3
+    - [ ]
+    - [ ]
+    - [ ]
+    - [ ]
 
 ## Layout and Typography
 
@@ -59,7 +83,10 @@ npm test
 - [ ] Leader Chit
 - [ ] Leader Drag and drop for movement
 - [ ] Leader Orbit Selector for other actions
-
+- [ ] Leader Action Item for list of leader actions
+    - [ ] dialog for editing actions
+    - [ ] item for print display of minimum key info for processing
+    - [ ] thumbnail item display for players
 
 ## Server [old-imperial](https://github.com/Cortrah/old-imperial)
 
