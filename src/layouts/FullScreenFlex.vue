@@ -6,7 +6,7 @@
                     class="el-menu-demo"
                     mode="horizontal"
                     @select="handleSelect"
-                    background-color="#333"
+                    background-color="#000"
                     text-color="#fff"
                     active-text-color="#ffd04b">
                 <el-menu-item index="1">OLD-IMPERIAL</el-menu-item>
@@ -35,10 +35,10 @@
         </el-header>
         <el-main>
             <el-row>
-                <el-col :span="12" class="game-map">
+                <el-col :span="12" class="game-map-col">
                     <game-map/>
                 </el-col>
-                <el-col :span="12">
+                <el-col :span="12" class="content-col">
                     <el-tabs type="border-card">
                         <el-tab-pane label="TURN">
                             <two-column-layout/>
@@ -85,9 +85,23 @@
 </script>
 
 <style>
+
+    body {
+        padding: 0;
+        margin: 0;
+        background-color: #000;
+    }
+
     .el-header, .el-footer {
-        background-color: #0d0d0d;
+        background-color: #000;
         color: white;
+    }
+
+    .el-footer {
+        height: 60px;
+        width: 100%;
+        position: absolute;
+        bottom: 0px;
     }
 
     .el-aside {
@@ -99,15 +113,25 @@
     .el-main {
         background-color: #E9EEF3;
         color: #333;
-        max-height: 800px;
+        max-height: 545px;
+        overflow: visible;
+        margin: 0;
+        padding: 0 !important;
     }
 
-    body > .el-container {
-        margin-bottom: 40px;
-    }
-
-    .game-map {
+    .game-map-col {
         background-color: #336699;
         color: #dee2ee;
+        max-height: 545px;
+        overflow: scroll;
+        margin: 0;
+        padding: 0;
+    }
+
+    .content-col {
+        overflow: auto;
+        max-height: 545px;
+        margin: 0;
+        padding: 0;
     }
 </style>

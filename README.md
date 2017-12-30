@@ -1,6 +1,6 @@
 # cruenti-dei
 
-> Vue2 Webpack Version, Brining old stuff together, Started Feb 2017
+> Vue2 Webpack Version, Bringing old stuff together, Started Feb 2017
 
 ## Build Setup
 
@@ -30,4 +30,58 @@ npm run e2e
 npm test
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+# ToDo
+
+## Data
+
+- [ ] bordertypes
+    - [ ] add costs, description and status standard fields
+    - [ ] table for rules display
+    - [ ] inline dropdown for selection
+- [ ] spells
+    - [ ] add costs, description and status standard fields
+    - [ ] section in rules display
+    - [ ] widget for a new proposal maybe spell
+    - [ ] inline dropdown for selection
+
+## Layout and Typography
+
+- [ ] Turn
+- [ ] Rules
+- [ ] Realm Actions
+- [ ] Leader Action
+- [ ] Diplomacy
+
+## Components
+
+- [ ] Map
+- [ ] Leader Chit
+- [ ] Leader Drag and drop for movement
+- [ ] Leader Orbit Selector for other actions
+
+## references
+
+[vue]()
+
+[vue webpack guide](http://vuejs-templates.github.io/webpack/)
+
+[docs for vue-loader](http://vuejs.github.io/vue-loader)
+
+[element]()
+
+[apollo-client]()
+
+[apollo-vue]()
+
+[storybook]()
+
+[jest]()
+
+[vue test utils]()
+
+[greensock]()
+
+## Server
+
+## Discourse Theme and components for diplomacy and inline maps
+
