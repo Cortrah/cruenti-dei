@@ -1,6 +1,6 @@
 # cruenti-dei
 
-> Vue2 Webpack Version, Bringing old stuff together, Started Feb 2017
+> Vue2 Webpack Version
 
 ## Build Setup
 
@@ -81,7 +81,34 @@ npm test
 
 [greensock]()
 
-## Server
+## Server [old-imperial](https://github.com/Cortrah/old-imperial)
+
+- [X] Groovey and Grails scaffolded admin
+- [X] Graphql endpoint
+- [X] basic cors enabled
+- [X] bordertypes query
+- [ ] bordertypes mutation
+- [ ] other datatypes ...
+- [ ] Spring Security for fog of war proof of concept
+
 
 ## Discourse Theme and components for diplomacy and inline maps
+
+- [ ] black and white minimal theme
+- [ ] custom layout
+- [ ] stageground plugin
+- [ ] inline map plugin
+- [ ] diplomatic plugins
+    - [ ] in order to share data, there needs to be a treaty as to what with any conditionals
+    - [ ] any communication requires a medium or a location and two or more leaders
+    - [ ] possible mediums are
+        - through the printers guild
+        - through a herald at court
+        - back ally rumors (from a leader to a group, so source can be reverse engineered sometimes)
+        - message via courier
+        - personal conversation at a location
+        - or via a paired set of crystal balls
+
+
+
 
