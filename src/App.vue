@@ -37,7 +37,9 @@
         <el-footer>
             <router-link to="/">Home</router-link>
             <router-link to="/GameMap">Map</router-link>
-            <router-link to="/Bordertypes">Bordertypes</router-link>
+            <router-link to="/PublicMap">PublicMap</router-link>
+            <router-link to="/RealmMap">RealmMap</router-link>
+            <router-link to="/DeiMap">DeiMap</router-link>
         </el-footer>
     </el-container>
 

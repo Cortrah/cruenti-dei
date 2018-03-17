@@ -2,8 +2,9 @@ import Vue from 'vue'
 import Router from 'vue-router'
 import Home from '@/layouts/Home'
 import GameMap from '@/components/GameMap/GameMap'
-import Bordertypes from '@/components/GameMap/Bordertypes'
-
+import PublicMap from '@/components/GameMap/PublicMap'
+import RealmMap from '@/components/GameMap/RealmMap'
+import DeiMap from '@/components/GameMap/DeiMap'
 Vue.use(Router);
 
 export default new Router({
@@ -17,9 +18,17 @@ export default new Router({
           name: 'GameMap',
           component: GameMap
       }, {
-          path: '/Bordertypes',
-          name: 'Bordertypes',
-          component: Bordertypes
+          path: '/PublicMap',
+          name: 'PublicMap',
+          component: PublicMap
+      }, {
+          path: '/RealmMap',
+          name: 'RealmMap',
+          component: RealmMap
+      }, {
+          path: '/DeiMap',
+          name: 'DeiMap',
+          component: DeiMap
       }
   ]
 })
