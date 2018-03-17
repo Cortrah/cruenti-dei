@@ -37,6 +37,7 @@
         <el-footer>
             <router-link to="/">Home</router-link>
             <router-link to="/GameMap">Map</router-link>
+            <router-link to="/Bordertypes">Bordertypes</router-link>
         </el-footer>
     </el-container>
 
@@ -45,11 +46,12 @@
 <script>
     import Home from './layouts/Home.vue'
     import GameMap from './components/GameMap/GameMap.vue'
+    import Bordertypes from './components/GameMap/Bordertypes.vue'
 
     export default {
         name: 'app',
         components: {
-            Home, GameMap
+            Home, GameMap, Bordertypes
         },
         data () {
             return {
@@ -131,7 +133,7 @@
     .el-main {
         background-color: #fff;
         color: #333;
-        max-height: 545px;
+        height: 1200px;
         overflow: visible;
         margin: 0;
         padding: 0 !important;
@@ -140,7 +142,6 @@
     .game-map-col {
         background-color: #336699;
         color: white;
-        max-height: 545px;
         overflow: scroll;
         margin: 0;
         padding: 0;
