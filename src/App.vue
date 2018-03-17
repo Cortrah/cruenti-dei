@@ -1,21 +1,37 @@
 <template>
     <div id="app">
-        <FullScreenFlex></FullScreenFlex>
+        <div id="nav">
+            <router-link to="/">Home</router-link>
+            |
+            <router-link to="/FullScreenFlex">Map</router-link>
+        </div>
+        <router-view/>
     </div>
 </template>
 
 <script>
+    import Home from './layouts/Home.vue'
     import FullScreenFlex from './layouts/FullScreenFlex.vue'
 
     export default {
         name: 'app',
         components: {
+            Home,
             FullScreenFlex
         },
     }
 </script>
 
 <style>
+
+    #app {
+        font-family: 'Avenir', Helvetica, Arial, sans-serif;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        text-align: center;
+        color: #2c3e50;
+    }
+
     @font-face {
         font-family: Max;
         src: url("assets/fonts/maximilian.ttf") format("truetype");

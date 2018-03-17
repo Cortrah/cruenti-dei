@@ -1,6 +1,4 @@
-# Cruenti-Dei
-
-# Vue2 Webpack Version
+# Cruenti-Dei, an Old Imperial Client
 
 # Build Setup
 
@@ -30,44 +28,11 @@ npm run e2e
 npm test
 ```
 
+url
+
+    http://localhost:9081
+
 # ToDo
-
-## Data
-
-- [ ] bordertypes
-    - [X] basic id and name
-    - [ ] add costs, description and status standard fields
-    - [ ] table for rules display
-    - [ ] inline dropdown for selection
-- [ ] spells
-    - [ ] add costs, description and status standard fields
-    - [ ] section in rules display
-    - [ ] widget and dialog for new spell proposals, review, iteration and acceptance (as a leader action)
-    - [ ] inline dropdown for selection
-
-- [ ] json examples and a form for each domain class
-
-- [ ] Phase 1
-    - [ ] BorderType
-    - [ ] MajorMap
-    - [ ] MovementEffect
-    - [ ] MovementRule
-    - [ ] MovementType
-    - [ ] Region
-    - [ ] TerrainType
-    - [ ] LeaderAction
-    - [ ] ActionCategory (movement)
-- [ ] Phase 2
-    - [ ] Player
-    - [ ] Realm
-    - [ ] Kindred
-    - [ ] Spell
-    - [ ] Religion
-- [ ] Phase 3
-    - [ ]
-    - [ ]
-    - [ ]
-    - [ ]
 
 ## Layout and Typography
 
@@ -80,6 +45,10 @@ npm test
 ## Components
 
 - [ ] Map
+    - [ ] Regions
+    - [ ] RegionsBorders
+    - [ ] Locations
+    - [ ] Areas (the boundary of a group of regions)
 - [ ] Leader Chit
 - [ ] Leader Drag and drop for movement
 - [ ] Leader Orbit Selector for other actions
