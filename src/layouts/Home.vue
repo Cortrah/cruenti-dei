@@ -28,3 +28,10 @@
         name: 'Home',
     }
 </script>
+
+<style>
+    .home {
+        height: 1200px;
+        background-color: red;
+    }
+</style>

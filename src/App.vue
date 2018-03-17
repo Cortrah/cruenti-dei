@@ -12,14 +12,14 @@
                     OLD-IMPERIAL
                 </el-menu-item>
 
-                <el-submenu v-if="state === 'map'" index="2">
+                <el-submenu v-if="$route.name === 'GameMap'" index="2">
                     <template slot="title">Map</template>
                     <el-menu-item index="2-1">Sahul</el-menu-item>
                     <el-menu-item index="2-2">The Underlands</el-menu-item>
                     <el-menu-item index="2-3">Oratoa</el-menu-item>
                     <el-menu-item index="2-4">Effan</el-menu-item>
                 </el-submenu>
-                <el-submenu v-if="state === 'map'" index="3">
+                <el-submenu v-if="$route.name === 'GameMap'"  index="3">
                     <template slot="title">Turn 23: 1445-1449</template>
                     <el-menu-item index="3-1">1445</el-menu-item>
                     <el-menu-item index="3-2">1446</el-menu-item>
@@ -100,7 +100,7 @@
     }
 
     a:active {
-        color: #993946;
+        color: #7a7a7a;
     }
 
     #app {
