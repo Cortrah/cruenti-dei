@@ -1,35 +1,156 @@
 <template>
-    <div id="app">
-        <div id="nav">
+    <el-container>
+        <el-header>
+            <el-menu :default-active="activeIndex2"
+                     class="el-menu-demo"
+                     mode="horizontal"
+                     @select="handleSelect"
+                     background-color="#000"
+                     text-color="#fff"
+                     active-text-color="#ffd04b">
+                <el-menu-item index="1">
+                    OLD-IMPERIAL
+                </el-menu-item>
+
+                <el-submenu v-if="state === 'map'" index="2">
+                    <template slot="title">Map</template>
+                    <el-menu-item index="2-1">Sahul</el-menu-item>
+                    <el-menu-item index="2-2">The Underlands</el-menu-item>
+                    <el-menu-item index="2-3">Oratoa</el-menu-item>
+                    <el-menu-item index="2-4">Effan</el-menu-item>
+                </el-submenu>
+                <el-submenu v-if="state === 'map'" index="3">
+                    <template slot="title">Turn 23: 1445-1449</template>
+                    <el-menu-item index="3-1">1445</el-menu-item>
+                    <el-menu-item index="3-2">1446</el-menu-item>
+                    <el-menu-item index="3-3">1447</el-menu-item>
+                    <el-menu-item index="3-4">1448</el-menu-item>
+                    <el-menu-item index="3-5">1449</el-menu-item>
+                </el-submenu>
+            </el-menu>
+        </el-header>
+        <el-main>
+            <div id="app">
+                <router-view/>
+            </div>
+        </el-main>
+        <el-footer>
             <router-link to="/">Home</router-link>
-            |
-            <router-link to="/FullScreenFlex">Map</router-link>
-        </div>
-        <router-view/>
-    </div>
+            <router-link to="/GameMap">Map</router-link>
+        </el-footer>
+    </el-container>
+
 </template>
 
 <script>
     import Home from './layouts/Home.vue'
-    import FullScreenFlex from './layouts/FullScreenFlex.vue'
+    import GameMap from './components/GameMap/GameMap.vue'
 
     export default {
         name: 'app',
         components: {
-            Home,
-            FullScreenFlex
+            Home, GameMap
         },
+        data () {
+            return {
+                state: "splash",
+                msg: 'Old Imperial',
+                activeIndex: '1',
+                activeIndex2: '1'
+            }
+        },
+        methods: {
+            handleSelect(key, keyPath) {
+                console.log(key, keyPath);
+            }
+        }
     }
 </script>
 
 <style>
 
+    body {
+        padding: 0;
+        margin: 0;
+        background-color: #fff;
+    }
+
+    h1 {
+        font-family: Max;
+        font-size: 3em;
+        color: black;
+    }
+
+    p {
+        font-family: OldStyle;
+        font-size: 1.2em;
+        color: black;
+    }
+
+    a:link {
+        color: #dee2ee;
+    }
+
+    a:visited {
+        color: #e5bc63;
+    }
+
+    a:hover {
+        color: #e5d246;
+    }
+
+    a:active {
+        color: #993946;
+    }
+
     #app {
-        font-family: 'Avenir', Helvetica, Arial, sans-serif;
-        -webkit-font-smoothing: antialiased;
-        -moz-osx-font-smoothing: grayscale;
+        font-family: 'OldStyle';
         text-align: center;
         color: #2c3e50;
+        padding: 0;
+    }
+
+    .el-header, .el-footer {
+        background-color: #000;
+        color: white;
+    }
+
+    .el-footer {
+        height: 60px;
+        width: 100%;
+        position: absolute;
+        bottom: 0px;
+    }
+
+    .el-aside {
+        background-color: #fff;
+        color: #333;
+        max-width: 820px;
+    }
+
+    .el-main {
+        background-color: #fff;
+        color: #333;
+        max-height: 545px;
+        overflow: visible;
+        margin: 0;
+        padding: 0 !important;
+    }
+
+    .game-map-col {
+        background-color: #336699;
+        color: white;
+        max-height: 545px;
+        overflow: scroll;
+        margin: 0;
+        padding: 0;
+    }
+
+    .content-col {
+        overflow: auto;
+        max-height: 545px;
+        margin: 0;
+        padding: 0;
     }
 
     @font-face {
