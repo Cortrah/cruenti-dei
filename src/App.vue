@@ -47,7 +47,7 @@
 
 <script>
     import Home from './layouts/Home.vue'
-    import GameMap from './components/GameMap/GameMap.vue'
+    import GameMap from './components/GameMap/BaseMap.vue'
     import Bordertypes from './components/GameMap/Bordertypes.vue'
 
     export default {

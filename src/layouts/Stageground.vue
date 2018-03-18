@@ -17,7 +17,7 @@
 </template>
 
 <script type="text/babel">
-    import GameMap from '../components/GameMap/GameMap.vue'
+    import GameMap from '../components/GameMap/BaseMap.vue'
     import Story from '../components/Booklet/TwoColumnLayout.vue'
     import Errantry from '../components/TurnResults/ErrantryList.vue'
 
