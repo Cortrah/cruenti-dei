@@ -1,18 +1,15 @@
 import Vue from 'vue'
 import Router from 'vue-router'
 import Home from '@/layouts/Home'
+import BaseMap from '@/components/GameMap/BaseMap'
+import PublicMap from '@/layouts/PublicMap'
+import RealmMap from '@/layouts/RealmMap'
 import Narrative from '@/layouts/Narrative'
 import Diplomacy from '@/layouts/Diplomacy'
 import Realms from '@/layouts/Realms'
 import Agents from '@/layouts/Agents'
 import Rules from '@/layouts/Rules'
 import About from '@/layouts/About'
-
-
-import BaseMap from '@/components/GameMap/BaseMap'
-
-import PublicMap from '@/layouts/PublicMap'
-import RealmMap from '@/layouts/RealmMap'
 
 Vue.use(Router);
 

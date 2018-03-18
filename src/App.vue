@@ -89,6 +89,15 @@
         padding: 0;
         margin: 0;
         background-color: #fff;
+        overflow: hidden;
+    }
+
+    #app {
+        font-family: 'OldStyle';
+        text-align: center;
+        color: #2c3e50;
+        padding: 0;
+        overflow: scroll;
     }
 
     h1 {
@@ -117,13 +126,6 @@
 
     a:active {
         color: #7a7a7a;
-    }
-
-    #app {
-        font-family: 'OldStyle';
-        text-align: center;
-        color: #2c3e50;
-        padding: 0;
     }
 
     .el-header, .el-footer {
