@@ -1,6 +1,5 @@
 import Vue from 'vue'
 import App from './App'
-import router from './router.js'
 
 import {ApolloClient} from 'apollo-client'
 import {HttpLink} from 'apollo-link-http'
@@ -9,10 +8,15 @@ import VueApollo from 'vue-apollo'
 
 import "./theme/index.css"
 import ElementUI from 'element-ui'
+import routerInstance from './router.js';
+import storeInstance from './store/store.js'
 
 Vue.use(VueApollo);
 Vue.use(ElementUI);
 Vue.config.productionTip = false;
+Vue.config.devTools = true;
+
+Vue.prototype.$bus = new Vue();
 
 const httpLink = new HttpLink({
     uri: 'http://localhost:8080/graphql',
@@ -31,7 +35,8 @@ const apolloProvider = new VueApollo({
 new Vue({
     el: '#app',
     apolloProvider,
-    router,
+    router: routerInstance,
+    store: storeInstance,
     template: '<App/>',
     components: {App}
 });

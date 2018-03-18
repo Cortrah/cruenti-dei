@@ -1,7 +1,7 @@
 {
   "name": "cruenti-dei",
   "version": "1.0.0",
-  "description": "Vue2 Webpack Version, Brining old stuff together, Started Feb 2017",
+  "description": "A Turnstyles Client for Cruenti Dei",
   "author": "Cortlandt Winters <cort@cortwinters.net>",
   "private": true,
   "scripts": {
@@ -23,7 +23,8 @@
     "graphql-tag": "^2.6.1",
     "vue": "^2.5.2",
     "vue-apollo": "^3.0.0-alpha.3",
-    "vue-router": "^2.2.0"
+    "vue-router": "^2.2.0",
+    "vuex": "^3.0.1"
   },
   "devDependencies": {
     "@storybook/vue": "^3.2.17",
