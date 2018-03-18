@@ -3,7 +3,7 @@
         <h1>
             Old Imperial
         </h1>
-        <img src="../assets/logo.png">
+        <img src="../assets/oi-logo.png">
         <p>
             And lo and behold... it arose
         </p>
@@ -17,9 +17,6 @@
             distiling with their pens an elixir that would nurture the dreams of many for decades to come.
         </p>
 
-        <p>
-            Don't escape reality, generate alternatives - with <b>Turnstyles</b>.
-        </p>
     </div>
 </template>
 

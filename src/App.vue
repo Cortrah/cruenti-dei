@@ -12,14 +12,14 @@
                     OLD-IMPERIAL
                 </el-menu-item>
 
-                <el-submenu v-if="$route.name === 'GameMap'" index="2">
+                <el-submenu v-if="$route.name === 'BaseMap'" index="2">
                     <template slot="title">Map</template>
                     <el-menu-item index="2-1">Sahul</el-menu-item>
                     <el-menu-item index="2-2">The Underlands</el-menu-item>
                     <el-menu-item index="2-3">Oratoa</el-menu-item>
                     <el-menu-item index="2-4">Effan</el-menu-item>
                 </el-submenu>
-                <el-submenu v-if="$route.name === 'GameMap'"  index="3">
+                <el-submenu v-if="$route.name === 'BaseMap'"  index="3">
                     <template slot="title">Turn 23: 1445-1449</template>
                     <el-menu-item index="3-1">1445</el-menu-item>
                     <el-menu-item index="3-2">1446</el-menu-item>
@@ -36,10 +36,16 @@
         </el-main>
         <el-footer>
             <router-link to="/">Home</router-link>
-            <router-link to="/GameMap">Map</router-link>
+            <router-link to="/BaseMap">BaseMap</router-link>
             <router-link to="/PublicMap">PublicMap</router-link>
             <router-link to="/RealmMap">RealmMap</router-link>
             <router-link to="/DeiMap">DeiMap</router-link>
+            <router-link to="/Narrative">Narrative</router-link>
+            <router-link to="/Diplomacy">Diplomacy</router-link>
+            <router-link to="/Realms">Realms</router-link>
+            <router-link to="/Agents">Agents</router-link>
+            <router-link to="/Rules">Rules</router-link>
+            <router-link to="/About">About</router-link>
         </el-footer>
     </el-container>
 
@@ -47,13 +53,19 @@
 
 <script>
     import Home from './layouts/Home.vue'
-    import GameMap from './components/GameMap/BaseMap.vue'
+    import BaseMap from './components/GameMap/BaseMap.vue'
     import Bordertypes from './components/GameMap/Bordertypes.vue'
+    import Narrative from './layouts/Narrative.vue'
+    import Diplomacy from './layouts/Diplomacy.vue'
+    import Realms from './layouts/Realms.vue'
+    import Agents from './layouts/Agents.vue'
+    import Rules from './layouts/Rules.vue'
+    import About from './layouts/About.vue'
 
     export default {
         name: 'app',
         components: {
-            Home, GameMap, Bordertypes
+            Home, BaseMap, Bordertypes, Narrative, Diplomacy, Realms, Agents, Rules, About
         },
         data () {
             return {
