@@ -4,7 +4,6 @@
       <h2>First column</h2>
       <OpeningParagraph></OpeningParagraph>
       <p>Nam vulputate diam nec tempor bibendum. Donec luctus augue eget malesuada ultrices. Phasellus turpis est, posuere sit amet dapibus ut, facilisis sed est. Nam id risus quis ante semper consectetur eget aliquam lorem. Vivamus tristique elit dolor, sed pretium metus suscipit vel. Mauris ultricies lectus sed lobortis finibus. Vivamus eu urna eget velit cursus viverra quis vestibulum sem. Aliquam tincidunt eget purus in interdum. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
-
     </div>
 
     <div>
@@ -48,6 +47,7 @@
 
   .two-cols {
     font-family: Oldstyle;
+    background-color:white;
   }
 
   div:nth-of-type(1) {

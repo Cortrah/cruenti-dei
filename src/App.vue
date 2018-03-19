@@ -30,9 +30,7 @@
             </el-menu>
         </el-header>
         <el-main>
-            <div id="app">
-                <router-view/>
-            </div>
+            <router-view/>
         </el-main>
         <el-footer>
             <router-link to="/">Home</router-link>
@@ -63,7 +61,7 @@
     import About from './layouts/About.vue'
 
     export default {
-        name: 'app',
+        name: 'App',
         components: {
             Home, BaseMap, Bordertypes, Narrative, Diplomacy, Realms, Agents, Rules, About
         },
@@ -92,13 +90,14 @@
         overflow: hidden;
     }
 
-    #app {
+    .el-main {
         font-family: 'OldStyle';
-        text-align: center;
+        text-align: left;
         color: #2c3e50;
-        padding: 0;
-        overflow: scroll;
+        margin: 0;
+        padding: 0 !important;
     }
+
 
     h1 {
         font-family: Max;
@@ -146,14 +145,6 @@
         max-width: 820px;
     }
 
-    .el-main {
-        background-color: #fff;
-        color: #333;
-        height: 1200px;
-        overflow: visible;
-        margin: 0;
-        padding: 0 !important;
-    }
 
     .game-map-col {
         background-color: #336699;
@@ -161,6 +152,7 @@
         overflow: scroll;
         margin: 0;
         padding: 0;
+        height:2800px;
     }
 
     .content-col {

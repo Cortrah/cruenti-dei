@@ -25,3 +25,9 @@
         name: 'Home',
     }
 </script>
+
+<style>
+    .home{
+        text-align: center
+    }
+</style>

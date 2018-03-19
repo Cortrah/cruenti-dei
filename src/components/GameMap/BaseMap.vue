@@ -1,5 +1,5 @@
 <template>
-  <div class="pane" v-bind:style="{'max-height':paneMaxHeight}">
+  <div class="BaseMap">
       <div id="toolbar">
           <el-button-group style="width:280px; float:left">
               <el-button type="primary" icon="el-icon-picture" size="mini"></el-button>
@@ -15,35 +15,41 @@
               </el-slider>
           </div>
       </div>
-      <div id="mapGround">
-          <img src="./Sahul20_22.svg" v-bind:class="classObject"></img>
+      <div id="mapGround" style="height:400px; width:100%; overflow:scroll">
+          <img src="./Sahul20_22.svg" :style="{ width: mapWidth + '%', height: mapHeight + '%' }"></img>
       </div>
+      <two-column-layout></two-column-layout>
   </div>
 </template>
 
 <script>
+    import TwoColumnLayout from '../Booklet/TwoColumnLayout'
 
     export default {
         name: "BaseMap",
         components: {
+            TwoColumnLayout
         },
         data() {
             return {
                 zoom: 40,
-                classObject: {
-                    height: this.zoom * 100 + "%",
-                    width: this.zoom * 100 + "%",
-                }
             }
         },
         computed: {
-            paneMaxHeight: function () {
-                return (window.innerHeight - 180) + "px";
+            mapHeight: function () {
+                return this.zoom * 10;
+            },
+            mapWidth: function () {
+                return this.zoom * 10;
             },
         },
         methods: {
             zoomChanged: function (event) {
-                this.zoom = event;
+                if(event > 5){
+                    this.zoom = event;
+                } else {
+                    this.zoom = 5;
+                }
             },
         },
     }
@@ -51,15 +57,28 @@
 
 <style scoped>
 
-  #toolbar {
-      padding: 5px;
-      height: 30px;
-      width: 100%;
-      background-color: #aaa;
+  .BaseMap {
+      text-align: left;
+      background-color: #333333;
   }
 
-  .pane {
-    overflow: visible;
+  #toolbar {
+      height: 30px;
+      top: 60px;
+      width: 100%;
+      color: #999999;
+      background-image: url("../../assets/transparent_grey.png");
+      padding: 5px;
+      position: fixed;
+      z-index: 600;
+
+      -moz-box-shadow: 6px 6px 8px #666;
+      -webkit-box-shadow: 6px 6px 8px #666;
+      box-shadow: 6px 6px 8px #666;
+      /* For IE 8 */
+      -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=8, Direction=180, Color='#666666')";
+      /* For IE 5.5 - 7 */
+      filter: progid:DXImageTransform.Microsoft.Shadow(Strength=8, Direction=180, Color='#666666');
   }
 
 </style>
