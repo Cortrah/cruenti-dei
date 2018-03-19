@@ -35,9 +35,8 @@
         <el-footer>
             <router-link to="/">Home</router-link>
             <router-link to="/BaseMap">BaseMap</router-link>
-            <router-link to="/PublicMap">PublicMap</router-link>
-            <router-link to="/RealmMap">RealmMap</router-link>
-            <router-link to="/DeiMap">DeiMap</router-link>
+            <router-link to="/PublicGameData">PublicGameData</router-link>
+            <router-link to="/BorderTypeData">BorderTypeData</router-link>
             <router-link to="/Narrative">Narrative</router-link>
             <router-link to="/Diplomacy">Diplomacy</router-link>
             <router-link to="/Realms">Realms</router-link>
@@ -52,7 +51,8 @@
 <script>
     import Home from './layouts/Home.vue'
     import BaseMap from './components/GameMap/BaseMap.vue'
-    import Bordertypes from './components/GameMap/Bordertypes.vue'
+    import PublicGameData from './layouts/PublicGameData.vue'
+    import BorderTypeData from './layouts/BorderTypeData.vue'
     import Narrative from './layouts/Narrative.vue'
     import Diplomacy from './layouts/Diplomacy.vue'
     import Realms from './layouts/Realms.vue'
@@ -63,7 +63,7 @@
     export default {
         name: 'App',
         components: {
-            Home, BaseMap, Bordertypes, Narrative, Diplomacy, Realms, Agents, Rules, About
+            Home, BaseMap, PublicGameData, BorderTypeData, Narrative, Diplomacy, Realms, Agents, Rules, About
         },
         data () {
             return {

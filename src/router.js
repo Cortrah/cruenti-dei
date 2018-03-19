@@ -2,8 +2,9 @@ import Vue from 'vue'
 import Router from 'vue-router'
 import Home from '@/layouts/Home'
 import BaseMap from '@/components/GameMap/BaseMap'
-import PublicMap from '@/layouts/PublicMap'
-import RealmMap from '@/layouts/RealmMap'
+import SahulMap from '@/components/GameMap/SahulMap'
+import PublicGameData from '@/layouts/PublicGameData'
+import BorderTypeData from '@/layouts/BorderTypeData'
 import Narrative from '@/layouts/Narrative'
 import Diplomacy from '@/layouts/Diplomacy'
 import Realms from '@/layouts/Realms'
@@ -24,13 +25,17 @@ export default new Router({
           name: 'BaseMap',
           component: BaseMap
       }, {
-          path: '/PublicMap',
-          name: 'PublicMap',
-          component: PublicMap
+          path: '/PublicGameData',
+          name: 'PublicGameData',
+          component: PublicGameData
       }, {
-          path: '/RealmMap',
-          name: 'RealmMap',
-          component: RealmMap
+          path: '/BorderTypeData',
+          name: 'BorderTypeData',
+          component: BorderTypeData
+      }, {
+          path: '/SahulMap',
+          name: 'SahulMap',
+          component: SahulMap
       }, {
           path: '/Narrative',
           name: 'Narrative',
