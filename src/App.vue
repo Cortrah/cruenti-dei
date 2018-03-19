@@ -87,12 +87,11 @@
         padding: 0;
         margin: 0;
         background-color: #fff;
-        overflow: hidden;
     }
 
     .el-main {
         font-family: 'OldStyle';
-        text-align: left;
+        text-align: center;
         color: #2c3e50;
         margin: 0;
         padding: 0 !important;
@@ -130,12 +129,14 @@
     .el-header, .el-footer {
         background-color: #000;
         color: white;
+        width: 100%;
+        position: fixed;
     }
 
     .el-footer {
         height: 60px;
         width: 100%;
-        position: absolute;
+        position: fixed;
         bottom: 0px;
     }
 

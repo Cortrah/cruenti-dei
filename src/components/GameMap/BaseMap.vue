@@ -1,5 +1,6 @@
 <template>
   <div class="BaseMap">
+      <img src="./Sahul20_22.svg" :style="{ width: mapWidth + '%', height: mapHeight + '%' }"></img>
       <div id="toolbar">
           <el-button-group style="width:280px; float:left">
               <el-button type="primary" icon="el-icon-picture" size="mini"></el-button>
@@ -15,10 +16,7 @@
               </el-slider>
           </div>
       </div>
-      <div id="mapGround" style="height:400px; width:100%; overflow:scroll">
-          <img src="./Sahul20_22.svg" :style="{ width: mapWidth + '%', height: mapHeight + '%' }"></img>
-      </div>
-      <two-column-layout></two-column-layout>
+
   </div>
 </template>
 
