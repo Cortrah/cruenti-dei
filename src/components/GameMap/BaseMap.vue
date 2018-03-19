@@ -10,13 +10,13 @@
               <el-button type="primary" icon="el-icon-edit" size="mini"></el-button>
           </el-button-group>
           <div class="block">
-              <el-slider v-model="zoom"
+              <el-slider v-model="zoom" v-on:change="zoomChanged"
                          style="width:300px; float:right; padding-right:15px">
               </el-slider>
           </div>
       </div>
       <div id="mapGround">
-          <img src="./Sahul20_22.svg" height="100%" width="100%"></img>
+          <img src="./Sahul20_22.svg" v-bind:class="classObject"></img>
       </div>
   </div>
 </template>
@@ -27,9 +27,13 @@
         name: "BaseMap",
         components: {
         },
-        data(){
+        data() {
             return {
-                zoom:30,
+                zoom: 40,
+                classObject: {
+                    height: this.zoom * 100 + "%",
+                    width: this.zoom * 100 + "%",
+                }
             }
         },
         computed: {
@@ -38,10 +42,10 @@
             },
         },
         methods: {
-            formatTooltip(val) {
-                return val / 100;
-            }
-        }
+            zoomChanged: function (event) {
+                this.zoom = event;
+            },
+        },
     }
 </script>
 
