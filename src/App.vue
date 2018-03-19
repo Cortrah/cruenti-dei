@@ -127,6 +127,11 @@
         padding: 0 !important;
     }
 
+    .main-page {
+        text-align: left;
+        padding: 20px;
+    }
+
     .el-header, .el-footer {
         background-color: #000;
         color: white;

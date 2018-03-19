@@ -44,10 +44,10 @@
         },
         methods: {
             zoomChanged: function (event) {
-                if(event > 5){
+                if(event > 10){
                     this.zoom = event;
                 } else {
-                    this.zoom = 5;
+                    this.zoom = 10;
                 }
             },
         },

@@ -1,5 +1,5 @@
 <template>
-  <div class="pane">
+  <div class="main-page">
     <h1>Games</h1>
     <div v-for="game of gameList">
       <div>{{ game.name }}</div>
@@ -31,7 +31,7 @@
 <script>
     import gql from 'graphql-tag'
 
-    const PUBLIC_MAP_QUERY = gql`
+    const PUBLIC_GAME_QUERY = gql`
         query($gameNum:Int!){
           gameList(offset:$gameNum) {
             id,
@@ -85,7 +85,7 @@
         },
         apollo: {
             gameList: {
-                query: PUBLIC_MAP_QUERY,
+                query: PUBLIC_GAME_QUERY,
                 variables: {
                     gameNum: 1,
                     turnId: 1,

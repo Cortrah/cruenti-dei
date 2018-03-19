@@ -1,5 +1,5 @@
 <template>
-  <div class="pane">
+  <div class="main-page">
     <div v-for="borderType of borderTypeList">
       <div>{{ borderType.name }}</div>
     </div>
@@ -28,46 +28,6 @@
             borderTypeList: BORDER_TYPES_QUERY,
         },
     }
-
-    /*
------------------------------
-getPublicData(game, turn)
------------------------------
-Game
-    turns
-    currentTurn
-
-Turn(public)
-    narratives
-    majorMaps
-        regions
-            name, code, label, description
-            realm, allegiance
-            gp, ap, nfp, mana,
-            terrain, kindred, religion
-            features, constructs, locations
-            hasRoad, bordersVolcano, isInimical
-    realms
-        isi, tv, type, religion, homeMajorMap, homeRegion, capitalLocation,
-        mana, gp, ap, ...
-        qrs
-        tradeAgreements
-        militaryAgreements
-
-----------------------------------
-getRealmData(game, turn, realm)
-----------------------------------
-Realm
-    leaderActions
-    realmActions
-    narratives
-    regions
-        pwb, tv
-        items
-        units
-    hiddenThings of many types
-
-*/
 
 </script>
 
