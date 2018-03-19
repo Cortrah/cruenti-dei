@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div >
         <h1>
             Realms
         </h1>

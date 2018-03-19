@@ -1,6 +1,7 @@
 <template>
   <div class="BaseMap">
-      <img src="./Sahul20_22.svg" :style="{ width: mapWidth + '%', height: mapHeight + '%' }"></img>
+      <img id="map" src="./Sahul20_22.svg" :style="{ width: mapWidth + '%', height: mapHeight + '%' }"></img>
+
       <div id="toolbar">
           <el-button-group style="width:280px; float:left">
               <el-button type="primary" icon="el-icon-picture" size="mini"></el-button>
@@ -58,6 +59,10 @@
   .BaseMap {
       text-align: left;
       background-color: #333333;
+  }
+
+  #map {
+      z-index: 500;
   }
 
   #toolbar {

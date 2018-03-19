@@ -28,6 +28,8 @@
 
 <style>
     .home{
-        text-align: center
+        text-align: center;
+        top: 60px;
+        position: relative;
     }
 </style>

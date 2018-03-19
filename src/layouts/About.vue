@@ -1,5 +1,5 @@
 <template>
-    <div class="about">
+    <div class="base">
         <h1>
             Turnstyles
         </h1>
@@ -17,9 +17,3 @@
         }
     }
 </script>
-
-<style>
-    .about{
-        text-align: center
-    }
-</style>

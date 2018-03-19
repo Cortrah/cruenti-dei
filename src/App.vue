@@ -89,15 +89,6 @@
         background-color: #fff;
     }
 
-    .el-main {
-        font-family: 'OldStyle';
-        text-align: center;
-        color: #2c3e50;
-        margin: 0;
-        padding: 0 !important;
-    }
-
-
     h1 {
         font-family: Max;
         font-size: 3em;
@@ -126,11 +117,22 @@
         color: #7a7a7a;
     }
 
+    .el-main {
+        font-family: 'OldStyle';
+        text-align: center;
+        color: #2c3e50;
+        top: 60px;
+        position: relative;
+        margin: 0;
+        padding: 0 !important;
+    }
+
     .el-header, .el-footer {
         background-color: #000;
         color: white;
         width: 100%;
         position: fixed;
+        z-index:800;
     }
 
     .el-footer {
@@ -138,6 +140,7 @@
         width: 100%;
         position: fixed;
         bottom: 0px;
+        z-index:801;
     }
 
     .el-aside {
