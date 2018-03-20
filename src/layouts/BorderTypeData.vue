@@ -1,20 +1,35 @@
 <template>
-  <div class="main-page">
-    <div v-for="borderType of borderTypeList">
-      <div>
-        <span>{{ borderType.name }}</span> :
-        <span>{{ borderType.code }}</span> -
-        <span v-if="borderType.landCost != null"><i>land:</i>{{ borderType.landCost }}</span>
-        <span v-if="borderType.navalCost != null"><i>naval:</i>{{ borderType.navalCost }}</span>
-        <span v-if="borderType.landCost != null"><i>air:</i>{{ borderType.airCost }}</span>
-        <span v-if="borderType.manaCost != null"><i>mana:</i>{{ borderType.manaCost }}</span>
-      </div>
+    <div class="main-page">
+        <div v-for="borderType of borderTypeList">
+            <div>
+                <span>{{ borderType.code }}</span>
+                <span>{{ borderType.name }}</span>
+                <div>{{ borderType.description }}</div>
+                <span v-if="borderType.landCost != null">
+                    <i>land:</i>{{ borderType.landCost }}
+                </span>
+                <span v-if="borderType.navalCost != null">
+                    <i>naval:</i>
+                    {{ borderType.navalCost }}
+                </span>
+                <span v-if="borderType.landCost != null">
+                    <i>air:</i>
+                    {{ borderType.airCost }}
+                </span>
+                <span v-if="borderType.manaCost != null">
+                    <i>mana:</i>
+                    {{ borderType.manaCost }}
+                </span>
+            </div>
+            <hr>
+        </div>
+        <div v-for="regionBorder of regionBordersList">
+            <div>{{ regionBorder.name }}
+                <i>isDirectional:</i>
+                {{ regionBorder.borderType.isDirectional}}
+            </div>
+        </div>
     </div>
-    <hr>
-    <div v-for="regionBorder of regionBordersList">
-      <div>{{ regionBorder.name }} <i>isDirectional:</i>{{ regionBorder.borderType.isDirectional}} </div>
-    </div>
-  </div>
 </template>
 
 <script>
