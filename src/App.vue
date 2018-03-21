@@ -35,6 +35,7 @@
         <el-footer>
             <router-link to="/">Home</router-link>
             <router-link to="/BaseMap">BaseMap</router-link>
+            <router-link to="/SplitMap">SplitMap</router-link>
             <router-link to="/PublicGameData">PublicGameData</router-link>
             <router-link to="/BorderTypeData">BorderTypeData</router-link>
             <router-link to="/Narrative">Narrative</router-link>
@@ -51,6 +52,7 @@
 <script>
     import Home from './layouts/Home.vue'
     import BaseMap from './components/GameMap/BaseMap.vue'
+    import SplitMap from './layouts/SplitMap.vue'
     import PublicGameData from './layouts/PublicGameData.vue'
     import BorderTypeData from './layouts/BorderTypeData.vue'
     import Narrative from './layouts/Narrative.vue'
@@ -63,7 +65,7 @@
     export default {
         name: 'App',
         components: {
-            Home, BaseMap, PublicGameData, BorderTypeData, Narrative, Diplomacy, Realms, Agents, Rules, About
+            Home, BaseMap, SplitMap, PublicGameData, BorderTypeData, Narrative, Diplomacy, Realms, Agents, Rules, About
         },
         data () {
             return {
