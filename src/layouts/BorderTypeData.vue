@@ -1,34 +1,45 @@
 <template>
     <div class="main-page">
-        <div v-for="borderType of borderTypeList">
-            <div>
-                <span>{{ borderType.code }}</span>
-                <span>{{ borderType.name }}</span>
-                <div>{{ borderType.description }}</div>
-                <span v-if="borderType.landCost != null">
-                    <i>land:</i>{{ borderType.landCost }}
-                </span>
-                <span v-if="borderType.navalCost != null">
-                    <i>naval:</i>
-                    {{ borderType.navalCost }}
-                </span>
-                <span v-if="borderType.landCost != null">
-                    <i>air:</i>
-                    {{ borderType.airCost }}
-                </span>
-                <span v-if="borderType.manaCost != null">
-                    <i>mana:</i>
-                    {{ borderType.manaCost }}
-                </span>
-            </div>
-            <hr>
-        </div>
-        <div v-for="regionBorder of regionBordersList">
-            <div>{{ regionBorder.name }}
-                <i>isDirectional:</i>
-                {{ regionBorder.borderType.isDirectional}}
-            </div>
-        </div>
+        <el-table
+            :data="borderTypeList"
+            style="width: 100%"
+            height="800">
+            <el-table-column
+                prop="code"
+                label="Code"
+                width="150">
+            </el-table-column>
+            <el-table-column
+                prop="name"
+                label="Name"
+                width="120">
+            </el-table-column>
+            <el-table-column
+                prop="description"
+                label="Description"
+                width="120">
+            </el-table-column>
+            <el-table-column
+                prop="landCost"
+                label="Land"
+                width="120">
+            </el-table-column>
+            <el-table-column
+                prop="navalCost"
+                label="Naval"
+                width="120">
+            </el-table-column>
+            <el-table-column
+                prop="airCost"
+                label="Air"
+                width="120">
+            </el-table-column>
+            <el-table-column
+                prop="manaCost"
+                label="Mana"
+                width="120">
+            </el-table-column>
+        </el-table>
     </div>
 </template>
 
