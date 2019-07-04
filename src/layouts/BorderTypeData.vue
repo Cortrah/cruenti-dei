@@ -3,7 +3,7 @@
         <el-table
             :data="borderTypeList"
             style="width: 100%"
-            height="800">
+            max-height="800">
             <el-table-column
                 prop="code"
                 label="Code"
@@ -37,6 +37,11 @@
             <el-table-column
                 prop="manaCost"
                 label="Mana"
+                width="120">
+            </el-table-column>
+            <el-table-column
+                prop="isDirectional"
+                label="Is Directional"
                 width="120">
             </el-table-column>
         </el-table>

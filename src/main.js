@@ -9,7 +9,7 @@ import VueApollo from 'vue-apollo'
 import "./theme/index.css"
 import ElementUI from 'element-ui'
 import routerInstance from './router.js';
-import storeInstance from './store/store.js'
+import storeInstance from './store.js'
 
 Vue.use(VueApollo);
 Vue.use(ElementUI);

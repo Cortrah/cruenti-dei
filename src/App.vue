@@ -44,6 +44,7 @@
             <router-link to="/Agents">Agents</router-link>
             <router-link to="/Rules">Rules</router-link>
             <router-link to="/About">About</router-link>
+            <button @click="notify()">note</button>
         </el-footer>
     </el-container>
 
@@ -78,6 +79,15 @@
         methods: {
             handleSelect(key, keyPath) {
                 console.log(key, keyPath);
+            },
+
+            notify(){
+                this.$notify({
+                    title: 'Custom Position',
+                    message: 'I\'m at the bottom right corner',
+                    position: 'bottom-right'
+                });
+
             }
         }
     }

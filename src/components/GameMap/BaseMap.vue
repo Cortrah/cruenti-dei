@@ -1,6 +1,5 @@
 <template>
   <div class="BaseMap">
-      <img id="map" src="./Sahul20_22.svg" :style="{ width: mapWidth + '%', height: mapHeight + '%' }"></img>
 
       <div id="toolbar">
           <el-button-group style="width:280px; float:left">
@@ -17,6 +16,8 @@
               </el-slider>
           </div>
       </div>
+
+      <img id="map" src="./Sahul20_22.svg" :style="{ width: mapWidth + '%', height: mapHeight + '%' }"></img>
 
   </div>
 </template>
